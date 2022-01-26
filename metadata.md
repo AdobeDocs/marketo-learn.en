@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Marketo
+solution: Marketo Engage
 product: marketo
 type: Tutorial
 feature-set: Marketo Engage
