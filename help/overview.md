@@ -1,5 +1,5 @@
 ---
-title: Marketoo Tutorials Overview
+title: Marketo Tutorials Overview
 description: Overview page for Adobe Marketo tutorials and learning content.
 ---
 
