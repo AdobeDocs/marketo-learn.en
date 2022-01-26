@@ -6,7 +6,6 @@ type: Tutorial
 feature-set: Marketo Engage
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-learn.en
-index: no
 hide: yes
 ---
 
