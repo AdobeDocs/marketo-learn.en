@@ -9,6 +9,7 @@ breadcrumb-title: Marketo Tutorials
 + [Overview](overview.md)
 + Bob's section {#section-1}
   + [Sample article](sample-article.md)
+  + [Sample 2](sample-article-2.md)
 
 <!--
 
