@@ -1,8 +1,8 @@
 ---
-title: Title goes here
+title: Sample
 description: Description goes here.
 ---
-# Title goes here
+# Sample article
 
 Description goes here.
 
