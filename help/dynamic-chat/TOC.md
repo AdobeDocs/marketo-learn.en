@@ -7,7 +7,7 @@ breadcrumb-title: Dynamic Chat
 # Dynamic Chat {#tutorials}
 
 + [Overview](overview.md)
-+ [Product tour](tutorials/dialogue-management.md)
++ [Product tour](tutorials/product-tour.md)
 + [Setup and install](tutorials/setup.md)
 + [Marketo integration](tutorials/marketo-integration.md)
 + [User management](tutorials/user-management.md)

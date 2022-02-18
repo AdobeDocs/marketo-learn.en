@@ -1,8 +1,6 @@
 ---
 title: Setup and install your chatbot
 description: Covers how to setup and configure Dynamic Chat for first use.
-feature: 
-topic: 
 role: User
 level: Beginner
 kt: 9693

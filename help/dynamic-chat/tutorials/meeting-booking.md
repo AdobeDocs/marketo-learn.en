@@ -1,8 +1,6 @@
 ---
 title: Enable your leads book meetings with your sales
 description: Accelerate connect with sales for those leads from target accounts through chat conversations.
-feature: 
-topic: 
 role: User
 level: Beginner
 kt: 9696

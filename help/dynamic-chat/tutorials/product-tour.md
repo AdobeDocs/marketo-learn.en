@@ -1,8 +1,6 @@
 ---
 title: Product tour
 description: Dynamic Chat is a new chatbot solution built for marketing and sales.
-feature: 
-topic: 
 role: User
 level: Beginner
 kt: 9697

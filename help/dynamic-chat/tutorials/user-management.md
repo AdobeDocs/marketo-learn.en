@@ -1,8 +1,6 @@
 ---
 title: Add and manage users of Dynamic chat
 description: A quick tutorial helping Dynamic chat admins to manage user access from admin console
-feature: 
-topic: 
 role: User
 level: Beginner
 kt: 9686
