@@ -15,6 +15,6 @@ Manage your users of Dynamic chat through Adobe Admin Console.
 
 ## More helpful videos
 
-- [Create and manage personalized dialogues](tutorials/dialogue-management.md)
-- [Activate your Marketo Integration with Dynamic Chat](tutorials/marketo-integration.md)
-- [Enable your leads to book meetings with your sales](tutorials/meeting-booking.md)
+- [Create and manage personalized dialogues](dialogue-management.md)
+- [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
+- [Enable your leads to book meetings with your sales](meeting-booking.md)
