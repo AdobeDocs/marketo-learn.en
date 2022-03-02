@@ -1,15 +1,10 @@
 ---
-title: Dynamic Chat Overview
-description: Welcome to the Dynamic Chat Tutorials Site. Using these tutorials along with the documentation will give you a better understanding of how to use Dynamic Chat to create personalized conversations.
+title: Marketo Engage Tutorials Overview
+description: Welcome to the Marketo Engage Tutorials site. Using these tutorials along with the documentation will give you a better understanding of how to use marketing automation features.
 ---
 
-# Dynamic Chat Overview
+# Marketo Engage Tutorials Overview
 
-Welcome to the Dynamic Chat Tutorials Site. Using these tutorials along with the documentation will give you a better understanding of how to use Dynamic Chat to create personalized conversations. To get started,
+Welcome to the Marketo Engage Tutorials site. Using these tutorials along with the documentation will give you a better understanding of how to use marketing automation features.
 
-- [A quick product tour](tutorials/product-tour.md)
-- [Setup and install your chatbot](tutorials/setup.md)
-- [Activate your Marketo Integration with Dynamic Chat](tutorials/marketo-integration.md)
-- [Add and manage users of Dynamic Chat](tutorials/user-management.md)
-- [Create and manage personalized dialogues](tutorials/dialogue-management.md)
-- [Enable your leads to book meetings with your sales](tutorials/meeting-booking.md)
+- [Dynamic chat overview](dynamic-chat/dynamic-chat-overview.md)

@@ -1,16 +1,17 @@
 ---
-user-guide-title: Marketo Tutorials
-user-guide-description: A collection of videos and tutorials for Adobe Marketo.
-breadcrumb-title: Marketo
+user-guide-title: Marketo Engage Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Marketo Engage.
+breadcrumb-title: Marketo Tutorials
 ---
 
-# Marketo Tutorials {#tutorials}
+# Marketo Engage Tutorials {#tutorials}
 
-+ [Overview](overview.md)
++ [Tutorials Overview](overview.md)
 + Dynamic chat {#dynamic-chat}
-  + [Product tour](tutorials/product-tour.md)
-  + [Setup and install](tutorials/setup.md)
-  + [Marketo integration](tutorials/marketo-integration.md)
-  + [User management](tutorials/user-management.md)
-  + [Dialogue management](tutorials/dialogue-management.md)
-  + [Meeting bookings](tutorials/meeting-booking.md)
+  + [Dynamic chat overview](dynamic-chat/dynamic-chat-overview.md)
+  + [Product tour](dynamic-chat/product-tour.md)
+  + [Setup and install](dynamic-chat/setup.md)
+  + [Marketo integration](dynamic-chat/marketo-integration.md)
+  + [User management](dynamic-chat/user-management.md)
+  + [Dialogue management](dynamic-chat/dialogue-management.md)
+  + [Meeting bookings](dynamic-chat/meeting-booking.md)
