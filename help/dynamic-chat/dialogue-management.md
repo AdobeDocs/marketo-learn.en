@@ -15,6 +15,6 @@ Designing conversations that are targeted and personalized is the key to create 
 
 ## More helpful videos
 
-* [Add and manage users of Dynamic Chat](dynamic-chat/user-management.md)
-* [Activate your Marketo Integration with Dynamic Chat](dynamic-chat/marketo-integration.md)
-* [Enable your leads to book meetings with your sales](dynamic-chat/meeting-booking.md)
+* [Add and manage users of Dynamic Chat](user-management.md)
+* [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
+* [Enable your leads to book meetings with your sales](meeting-booking.md)

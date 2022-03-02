@@ -15,5 +15,5 @@ Dynamic chat is natively integrated into Marketo, which enables you to use conte
 
 ## More helpful videos
 
-* [Create and manage personalized dialogues](dynamic-chat/dialogue-management.md)
-* [Add and manage users of Dynamic Chat](dynamic-chat/user-management)
+* [Create and manage personalized dialogues](dialogue-management.md)
+* [Add and manage users of Dynamic Chat](user-management)

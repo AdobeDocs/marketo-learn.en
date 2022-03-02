@@ -15,5 +15,5 @@ Accelerate connect with sales for those leads from target accounts through chat 
 
 ## More helpful videos
 
-* [Create and manage personalized dialogues](dynamic-chat/dialogue-management.md)
-* [Activate your Marketo Integration with Dynamic Chat](dynamic-chat/marketo-integration.md)
+* [Create and manage personalized dialogues](dialogue-management.md)
+* [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
