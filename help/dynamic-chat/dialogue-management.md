@@ -1,6 +1,6 @@
 ---
 title: Create and manage personalized dialogues
-description: Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Know how to create and manage a dialogue.
+description: Learn about creating and managing personalized dialogues. Designing conversations that are targeted and personalized is the key to creating a great conversational experience for every web visitor.
 role: User
 level: Beginner
 kt: 9698
@@ -9,12 +9,12 @@ thumbnail: 340259.jpeg
 
 # Create and manage personalized dialogues
 
-Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Know how to create and manage a dialogue.
+Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Learn how to create and manage a dialogue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on)
 
 ## More helpful videos
 
-- [Add and manage users of Dynamic Chat](user-management.md)
-- [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
-- [Enable your leads to book meetings with your sales](meeting-booking.md)
+* [Add and manage users of Dynamic Chat](user-management.md)
+* [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
+* [Enable your leads to book meetings with your sales](meeting-booking.md)

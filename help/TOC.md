@@ -8,7 +8,7 @@ breadcrumb-title: Marketo Tutorials
 
 + [Tutorials Overview](overview.md)
 + Dynamic chat {#dynamic-chat}
-  + [Dynamic chat overview](dynamic-chat/dynamic-chat-overview.md)
+  + [Dynamic chat tutorials](dynamic-chat/dynamic-chat-overview.md)
   + [Product tour](dynamic-chat/product-tour.md)
   + [Setup and install](dynamic-chat/setup.md)
   + [Marketo integration](dynamic-chat/marketo-integration.md)
