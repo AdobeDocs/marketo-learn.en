@@ -1,15 +1,15 @@
 ---
-title: Dynamic Chat Overview
-description: Welcome to the Dynamic Chat Tutorials Site. Using these tutorials along with the documentation will give you a better understanding of how to use Dynamic Chat to create personalized conversations.
+title: Dynamic Chat tutorials
+description: Learn about Dynamic Chat on Adobe Experience League. Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations.
 ---
 
-# Dynamic Chat Overview
+# Dynamic Chat tutorials
 
-Welcome to the Dynamic Chat Tutorials Site. Using these tutorials along with the documentation will give you a better understanding of how to use Dynamic Chat to create personalized conversations. To get started,
+Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations. The following topics can help you get started:
 
-- [A quick product tour](product-tour.md)
-- [Setup and install your chatbot](setup.md)
-- [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
-- [Add and manage users of Dynamic Chat](user-management.md)
-- [Create and manage personalized dialogues](dialogue-management.md)
-- [Enable your leads to book meetings with your sales](meeting-booking.md)
+* [A quick product tour](tutorials/product-tour.md)
+* [Setup and install your chatbot](tutorials/setup.md)
+* [Activate your Marketo Integration with Dynamic Chat](tutorials/marketo-integration.md)
+* [Add and manage users of Dynamic Chat](tutorials/user-management.md)
+* [Create and manage personalized dialogues](tutorials/dialogue-management.md)
+* [Enable your leads to book meetings with your sales](tutorials/meeting-booking.md)
