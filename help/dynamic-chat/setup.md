@@ -16,5 +16,5 @@ A guide to help you install chatbot JavaScript onto your website or landing page
 ## More helpful videos
 
 * [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
-* [Create and manage personalized dialogues](dialogue-management.md)
+* [Create and manage personalized Dialogues](dialogue-management.md)
 * [Add and manage users of Dynamic Chat](user-management.md)

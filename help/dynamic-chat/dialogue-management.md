@@ -7,9 +7,9 @@ kt: 9698
 thumbnail: 340259.jpeg
 ---
 
-# Create and manage personalized dialogues
+# Create and manage personalized Dialogues
 
-Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Learn how to create and manage a dialogue.
+Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Learn how to create and manage a Dialogue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on)
 

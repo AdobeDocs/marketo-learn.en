@@ -11,5 +11,5 @@ Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the d
 * [Setup and install your chatbot](setup.md)
 * [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
 * [Add and manage users of Dynamic Chat](user-management.md)
-* [Create and manage personalized dialogues](dialogue-management.md)
+* [Create and manage personalized Dialogues](dialogue-management.md)
 * [Enable your leads to book meetings with your sales](meeting-booking.md)

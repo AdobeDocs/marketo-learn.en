@@ -1,5 +1,5 @@
 ---
-title: Add and manage users of Dynamic chat
+title: Add and manage users of Dynamic Chat
 description: Learn how to use Adobe Admin Console to manage Dynamic Chat user access.
 role: User
 level: Beginner
@@ -7,7 +7,7 @@ kt: 9686
 thumbnail: 340249.jpeg
 ---
 
-# Add and manage users of Dynamic chat
+# Add and manage users of Dynamic Chat
 
 Manage your Dynamic Chat users through Adobe Admin Console.
 
@@ -15,6 +15,6 @@ Manage your Dynamic Chat users through Adobe Admin Console.
 
 ## More helpful videos
 
-* [Create and manage personalized dialogues](dialogue-management.md)
+* [Create and manage personalized Dialogues](dialogue-management.md)
 * [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
 * [Enable your leads to book meetings with your sales](meeting-booking.md)
