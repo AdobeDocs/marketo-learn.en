@@ -1,15 +1,15 @@
 ---
-title: Enable your leads to book meetings with your sales
-description: Accelerate connect with sales for those leads from target accounts through chat conversations.
+title: Enable people to book meetings with your sales team
+description: Use Dynamic Chat to accelerate the connection with sales for target account leads.
 role: User
 level: Beginner
 kt: 9696
 thumbnail: 340258.jpeg
 ---
 
-# Enable your leads to book meetings with your sales
+# Enable people to book meetings with your sales team
 
-Accelerate connect with sales for those leads from target accounts through chat conversations.
+Use Dynamic Chat to accelerate the connection with sales for target account leads.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on)
 
