@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9686
 thumbnail: 340249.jpeg
+exl-id: c6007829-9831-4259-a37e-20a2d318734f
 ---
-
 # Add and manage users of Dynamic Chat
 
 Manage your Dynamic Chat users through Adobe Admin Console.

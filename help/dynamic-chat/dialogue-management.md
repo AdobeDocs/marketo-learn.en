@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9698
 thumbnail: 340259.jpeg
+exl-id: 1c02fc09-feec-4506-9941-76ceeb1e3520
 ---
-
 # Create and manage personalized Dialogues
 
 Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. Learn how to create and manage a Dialogue.
