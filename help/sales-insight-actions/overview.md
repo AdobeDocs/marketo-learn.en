@@ -39,7 +39,7 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 <table style="table-layout:fixed">
 <tr>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.html"><img alt="thumbnail image for Sales Insight Actions Feature Overview" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><img alt="thumbnail image for Sales Insight Actions Feature Overview" src="assets/sales-insight-actions-feature-overview-thumb.png" /></a>
 <div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.html"><strong>Sales Insight Actions Feature Overview</strong></a></div>
 <p><em>Accelerate prospecting efforts with marketing-powered intelligence and engagement tools.</em></p>
 </td>
