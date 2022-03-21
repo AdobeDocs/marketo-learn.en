@@ -15,5 +15,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [User management](dynamic-chat/user-management.md)
   + [Dialogue management](dynamic-chat/dialogue-management.md)
   + [Meeting bookings](dynamic-chat/meeting-booking.md)
++ Filtering email bot activities {#filtering-email-bot-activities}
+  + [Setup](filtering-email-bot-activities/setup.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
