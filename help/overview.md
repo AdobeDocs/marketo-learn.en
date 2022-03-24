@@ -10,3 +10,5 @@ Welcome to the Marketo Engage tutorials site. Using these tutorials along with [
 * [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
 
 * [Sales Insight Actions tutorials](/help/sales-insight-actions/overview.md)
+
+* [Filtering email bot activities tutorials](filtering-email-bot-activities/setup.md)
