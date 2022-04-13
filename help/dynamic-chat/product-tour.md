@@ -18,4 +18,4 @@ Dynamic Chat is a new chatbot solution built for marketing and sales. It is nati
 * [Setup and install your chatbot](setup.md)
 * [Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)
 * [Add and manage users of Dynamic Chat](user-management.md)
-* [Go live in just 24 hours](go-live-in-24-hours.md)
+* [Go live in just 5 minutes](go-live-in-15-minutes.md)

@@ -1,15 +1,15 @@
 ---
-title: Go live with Dynamic Chat in just 24 hours!
-description: A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 24 hours!
+title: Go live with Dynamic Chat in just 15 minutes
+description: A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!
 role: User
 level: Beginner
 kt: 10239
 thumbnail: 342164.jpeg
 ---
 
-# Go live with Dynamic Chat in just 24 hours!
+# Go live with Dynamic Chat in just 15 minutes!
 
-A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 24 hours!
+A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on)
 
