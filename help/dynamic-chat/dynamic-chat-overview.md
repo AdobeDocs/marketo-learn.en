@@ -21,3 +21,6 @@ Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the d
     *Learn how to create dialogue to quickly engage your web visitor with Dynamic Chat.*
 * **[Enable your leads to book meetings with your sales](meeting-booking.md)**
     *Accelerate the connect with sales for those target accounts with Meeting booking functionalities.*
+* **[Go live in 15 minutes](go-live-in-15-minutes.md)**
+    *A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!*
+
