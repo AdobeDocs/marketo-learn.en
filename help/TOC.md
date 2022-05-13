@@ -18,5 +18,8 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
+  + [Sales Insight Actions Overview](sales-insight-actions/sales-insight-actions-overview.md)
+  + [Accessing Your Sales Insight Actions Instance](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+  + [Configure Sales Activity Logging to Salesforce](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Filtering email bot activities {#filtering-email-bot-activities}
   + [Setup](filtering-email-bot-activities/setup.md)
