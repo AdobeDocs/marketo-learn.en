@@ -18,8 +18,8 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 <table style="table-layout:fixed">
 <tr>
 <td>
-<a href="https://video.tv.adobe.com/v/340917"><img alt="thumbnail image for Sales Insight Actions Overview" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="https://video.tv.adobe.com/v/340917"><strong>Sales Insight Actions Overview</strong></a></div>
+<a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="thumbnail image for Sales Insight Actions Overview" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
+<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Sales Insight Actions Overview</strong></a></div>
 </td>
 <td>
 <a href="https://video.tv.adobe.com/v/340925"><img alt="thumbnail image for Accessing Your Sales Insight Actions Instance" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
