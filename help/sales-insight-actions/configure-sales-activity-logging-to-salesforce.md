@@ -3,6 +3,7 @@ title: Configure Sales Activity Logging to Salesforce
 description: Configure Sales Activity Logging to Salesforce
 role: User
 level: Beginner
+exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
 ---
 # Configure Sales Activity Logging to Salesforce {#configure-sales-activity-logging-to-salesforce}
 

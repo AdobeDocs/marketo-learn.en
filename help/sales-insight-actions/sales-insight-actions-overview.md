@@ -3,6 +3,7 @@ title: Sales Insight Actions Overview
 description: Sales Insight Actions Overview
 role: User
 level: Beginner
+exl-id: 2d91afed-8204-4685-ac58-b8f350b6be14
 ---
 # Sales Insight Actions Overview {#sales-insight-actions-overview}
 
