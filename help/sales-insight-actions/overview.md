@@ -22,12 +22,12 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 <div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Sales Insight Actions Overview</strong></a></div>
 </td>
 <td>
-<a href="https://video.tv.adobe.com/v/340925"><img alt="thumbnail image for Accessing Your Sales Insight Actions Instance" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="https://video.tv.adobe.com/v/340925"><strong>Accessing Your Sales Insight Actions Instance</strong></a></div>
+<a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="thumbnail image for Accessing Your Sales Insight Actions Instance" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
+<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accessing Your Sales Insight Actions Instance</strong></a></div>
 </td>
 <td>
-<a href="https://video.tv.adobe.com/v/340843"><img alt="thumbnail image for Configure Sales Activity Logging to Salesforce" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="https://video.tv.adobe.com/v/340843"><strong>Configure Sales Activity Logging to Salesforce</strong></a></div>
+<a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="thumbnail image for Configure Sales Activity Logging to Salesforce" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Configure Sales Activity Logging to Salesforce</strong></a></div>
 </td>
 </tr>
 </table>
