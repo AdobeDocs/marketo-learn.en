@@ -23,4 +23,6 @@ Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the d
     *Accelerate the connect with sales for those target accounts with Meeting booking functionalities.*
 * **[Go live in 15 minutes](go-live-in-15-minutes.md)**
     *A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!*
+* **[Embed PDF in Conversations](document-cloud-integration.md)**
+    *Share PDF documents within personalized conversations you design in Dynamic Chat.*
 

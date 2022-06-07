@@ -16,6 +16,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Dialogue management](dynamic-chat/dialogue-management.md)
   + [Meeting bookings](dynamic-chat/meeting-booking.md)
   + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
+  + [Embed PDF in Conversations](dynamic-chat/document-cloud-integration.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
   + [Sales Insight Actions Overview](sales-insight-actions/sales-insight-actions-overview.md)
