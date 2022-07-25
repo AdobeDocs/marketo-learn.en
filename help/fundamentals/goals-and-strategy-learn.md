@@ -1,8 +1,6 @@
 ---
 title: - Learning about developing  marketing goals and strategy
 description: When all of your marketing efforts fit into a strategy that supports the goals of your organization, you’ll be able to better prove the value of your programs … (Descriptions should be between 60 and 160 characters)
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: User
 level: Beginner
 kt: 10735

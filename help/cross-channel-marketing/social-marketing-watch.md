@@ -1,8 +1,6 @@
 ---
 title: - How to drive engagement with social marketing
 description: Watch how to use social marketing to drive your brand engagement.
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: User
 level: Beginner
 kt: 10723
