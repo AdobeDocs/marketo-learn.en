@@ -1,13 +1,13 @@
 ---
-title: - Learning about developing a content marketing strategy
-description: Attract, acquire, and engage your audience by developing a content marketing strategy. Learn the key steps for success that include optimizing and measuring th… (Descriptions should be between 60 and 160 characters)
+title: Learning about developing a content marketing strategy
+description: Attract, acquire, and engage your audience by developing a content marketing strategy. 
 role: User
 level: Beginner
 kt: 10734
 thumbnail: 345417.jpeg
 ---
 
-# - Learning about developing a content marketing strategy
+# Learning about developing a content marketing strategy
 
 Attract, acquire, and engage your audience by developing a content marketing strategy. Learn the key steps for success that include optimizing and measuring the impact of your content.
 
