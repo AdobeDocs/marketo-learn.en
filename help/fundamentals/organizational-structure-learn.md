@@ -1,5 +1,5 @@
 ---
-title: - Learning about defining your marketing organization structure
+title: Learning about defining your marketing organization structure
 description: To win in today’s shifting digital marketing landscape, you need a team that can respond to the evolving challenges marketers face every day. 
 role: User
 level: Beginner
