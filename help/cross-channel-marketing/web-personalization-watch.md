@@ -1,5 +1,5 @@
 ---
-title: - How to engage visitors with web personalization
+title: How to engage visitors with web personalization
 description: Watch how to connect Marketo to several of our digital advertising LaunchPoint partners.
 role: User
 level: Beginner
@@ -7,7 +7,7 @@ kt: 10726
 thumbnail: 345404.jpeg
 ---
 
-# - How to engage visitors with web personalization
+# How to engage visitors with web personalization
 
 Watch how to connect Marketo to several of our digital advertising LaunchPoint partners.
 
