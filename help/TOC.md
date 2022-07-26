@@ -46,7 +46,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Email Deliverability](email-marketing/email-deliverability-learn.md)
   + [Email Deliverability Walk-thru](email-marketing/email-deliverability-watch.md)
   + [Scheduled Email](email-marketing/scheduled-email-learn.md)
-  + [Scheduled Email](email-marketing/scheduled-email-watch.md)
+  + [Scheduled Email Walk-thru](email-marketing/scheduled-email-watch.md)
   + [Forms](email-marketing/forms-learn.md)
   + [Forms Walk-thru](email-marketing/forms-watch.md)
 + Filtering email bot activities {#filtering-email-bot-activities}
