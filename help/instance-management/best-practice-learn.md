@@ -1,0 +1,14 @@
+---
+title: Learn about using Marketo instance and program best practices
+description: Following Marketo’s suggested best practices for organizing your programs and your instance can help you and your colleagues find what you need in your instance when you need it, and helps make your reporting more accurate.
+role: User
+level: Beginner
+kt: 10736
+thumbnail: 345420.jpeg
+---
+
+# Learn about using Marketo instance and program best practices
+
+Following Marketo’s suggested best practices for organizing your programs and your instance can help you and your colleagues find what you need in your instance when you need it, and helps make your reporting more accurate.
+
+>[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on)
