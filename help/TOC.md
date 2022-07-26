@@ -34,16 +34,16 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Content Marketing](fundamentals/content-marketing-learn.md)
   + [Buyer Personas](fundamentals/buyer-personas-learn.md)
 + Instance Management {#instance-management}
-  + [Best Practices] (instance-management/best-practice-learn.md)   
-  + [Best Practices Walk-thru] (instance-management/best-practice-watch.md)
+  + [Best Practices](instance-management/best-practice-learn.md)   
+  + [Best Practices Walk-thru](instance-management/best-practice-watch.md)
 + Lead and Data Management {#lead-and-data-management}
   + [Lead Scoring](lead-and-data-management/lead-scoring-learn.md) 
   + [Lead Scoring Walk-thru](lead-and-data-management/lead-scoring-watch.md)
   + [Subscription Center](lead-and-data-management/subscription-center-learn.md) 
   + [Subscription Center Walk-thru](lead-and-data-management/subscription-center-watch.md) 
   + [CRM Sync](lead-and-data-management/crm-sync-learn.md)
-  + [Lead Lifecycle](lead-and-data-management/lead-lifefcycle-learn.md) 
-  + [Lead Lifecycle Walk-thru](lead-and-data-management/lead-lifefcycle-watch.md)
+  + [Lead Lifecycle](lead-and-data-management/lead-lifecycle-learn.md) 
+  + [Lead Lifecycle Walk-thru](lead-and-data-management/lead-lifecycle-watch.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
   + [Sales Insight Actions Overview](sales-insight-actions/sales-insight-actions-overview.md)
