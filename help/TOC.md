@@ -30,7 +30,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Dynamic and Predictive Content](email-marketing/dynamic-and-predictive-content-learn.md)
   + [Landing Pages](email-marketing/landing-pages-learn.md)
   + [Landing Pages Walk-thru](email-marketing/landing-pages-watch.md)
-  + [Lead Nuturing Pages](email-marketing/lead-nuturing-learn.md)
+  + [Lead Nuturing](email-marketing/lead-nuturing-learn.md)
   + [A/B Testing](email-marketing/ab-testing-learn.md)
   + [A/B Testing Walk-thru](email-marketing/ab-testing-watch.md)
   + [Triggered Email](email-marketing/triggered-email-learn.md)
