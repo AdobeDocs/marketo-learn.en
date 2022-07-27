@@ -9,7 +9,7 @@ exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
 ---
 # Activate your Marketo Integration with Dynamic Chat
 
-Dynamic Chat is natively integrated into Marketo Engage, which enables you to use context from chatbot conversations to retarget or score your prospects.
+Dynamic Chat is natively integrated into [!DNL Marketo Engage], which enables you to use context from chatbot conversations to retarget or score your prospects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on)
 

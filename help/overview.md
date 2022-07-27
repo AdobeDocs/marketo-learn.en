@@ -1,11 +1,13 @@
 ---
-title: Marketo Engage Tutorials Overview
-description: Welcome to the Marketo Engage Tutorials site. Using these tutorials along with the documentation will give you a better understanding of how to use marketing automation features.
+title: Marketo Engage tutorials
+description: Watch video tutorials on [!DNL Marketo Engage]. Improve your understanding of how to use marketing automation features and more.
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 ---
-# Marketo Engage tutorials
+# [!DNL Marketo Engage] tutorials
 
-Welcome to the Marketo Engage tutorials site. Using these tutorials along with [Marketo Product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} will give you a better understanding of how to use marketing automation features.
+Welcome to the [!DNL Marketo Engage] tutorials site. Using these video tutorials along with [Marketo Product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}, you can get a better understanding of how to use marketing automation features.
+
+Video tutorials on [!DNL Marketo Engage] include:
 
 * [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
 
