@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10737
 thumbnail: 345421.jpeg
+exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
 ---
-
 # How to use Marketo instance and program best practices
 
 Watch how to implement Marketo’s suggested program and instance best practices in Marketo.

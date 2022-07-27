@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10730
 thumbnail: 345400.jpeg
+exl-id: 9bc2b6f3-d2ca-4408-b482-1914ba2ea01b
 ---
-
 # How to optimize your SEO efforts with Marketo
 
 Watch how to implement steps for success to create beneficial SEO and PPC strategies.

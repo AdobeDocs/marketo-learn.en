@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10722
 thumbnail: 345407.jpeg
+exl-id: 42268471-dc3e-46d9-9729-84494c8b6723
 ---
-
 # Learn about driving engagement with social marketing
 
 Unsure of how to best utilize social marketing? Learn how to effectively increase brand awareness and nurture brand engagement using your social channel.

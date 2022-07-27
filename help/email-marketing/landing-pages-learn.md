@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10749
 thumbnail: 345468.jpeg
+exl-id: d1c497c4-fde2-471f-8993-a95319d4b611
 ---
-
 # Learn about building and designing landing pages
 
 Drive higher conversions by building and designing landing pages that incorporate best practices.

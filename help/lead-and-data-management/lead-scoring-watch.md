@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10741
 thumbnail: 345425.jpeg
+exl-id: ee60e851-afc0-4094-8131-9d3593f73dd8
 ---
-
 # How to build a lead scoring program
 
 Watch how to build a lead scoring operational program, use tokens in the campaign, and import pre-built campaigns.

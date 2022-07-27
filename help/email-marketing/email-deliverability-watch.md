@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 10765
 thumbnail: 345482.jpeg
+exl-id: c73bbc6f-249f-41a5-9b1f-3294cebeba04
 ---
-
 # How to optimize email deliverability
 
 Watch how to optimize email deliverability through best practices, email authentication, and reputation.
