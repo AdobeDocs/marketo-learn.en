@@ -7,7 +7,7 @@ breadcrumb-title: Marketo Engage Tutorials
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
 + [Marketo Engage tutorials](overview.md)
-+ Cross-Channel Marketing {#cross-channel-marketing}
++ Cross-channel marketing {#cross-channel-marketing}
   + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
   + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
   + [Social marketing](cross-channel-marketing/social-marketing-learn.md)
@@ -26,7 +26,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Meeting bookings](dynamic-chat/meeting-booking.md)
   + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
   + [Embed PDF in conversations](dynamic-chat/document-cloud-integration.md)
-+ Email Marketing {#email-marketing}
++ Email marketing {#email-marketing}
   + [Dynamic and predictive content](email-marketing/dynamic-and-predictive-content-learn.md)
   + [Landing pages](email-marketing/landing-pages-learn.md)
   + [Landing pages walk-through](email-marketing/landing-pages-watch.md)
@@ -56,10 +56,10 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Organizational structure](fundamentals/organizational-structure-learn.md)
   + [Content marketing](fundamentals/content-marketing-learn.md)
   + [Buyer personas](fundamentals/buyer-personas-learn.md)
-+ Instance Management {#instance-management}
++ Instance management {#instance-management}
   + [Best practices](instance-management/best-practice-learn.md)   
   + [Best practices walk-through](instance-management/best-practice-watch.md)
-+ Lead and Data Management {#lead-and-data-management}
++ Lead and data management {#lead-and-data-management}
   + [Lead scoring](lead-and-data-management/lead-scoring-learn.md) 
   + [Lead scoring walk-through](lead-and-data-management/lead-scoring-watch.md)
   + [Subscription center](lead-and-data-management/subscription-center-learn.md) 
@@ -67,7 +67,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [CRM sync](lead-and-data-management/crm-sync-learn.md)
   + [Lead lifecycle](lead-and-data-management/lead-lifecycle-learn.md) 
   + [Lead lifecycle walk-through](lead-and-data-management/lead-lifecycle-watch.md)
-+ Sales Insight Actions {#sales-insight-actions}
++ Sales insight actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
   + [Sales insight actions overview](sales-insight-actions/sales-insight-actions-overview.md)
   + [Accessing your sales insight actions instance](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
