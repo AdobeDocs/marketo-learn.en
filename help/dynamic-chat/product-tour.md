@@ -9,7 +9,7 @@ exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 ---
 # Product tour of Dynamic Chat
 
-Dynamic Chat is a new chatbot solution built for marketing and sales. It is natively integrated with Marketo Engage, which enables you to use Dynamic Chat as a new channel in your cross-channel marketing. It is simple to use and easy to set up. Take a quick product tour:
+Dynamic Chat is a new chatbot solution built for marketing and sales. It is natively integrated with [!DNL Marketo Engage], which enables you to use Dynamic Chat as a new channel in your cross-channel marketing. It is simple to use and easy to set up. Take a quick product tour:
 
 >[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on)
 
