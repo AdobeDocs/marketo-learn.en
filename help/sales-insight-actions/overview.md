@@ -11,7 +11,7 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 
 >[!AVAILABILITY]
 >
->This feature is currently on limited GA. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
+>This feature is currently in a phased rollout. Please reach out to your Customer Success Manager or email `sales-insights(at)adobe(dot)com` to request access.
 
 ## Featured Tutorials {#featured-tutorials}
 
