@@ -7,11 +7,11 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 
 ![](assets/dynamic-chat-header.png)
 
-Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations. The following topics can help you get started:
+Welcome to the [!DNL Dynamic Chat] tutorials site. Use these tutorials along with the documentation to improve your understanding of how to use [!DNL Dynamic Chat] to create personalized conversations. The following topics can help you get started:
 
 * **[A quick product tour](product-tour.md)**
     *Get an overview of the complete product and learn how you can leverage Dynamic Chat.*
-* **[Setup and install your chatbot](setup.md)**
+* **[Setup and install your [!DNL chatbot]](setup.md)**
     *Learn steps to set up your Dynamic Chat subscription.*
 * **[Activate your Marketo Integration with Dynamic Chat](marketo-integration.md)**
     *Target your web visitors with conversations and personalize them with lead information from Marketo.*
@@ -20,7 +20,7 @@ Welcome to the Dynamic Chat tutorials site. Use these tutorials along with the d
 * **[Create and manage personalized Dialogues](dialogue-management.md)**
     *Learn how to create dialogue to quickly engage your web visitor with Dynamic Chat.*
 * **[Enable your leads to book meetings with your sales](meeting-booking.md)**
-    *Accelerate the connect with sales for those target accounts with Meeting booking functionalities.*
+   *Accelerate the connect with sales for those [!DNL target] accounts with Meeting booking functionalities.*
 * **[Go live in 15 minutes](go-live-in-15-minutes.md)**
     *A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!*
 * **[Embed PDF in Conversations](document-cloud-integration.md)**
