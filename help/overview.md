@@ -5,13 +5,13 @@ exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 ---
 # [!DNL Marketo Engage] tutorials
 
-Browse our tutorial library and get the most out of Marketo Engage. These tutorials can help supplement [Marketo product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} to help you improve your understanding of marketing automation features. 
+Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These tutorials can help supplement [Marketo product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} to help you improve your understanding of marketing automation features. 
 
 ## What's new
 
 Recently added [!DNL Marketo Engage] tutorials:
 
-* **[Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)**
+* **[[!UICONTROL Dynamic Chat]  tutorials](dynamic-chat/dynamic-chat-overview.md)**
     _Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations._ 
 
 * **[Sales Insight Actions tutorials](/help/sales-insight-actions/overview.md)**

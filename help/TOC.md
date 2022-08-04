@@ -6,7 +6,7 @@ breadcrumb-title: Marketo Engage Tutorials
 
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
-+ [Marketo Engage tutorials](overview.md)
++ [[!DNL Marketo Engage] tutorials](overview.md)
 + Cross-channel marketing {#cross-channel-marketing}
   + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
   + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
@@ -17,7 +17,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [SEO and PPC](cross-channel-marketing/seo-and-ppc-learn.md)
   + [SEO and PPC walk-through](cross-channel-marketing/seo-and-ppc-watch.md)
 + Dynamic Chat {#dynamic-chat}
-  + [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
+  + [[!UICONTROL Dynamic Chat] tutorials](dynamic-chat/dynamic-chat-overview.md)
   + [Product tour](dynamic-chat/product-tour.md)
   + [Setup and install](dynamic-chat/setup.md)
   + [Marketo integration](dynamic-chat/marketo-integration.md)
@@ -28,7 +28,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Embed PDF in conversations](dynamic-chat/document-cloud-integration.md)
 + Email marketing {#email-marketing}
   + [Dynamic and predictive content](email-marketing/dynamic-and-predictive-content-learn.md)
-  + [Landing pages](email-marketing/landing-pages-learn.md)
+  + [Landing pages ](email-marketing/landing-pages-learn.md)
   + [Landing pages walk-through](email-marketing/landing-pages-watch.md)
   + [Lead nurturing](email-marketing/lead-nuturing-learn.md)
   + [A/B testing](email-marketing/ab-testing-learn.md)
