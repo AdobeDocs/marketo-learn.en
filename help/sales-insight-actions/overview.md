@@ -1,13 +1,13 @@
 ---
 title: Sales Insight Actions Tutorials
-description: Use Sales Insight Actions to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow.
+description: Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow.
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 ---
 # Sales Insight Actions Tutorials
 
 ![](assets/header.png)
 
-Use Sales Insight Actions to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow.
+Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow.
 
 >[!AVAILABILITY]
 >
@@ -26,8 +26,8 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 <div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accessing Your Sales Insight Actions Instance</strong></a></div>
 </td>
 <td>
-<a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="thumbnail image for Configure Sales Activity Logging to Salesforce" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Configure Sales Activity Logging to Salesforce</strong></a></div>
+<a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="thumbnail image for Configure Sales Activity Logging to [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
+<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Configure Sales Activity Logging to [!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>
@@ -42,8 +42,8 @@ Use Sales Insight Actions to accelerate prospecting efforts with marketing-power
 <p><em>Accelerate prospecting efforts with marketing-powered intelligence and engagement tools.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="thumbnail image for Sales Insight Actions User Onboarding Guide" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>Sales Insight Actions User Onboarding Guide</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="thumbnail image for [!DNL Sales Insight Actions] User Onboarding Guide" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] User Onboarding Guide</strong></a></div>
 <p><em>Steps new users will need to follow to get started.</em></p>
 </td>
 <td>

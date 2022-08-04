@@ -1,6 +1,6 @@
 ---
 title: How to integrate mobile marketing with Marketo
-description: Watch how to create buyer personas, set KPIs, determine your communication cadence, use Marketo’s Marketing Calendar, and more to improve your mobile marketing strategy.
+description: Watch how to create buyer personas, set KPIs, determine your communication cadence, use [!DNL Marketo’s] Marketing Calendar, and more to improve your mobile marketing strategy.
 role: User
 level: Beginner
 kt: 10729
@@ -9,6 +9,6 @@ exl-id: 8e82a586-2001-4b7e-a2d4-073e78045854
 ---
 # Integrate mobile marketing with Marketo
 
-Watch how to create buyer personas, set KPIs, determine your communication cadence, use Marketo’s [!UICONTROL Marketing Calendar], and more to improve your mobile marketing strategy.
+Watch how to create buyer personas, set KPIs, determine your communication cadence, use the [!DNL Marketo] Marketing Calendar, and more to improve your mobile marketing strategy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Setup and install your chatbot
-description: Learn how to setup and configure Dynamic Chat for first use.
+description: Learn how to setup and configure [!UICONTROL Dynamic Chat] for first use.
 role: User
 level: Beginner
 kt: 9693

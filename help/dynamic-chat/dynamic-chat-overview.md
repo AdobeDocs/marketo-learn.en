@@ -20,7 +20,7 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
 * **[Create and manage personalized Dialogues](dialogue-management.md)**
     *Learn how to create dialogue to quickly engage your web visitor with [!UICONTROL Dynamic Chat] .*
 * **[Enable your leads to book meetings with your sales](meeting-booking.md)**
-    *Accelerate the connect with sales for those target accounts with Meeting booking functionalities.*
+   *Accelerate the connect with sales for those [!DNL target] accounts with Meeting booking functionalities.*
 * **[Go live in 15 minutes](go-live-in-15-minutes.md)**
     *A step by step guide to help you go live with your first dialogue using [!UICONTROL Dynamic Chat]  in just 15 minutes!*
 * **[Embed PDF in Conversations](document-cloud-integration.md)**
