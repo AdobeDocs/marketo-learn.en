@@ -8,8 +8,6 @@ breadcrumb-title: Marketo Engage Tutorials
 
 + [[!DNL Marketo Engage] tutorials](overview.md)
 + Cross-channel marketing {#cross-channel-marketing}
-  + [Events](email-marketing/events-learn.md)
-  + [Events walk-through](email-marketing/events-watch.md)
   + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
   + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
   + [Social marketing](cross-channel-marketing/social-marketing-learn.md)
@@ -18,8 +16,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Web personalization walk-through](cross-channel-marketing/web-personalization-watch.md)
   + [SEO and PPC](cross-channel-marketing/seo-and-ppc-learn.md)
   + [SEO and PPC walk-through](cross-channel-marketing/seo-and-ppc-watch.md)
-  + [Webinars](email-marketing/webinar-learn.md)
-  + [Webinars walk-through](email-marketing/webinar-watch.md)
 + Dynamic Chat {#dynamic-chat}
   + [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
   + [Product tour](dynamic-chat/product-tour.md)
