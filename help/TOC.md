@@ -21,7 +21,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Webinars](email-marketing/webinar-learn.md)
   + [Webinars walk-through](email-marketing/webinar-watch.md)
 + Dynamic Chat {#dynamic-chat}
-  + [[!UICONTROL Dynamic Chat] tutorials](dynamic-chat/dynamic-chat-overview.md)
+  + [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
   + [Product tour](dynamic-chat/product-tour.md)
   + [Setup and install](dynamic-chat/setup.md)
   + [Marketo integration](dynamic-chat/marketo-integration.md)
