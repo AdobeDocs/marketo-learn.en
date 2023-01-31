@@ -63,7 +63,6 @@ breadcrumb-title: Marketo Engage Tutorials
 + Lead and data management {#lead-and-data-management}
   + [Lead scoring](lead-and-data-management/lead-scoring-learn.md)
   + [Lead scoring walk-through](lead-and-data-management/lead-scoring-watch.md)
-  + [Lead scoring examples](lead-and-data-management/lead-scoring.md)
   + [Subscription center](lead-and-data-management/subscription-center-learn.md)
   + [Subscription center walk-through](lead-and-data-management/subscription-center-watch.md)
   + [CRM sync](lead-and-data-management/crm-sync-learn.md)
@@ -74,3 +73,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Sales Insight Actions overview](sales-insight-actions/sales-insight-actions-overview.md)
   + [Accessing your Sales Insight Actions instance](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
   + [Configure sales activity logging to [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Hidden {#hidden}
+  + [Marketo and Mochas Lead Scoring](events/marketo-and-mochas/lead-scoring.md)
+  + [Marketo and Mochas Marketo Measure Attribution](events/marketo-and-mochas/attribution.md)
