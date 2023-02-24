@@ -1,6 +1,7 @@
 ---
 title: Marketo Engage tutorials
 description: Watch video tutorials on [!DNL Marketo Engage]. Improve your understanding of how to use marketing automation features and more.
+doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 ---
 # [!DNL Marketo Engage] tutorials
