@@ -1,6 +1,7 @@
 ---
 title: Dynamic Chat tutorials
 description: Learn about Dynamic Chat on Adobe Experience League. Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations.
+doc-type: overview-page
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 ---
 # Dynamic Chat tutorials

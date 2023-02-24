@@ -1,6 +1,7 @@
 ---
 title: Sales Insight Actions Tutorials
 description: Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow.
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 ---
 # Sales Insight Actions Tutorials

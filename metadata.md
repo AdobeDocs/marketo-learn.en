@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
 type: Tutorial
+doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-learn.en
