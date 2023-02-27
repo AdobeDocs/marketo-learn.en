@@ -7,7 +7,7 @@ breadcrumb-title: Marketo Engage Tutorials
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
 + [[!DNL Marketo Engage] tutorials](overview.md)
-+ + Fundamentals {#fundamentals}
++ Fundamentals {#fundamentals}
   + [Goals and strategy](fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](fundamentals/organizational-structure-learn.md)
   + [Content marketing](fundamentals/content-marketing-learn.md)
