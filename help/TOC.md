@@ -7,25 +7,11 @@ breadcrumb-title: Marketo Engage Tutorials
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
 + [[!DNL Marketo Engage] tutorials](overview.md)
-+ Cross-channel marketing {#cross-channel-marketing}
-  + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
-  + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
-  + [Social marketing](cross-channel-marketing/social-marketing-learn.md)
-  + [Social marketing walk-through](cross-channel-marketing/social-marketing-watch.md)
-  + [Web personalization](cross-channel-marketing/web-personalization-learn.md)
-  + [Web personalization walk-through](cross-channel-marketing/web-personalization-watch.md)
-  + [SEO and PPC](cross-channel-marketing/seo-and-ppc-learn.md)
-  + [SEO and PPC walk-through](cross-channel-marketing/seo-and-ppc-watch.md)
-+ Dynamic Chat {#dynamic-chat}
-  + [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
-  + [Product tour](dynamic-chat/product-tour.md)
-  + [Setup and install](dynamic-chat/setup.md)
-  + [Marketo integration](dynamic-chat/marketo-integration.md)
-  + [User management](dynamic-chat/user-management.md)
-  + [Dialogue management](dynamic-chat/dialogue-management.md)
-  + [Meeting bookings](dynamic-chat/meeting-booking.md)
-  + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
-  + [Embed PDF in conversations](dynamic-chat/document-cloud-integration.md)
++ + Fundamentals {#fundamentals}
+  + [Goals and strategy](fundamentals/goals-and-strategy-learn.md)
+  + [Organizational structure](fundamentals/organizational-structure-learn.md)
+  + [Content marketing](fundamentals/content-marketing-learn.md)
+  + [Buyer personas](fundamentals/buyer-personas-learn.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](email-marketing/scheduled-email-watch.md)
@@ -38,7 +24,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Landing pages ](email-marketing/landing-pages-learn.md)
   + [Landing pages walk-through](email-marketing/landing-pages-watch.md)
   + [Forms](email-marketing/forms-learn.md)
-  + [Forms walk-through](email-marketing/forms-watch.md)
   + [Email deliverability](email-marketing/email-deliverability-learn.md)
   + [Email deliverability walk-through](email-marketing/email-deliverability-watch.md)
   + [Triggered email](email-marketing/triggered-email-learn.md)
@@ -46,20 +31,34 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Lead nurturing](email-marketing/lead-nuturing-learn.md)
   + [Dynamic and predictive content](email-marketing/dynamic-and-predictive-content-learn.md)
   + [Filtering email bot activities - Setup](filtering-email-bot-activities/setup.md)  
-+ Events {#events}
-  + [Events](events/events-learn.md)
++ Cross-channel marketing {#cross-channel-marketing}
   + [Events walk-through](events/events-watch.md)
-  + [Design an effective Interactive Webinar](events/design-an-effective-interactive-webinar.md)
+  + [Forms walk-through](email-marketing/forms-watch.md)
+  + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
+  + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
+  + [SEO and PPC](cross-channel-marketing/seo-and-ppc-learn.md)
+  + [SEO and PPC walk-through](cross-channel-marketing/seo-and-ppc-watch.md)
+  + [Social marketing](cross-channel-marketing/social-marketing-learn.md)
+  + [Social marketing walk-through](cross-channel-marketing/social-marketing-watch.md)
   + [Webinars](events/webinar-learn.md)
   + [Webinars walk-through](events/webinar-watch.md)
-+ Fundamentals {#fundamentals}
-  + [Goals and strategy](fundamentals/goals-and-strategy-learn.md)
-  + [Organizational structure](fundamentals/organizational-structure-learn.md)
-  + [Content marketing](fundamentals/content-marketing-learn.md)
-  + [Buyer personas](fundamentals/buyer-personas-learn.md)
-+ Instance management {#instance-management}
-  + [Best practices](instance-management/best-practice-learn.md)
-  + [Best practices walk-through](instance-management/best-practice-watch.md)
+  + [Web personalization](cross-channel-marketing/web-personalization-learn.md)
+  + [Web personalization walk-through](cross-channel-marketing/web-personalization-watch.md)
++ Dynamic Chat {#dynamic-chat}
+  + [Dynamic Chat tutorials](dynamic-chat/dynamic-chat-overview.md)
+  + [Product tour](dynamic-chat/product-tour.md)
+  + [Setup and install](dynamic-chat/setup.md)
+  + [Marketo integration](dynamic-chat/marketo-integration.md)
+  + [User management](dynamic-chat/user-management.md)
+  + [Dialogue management](dynamic-chat/dialogue-management.md)
+  + [Meeting bookings](dynamic-chat/meeting-booking.md)
+  + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
+  + [Embed PDF in conversations](dynamic-chat/document-cloud-integration.md)
++ Sales Insight Actions {#sales-insight-actions}
+  + [Overview](sales-insight-actions/overview.md)
+  + [Sales Insight Actions overview](sales-insight-actions/sales-insight-actions-overview.md)
+  + [Accessing your Sales Insight Actions instance](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+  + [Configure sales activity logging to [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead and data management {#lead-and-data-management}
   + [Lead scoring](lead-and-data-management/lead-scoring-learn.md)
   + [Lead scoring walk-through](lead-and-data-management/lead-scoring-watch.md)
@@ -68,11 +67,12 @@ breadcrumb-title: Marketo Engage Tutorials
   + [CRM sync](lead-and-data-management/crm-sync-learn.md)
   + [Lead lifecycle](lead-and-data-management/lead-lifecycle-learn.md)
   + [Lead lifecycle walk-through](lead-and-data-management/lead-lifecycle-watch.md)
-+ Sales Insight Actions {#sales-insight-actions}
-  + [Overview](sales-insight-actions/overview.md)
-  + [Sales Insight Actions overview](sales-insight-actions/sales-insight-actions-overview.md)
-  + [Accessing your Sales Insight Actions instance](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-  + [Configure sales activity logging to [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ Instance management {#instance-management}
+  + [Best practices](instance-management/best-practice-learn.md)
+  + [Best practices walk-through](instance-management/best-practice-watch.md)
++ Events {#events}
+  + [Events](events/events-learn.md)
+  + [Design an effective Interactive Webinar](events/design-an-effective-interactive-webinar.md)
 + Hidden {#hidden}
   + [Marketo and Mochas Lead Scoring](events/marketo-and-mochas/lead-scoring.md)
   + [Marketo and Mochas Marketo Measure Attribution](events/marketo-and-mochas/attribution.md)
