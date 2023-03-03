@@ -76,4 +76,3 @@ breadcrumb-title: Marketo Engage Tutorials
 + Hidden {#hidden}
   + [Marketo and Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
   + [Marketo and Mochas Marketo Measure Attribution](event-recordings/marketo-and-mochas/attribution.md)
-  + [How to Make Your Adobe Marketo Engage Content Scalable](event-recordings/templates-tokens-teamwork.md)
