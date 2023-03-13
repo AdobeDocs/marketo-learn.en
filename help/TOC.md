@@ -71,7 +71,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Best practices](instance-management/best-practice-learn.md)
   + [Best practices walk-through](instance-management/best-practice-watch.md)
 + Events {#events}
-  + [Events](events/events-learn.md)
+  + [Creating an event program](events/events-learn.md)
   + [Design an effective Interactive Webinar](events/design-an-effective-interactive-webinar.md)
 + Hidden {#hidden}
   + [Marketo and Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
