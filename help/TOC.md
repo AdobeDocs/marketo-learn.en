@@ -32,7 +32,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Dynamic and predictive content](email-marketing/dynamic-and-predictive-content-learn.md)
   + [Filtering email bot activities - Setup](filtering-email-bot-activities/setup.md)  
 + Cross-channel marketing {#cross-channel-marketing}
-  + [Events walk-through](events/events-watch.md)
   + [Forms walk-through](email-marketing/forms-watch.md)
   + [Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)
   + [Mobile marketing walk-through](cross-channel-marketing/mobile-marketing-watch.md)
@@ -40,8 +39,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [SEO and PPC walk-through](cross-channel-marketing/seo-and-ppc-watch.md)
   + [Social marketing](cross-channel-marketing/social-marketing-learn.md)
   + [Social marketing walk-through](cross-channel-marketing/social-marketing-watch.md)
-  + [Webinars](events/webinar-learn.md)
-  + [Webinars walk-through](events/webinar-watch.md)
   + [Web personalization](cross-channel-marketing/web-personalization-learn.md)
   + [Web personalization walk-through](cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -71,7 +68,10 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Best practices](instance-management/best-practice-learn.md)
   + [Best practices walk-through](instance-management/best-practice-watch.md)
 + Events {#events}
+  + [Events walk-through](events/events-watch.md)
   + [Creating an event program](events/events-learn.md)
+  + [Webinars](events/webinar-learn.md)
+  + [Webinars walk-through](events/webinar-watch.md)
   + [Design an effective Interactive Webinar](events/design-an-effective-interactive-webinar.md)
 + Hidden {#hidden}
   + [Marketo and Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
