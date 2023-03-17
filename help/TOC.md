@@ -73,6 +73,3 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Webinars](events/webinar-learn.md)
   + [Webinars walk-through](events/webinar-watch.md)
   + [Design an effective Interactive Webinar](events/design-an-effective-interactive-webinar.md)
-+ Hidden {#hidden}
-  + [Marketo and Mochas Lead Scoring](event-recordings/marketo-and-mochas/lead-scoring.md)
-  + [Marketo and Mochas Marketo Measure Attribution](event-recordings/marketo-and-mochas/attribution.md)
