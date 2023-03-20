@@ -26,15 +26,15 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *A step by step guide to help you go live with your first dialogue using [!UICONTROL Dynamic Chat]  in just 15 minutes!*
 * **[Embed PDF in Conversations](document-cloud-integration.md)**
     *Share PDF documents within personalized conversations you design in [!UICONTROL Dynamic Chat].*
-* **[Search in Stream Designer](dynamic-chat/search-in-stream-designer.md)**
+* **[Search in Stream Designer](search-in-stream-designer.md)**
     *A quick search can help you get to any card in your stream designer in one-click.*
-* **[Capturing inferred attributes](dynamic-chat/capture-inferred-attributes.md)**
+* **[Capturing inferred attributes](capture-inferred-attributes.md)**
     *We can identify and populate inferred attributes against every lead captured through Dynamic Chat by leveraging the Munchkin ID.*
-* **[Dialogue preview](dynamic-chat/dialogue-preview.md)**
+* **[Dialogue preview](dialogue-preview.md)**
     *Previewing your dialogue before you publish is super easy with Dialogue preview feature.*
-* **[Engagement report](dynamic-chat/engagement-report.md)**
+* **[Engagement report](engagement-report.md)**
     *See the trends of how your web visitors engaging with your dialogue*
-* **[Globalization of static content](dynamic-chat/globalization-of-static-content.md)**
+* **[Globalization of static content](globalization-of-static-content.md)**
     *You can personalize static/system content to language of your choice.*
-* **[Roles and permissions](dynamic-chat/roles-and-permissions.md)**
+* **[Roles and permissions](roles-and-permissions.md)**
     *Learn how you can create new roles and set permission to your Dynamic Chat users.*
