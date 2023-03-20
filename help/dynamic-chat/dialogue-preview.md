@@ -1,6 +1,6 @@
 ---
-title: Dialogue Preview
-description: Previewing your dialogue before you publish is super easy with Dialogue preview feature
+title: Dialogue preview
+description: Previewing your dialogue before you publish is super easy with Dialogue preview feature.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -9,9 +9,9 @@ jira: KT-12965
 thumbnail: 3416923.jpeg
 ---
 
-# Dialogue Preview
+# Dialogue preview
 
-Previewing your dialogue before you publish is super easy with Dialogue preview feature
+Previewing your dialogue before you publish is super easy with Dialogue preview feature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on)
 

@@ -51,6 +51,12 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Meeting bookings](dynamic-chat/meeting-booking.md)
   + [Go live in 15 minutes](dynamic-chat/go-live-in-15-minutes.md)
   + [Embed PDF in conversations](dynamic-chat/document-cloud-integration.md)
+  + [Search in Stream Designer](dynamic-chat/search-in-stream-designer.md)
+  + [Capturing inferred attributes](dynamic-chat/capture-inferred-attributes.md)
+  + [Dialogue preview](dynamic-chat/dialogue-preview.md)
+  + [Engagement report](dynamic-chat/engagement-report.md)
+  + [Globalization of static content](dynamic-chat/globalization-of-static-content.md)
+  + [Roles and permissions](dynamic-chat/roles-and-permissions.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](sales-insight-actions/overview.md)
   + [Sales Insight Actions overview](sales-insight-actions/sales-insight-actions-overview.md)
