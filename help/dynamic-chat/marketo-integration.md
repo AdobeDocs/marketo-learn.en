@@ -17,3 +17,4 @@ exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
 
 * [Create and manage personalized Dialogues](dialogue-management.md)
 * [Add and manage users of [!UICONTROL Dynamic Chat] ](user-management.md)
+* [Capturing inferred attributes](capture-inferred-attributes.md)
