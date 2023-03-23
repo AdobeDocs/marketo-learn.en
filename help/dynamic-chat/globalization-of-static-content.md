@@ -11,7 +11,7 @@ thumbnail: 3416924.jpeg
 
 # Globalization of static content
 
-You may already know how you can create non-english dialogue (if not check [here](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)){target=_blank}). Now you can even personalize static/system content to language of your choice.
+You may already know how you can create non-english dialogue (if not check [here](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39)). Now you can even personalize static/system content to language of your choice.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
 
