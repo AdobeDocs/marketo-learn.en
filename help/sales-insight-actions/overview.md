@@ -43,8 +43,8 @@ Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with ma
 <p><em>Accelerate prospecting efforts with marketing-powered intelligence and engagement tools.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="thumbnail image for [!DNL Sales Insight Actions] User Onboarding Guide" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] User Onboarding Guide</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="thumbnail image for [!DNL Sales Insight Actions] User Onboarding Guide" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] User Onboarding Guide</strong></a></div>
 <p><em>Steps new users will need to follow to get started.</em></p>
 </td>
 <td>
