@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20
 jira: KT-12966
 thumbnail: 3416924.jpeg
+exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
 ---
-
 # Globalization of static content
 
 You may already know how you can create non-English dialogue (if not, [click here](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). You can personalize static/system content to the language of your choice.
