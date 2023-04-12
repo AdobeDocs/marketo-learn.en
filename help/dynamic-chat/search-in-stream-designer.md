@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20
 jira: KT-12968
 thumbnail: 3416925.jpeg
+exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
 ---
-
 # Search in Stream designer
 
 A quick search can help you get to any card in your stream designer in one-click.

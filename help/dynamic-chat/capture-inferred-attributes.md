@@ -1,14 +1,14 @@
 ---
 title: Capturing inferred attributes
-description: Since Dynamic Chat uses same Adobe Marketo Engage munchkin cookie, by leveraging the munchkin we now identify and populate inferred attributes against every lead captured through Dynamic Chat 
+description: Since Dynamic Chat uses same Adobe Marketo Engage munchkin cookie, by leveraging the munchkin we now identify and populate inferred attributes against every lead captured through Dynamic Chat
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-03-20
 jira: KT-12963
 thumbnail: 3416922.jpeg
+exl-id: 0c6d016c-3d79-43ab-adb6-490aeb9717ef
 ---
-
 # Capturing inferred attributes
 
 Since Dynamic Chat uses same Adobe Marketo Engage munchkin cookie, by leveraging the munchkin we now identify and populate inferred attributes against every lead captured through Dynamic Chat.

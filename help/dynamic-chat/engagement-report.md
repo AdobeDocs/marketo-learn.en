@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-03-20
 jira: KT-12964
 thumbnail: 3416921.jpeg
+exl-id: bb4d0570-5790-454c-8787-ae18b6ebe7ce
 ---
-
 # Engagement report
 
 Now see the trends of how your web visitors engaging with your dialogue.
