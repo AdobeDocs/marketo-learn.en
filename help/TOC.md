@@ -12,6 +12,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Organizational structure](fundamentals/organizational-structure-learn.md)
   + [Content marketing](fundamentals/content-marketing-learn.md)
   + [Buyer personas](fundamentals/buyer-personas-learn.md)
+  + [Programs and campaigns](fundamentals/programs-and-campaigns.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](email-marketing/scheduled-email-watch.md)
