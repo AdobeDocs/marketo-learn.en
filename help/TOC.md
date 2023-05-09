@@ -13,6 +13,8 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Content marketing](fundamentals/content-marketing-learn.md)
   + [Buyer personas](fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](fundamentals/programs-and-campaigns.md)
++ Get started {#get-started}
+  + [Navigate the UI](/help/get-started/ui-navigation.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](email-marketing/scheduled-email-watch.md)
