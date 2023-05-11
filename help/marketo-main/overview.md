@@ -20,7 +20,7 @@ Recently added [!DNL Marketo Engage] tutorials:
 * **[[!DNL Sales Insight Actions] tutorials](/help/sales-insight-actions/overview.md)**
    _Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow._
 
-* **[Filtering email bot activities tutorials](filtering-email-bot-activities/setup.md)**
+* **[Filtering email bot activities tutorials](/help/filtering-email-bot-activities/setup.md)**
     _A guide to help you enable identification of Email activities by bots and how you can filter and create campaigns excluding bots._
 
 * **[Integrating mobile marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)**
