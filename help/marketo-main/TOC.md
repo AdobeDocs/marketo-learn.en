@@ -33,7 +33,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Triggered email walk-through](/help/email-marketing/triggered-email-watch.md)
   + [Lead nurturing](/help/email-marketing/lead-nuturing-learn.md)
   + [Dynamic and predictive content](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-  + [Filtering email bot activities - Setup](filtering-email-bot-activities/setup.md)  
+  + [Filtering email bot activities - Setup](/help/filtering-email-bot-activities/setup.md)  
 + Cross-channel marketing {#cross-channel-marketing}
   + [Forms walk-through](/help/email-marketing/forms-watch.md)
   + [Integrating mobile marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)
