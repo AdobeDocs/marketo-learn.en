@@ -14,7 +14,7 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 
 Recently added [!DNL Marketo Engage] tutorials:
 
-* **[[!UICONTROL Dynamic Chat]  tutorials](dynamic-chat/dynamic-chat-overview.md)**
+* **[[!UICONTROL Dynamic Chat]  tutorials](/help/dynamic-chat/dynamic-chat-overview.md)**
     _Use these tutorials along with the documentation to improve your understanding of how to use Dynamic Chat to create personalized conversations._ 
 
 * **[[!DNL Sales Insight Actions] tutorials](/help/sales-insight-actions/overview.md)**
@@ -23,10 +23,10 @@ Recently added [!DNL Marketo Engage] tutorials:
 * **[Filtering email bot activities tutorials](filtering-email-bot-activities/setup.md)**
     _A guide to help you enable identification of Email activities by bots and how you can filter and create campaigns excluding bots._
 
-* **[Integrating mobile marketing](cross-channel-marketing/mobile-marketing-learn.md)**
+* **[Integrating mobile marketing](/help/cross-channel-marketing/mobile-marketing-learn.md)**
     _Learn how to develop relationships with your buyers by creating real-time and personal connections through the convenience of mobile devices._
 
-* **[Dynamic and predictive content](email-marketing/dynamic-and-predictive-content-learn.md)**
+* **[Dynamic and predictive content](/help/email-marketing/dynamic-and-predictive-content-learn.md)**
     _Learn how to utilize Marketo Content AI and how to apply dynamic content when working with Marketo._
 
 </div>
