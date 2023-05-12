@@ -20,4 +20,4 @@ See the related product guides for more information:
 
  Learn from your peers on how to use Smart Campaigns:
 
- * [Expert Customer Blog post: Smart Campaigns 101: A Deep Dive Into Adobe Marketo Engage's Most Powerful Feature](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Expert Customer Blog post: Smart Campaigns 101: A Deep Dive Into Adobe Marketo Engage's Most Powerful Feature](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
