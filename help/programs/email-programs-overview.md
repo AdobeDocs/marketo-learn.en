@@ -19,11 +19,11 @@ Watch this step-by-step tutorial to learn how to create an email program with an
 ## Additional resources:
 
 See the related product guides for more information:
- * [Understanding Email Programs documentation] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Understanding Email Programs documentation] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Watch additional videos for more help on this feature:
- * [Scheduled Email Walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
- * [AB Testing Walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Scheduled Email Walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [AB Testing Walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Learn from your peers on how to use Email Programs:
- * [Expert Customer Blog post: Email Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [Expert Customer Blog post: Email Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
