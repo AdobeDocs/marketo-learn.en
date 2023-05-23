@@ -23,8 +23,8 @@ See the related product guides for more information:
 
 Watch additional videos for more help on this feature:
 * [Events walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [Webinars Walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [Webinars walk through](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
 
 Learn from your peers on how to use Event Programs:
-* [Expert Customer Blog post: Event Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
+* [Expert customer blog post: Event Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
 
