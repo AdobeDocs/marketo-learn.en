@@ -13,13 +13,19 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Content marketing](/help/fundamentals/content-marketing-learn.md)
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
-+ Get started {#get-started}
-  + [Navigate the UI](/help/get-started/ui-navigation.md)
+  + [Navigate the UI](/help/fundamentals/ui-navigation.md)
+  + Programs and campaigns {#programs}
+    + [Understanding programs and campaigns](help/programs/understanding-programs-and-campaigns.md)
+    + [Default programs](/help/programs/default-programs.md)
+    + [Email programs](/help/programs/email-programs.md)
+    + [Event programs](/help/programs/event-programs.md)
+    + [Engagement programs](/help/programs/engagement-programs.md)
 + Programs {#programs}
-  + [Default programs overview](/help/programs/default-programs-overview.md)
-  + [Email programs overview](/help/programs/email-programs-overview.md)
-  + [Event programs overview](/help/programs/event-programs-overview.md)
-  + [Engagement programs overview](/help/programs/engagement-programs-overview.md)
+  + [Understanding programs and campaigns](help/programs/understanding-programs-and-campaigns.md)
+  + [Default programs](/help/programs/default-programs.md)
+  + [Email programs](/help/programs/email-programs.md)
+  + [Event programs](/help/programs/event-programs.md)
+  + [Engagement programs](/help/programs/engagement-programs.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](/help/email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](/help/email-marketing/scheduled-email-watch.md)
