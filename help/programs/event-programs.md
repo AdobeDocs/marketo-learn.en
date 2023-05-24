@@ -1,5 +1,5 @@
 ---
-title: Event Programs Overview
+title: Event Programs
 description: Develop a foundational understanding and build your first Event Program.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ jira: KT-13258
 thumbnail: 3419622.jpeg
 ---
 
-# Event Programs Overview
+# Event Programs
 
 Develop a foundational understanding and build your first Event Program by watching this video.
 

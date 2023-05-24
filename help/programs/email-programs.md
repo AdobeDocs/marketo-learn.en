@@ -1,5 +1,5 @@
 ---
-title: Email Programs Overview
+title: Email Programs
 description: Learn how to create an email program with an A/B test.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ jira: KT-13257
 thumbnail: 3419440.jpeg
 ---
 
-# Email Programs Overview
+# Email Programs
 
 Watch this step-by-step tutorial to learn how to create an email program with an A/B test.
 

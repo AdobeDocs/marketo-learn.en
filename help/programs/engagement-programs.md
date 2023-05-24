@@ -1,5 +1,5 @@
 ---
-title: Engagement Programs Overview
+title: Engagement Programs
 description: Learn how to build your first engagement program.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ jira: KT-13260
 thumbnail: 3419374.jpeg
 ---
 
-# Engagement Programs Overview
+# Engagement Programs
 
 Follow this step-by-step tutorial to build your first engagement program.
 

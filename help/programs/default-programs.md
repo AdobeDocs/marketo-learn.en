@@ -1,5 +1,5 @@
 ---
-title: Default Programs Overview
+title: Default Programs
 description: Learn how to create and measure your first Default Program.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ jira: KT-13259
 thumbnail: 3419623.jpeg
 ---
 
-# Default Programs Overview
+# Default Programs
 
 Learn how to create and measure your first Default Program.
 
