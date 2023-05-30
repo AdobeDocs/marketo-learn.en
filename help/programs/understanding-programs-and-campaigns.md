@@ -1,3 +1,4 @@
+---
 title: Understanding programs and campaigns
 description: Attract, acquire, and engage your audience by developing a content marketing strategy.
 role: User
