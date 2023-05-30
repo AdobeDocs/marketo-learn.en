@@ -90,5 +90,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Design an effective Interactive Webinar](/help/events/design-an-effective-interactive-webinar.md)
 + Reporting and analytics {#reporting}
   +  [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
+  +  [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"} 
