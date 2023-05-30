@@ -1,7 +1,6 @@
 ---
 title: Integrating mobile marketing
 description: Learn how to develop relationships with your buyers by creating real-time and personal connections through the convenience of mobile devices.
-feature: 
 role: User
 level: Beginner
 kt: 10727

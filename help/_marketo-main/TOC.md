@@ -14,14 +14,9 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
   + [Navigate the UI](/help/fundamentals/ui-navigation.md)
-  + Programs and campaigns {#programs}
-    + [Understanding programs and campaigns](help/programs/understanding-programs-and-campaigns.md)
-    + [Default programs](/help/programs/default-programs.md)
-    + [Email programs](/help/programs/email-programs.md)
-    + [Event programs](/help/programs/event-programs.md)
-    + [Engagement programs](/help/programs/engagement-programs.md)
-+ Programs {#programs}
-  + [Understanding programs and campaigns](help/programs/understanding-programs-and-campaigns.md)
+  + [Understand programs and campaigns](help/fundamentals/understand-programs-and-campaigns.md)
++ Programs and campaigns {#programs}
+  + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Default programs](/help/programs/default-programs.md)
   + [Email programs](/help/programs/email-programs.md)
   + [Event programs](/help/programs/event-programs.md)

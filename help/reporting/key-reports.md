@@ -1,6 +1,6 @@
 ---
 title: Key Reports within Marketo Engage
-description: In this video, you will learn about the key reports within Marketo Engage and how to pull them.
+description: Learn about the key reports within Marketo Engage and how to pull them.
 role: User
 level: Beginner
 doc-type: Feature Video
