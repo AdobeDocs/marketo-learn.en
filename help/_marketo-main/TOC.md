@@ -21,6 +21,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Email programs](/help/programs/email-programs.md)
   + [Event programs](/help/programs/event-programs.md)
   + [Engagement programs](/help/programs/engagement-programs.md)
+  + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](/help/email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](/help/email-marketing/scheduled-email-watch.md)
