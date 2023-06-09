@@ -6,7 +6,7 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-30
 jira: KT-13261
-thumbnail: KT-13261.jpeg
+thumbnail: 3420138.jpeg
 hide: yes
 hidefromtoc: yes
 ---
