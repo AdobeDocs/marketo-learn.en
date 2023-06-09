@@ -6,7 +6,7 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-30
 jira: KT-13263
-thumbnail: KT-13263.jpeg
+thumbnail: 3420096.jpeg
 ---
 
 # Smart Campaigns 101
