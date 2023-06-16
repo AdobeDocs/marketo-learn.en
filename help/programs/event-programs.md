@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23
 jira: KT-13258
 thumbnail: 3419622.jpeg
+exl-id: e5acbd36-011d-4ad4-b881-d21227bc37da
 ---
-
 # Event Programs
 
 Develop a foundational understanding and build your first Event Program by watching this video.
@@ -27,4 +27,3 @@ Watch additional videos for more help on this feature:
 
 Learn from your peers on how to use Event Programs:
 * [Expert customer blog post: Event Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)
-

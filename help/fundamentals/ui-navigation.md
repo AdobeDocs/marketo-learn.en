@@ -1,14 +1,14 @@
 ---
 title: Navigate the Marketo Engage user interface
-description:  Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.
+description: Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-08
 jira: KT-13202
 thumbnail: 3419131.jpeg
+exl-id: b4c7aeb6-d1f9-4164-a318-3e12b0e8aaea
 ---
-
 # Navigate the Marketo Engage user interface
 
 Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.

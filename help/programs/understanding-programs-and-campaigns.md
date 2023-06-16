@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 13203
 thumbnail: 3418042.jpg
+exl-id: ac796291-63d9-4909-9ec3-5c3a1206c394
 ---
-
 # Understanding programs and campaigns
 
 {{$include /help/_includes/incl-programs-and-campaigns.md}}

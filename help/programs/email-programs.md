@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-23
 jira: KT-13257
 thumbnail: 3419440.jpeg
+exl-id: 89db03e2-6db0-46f8-ada1-31625663642d
 ---
-
 # Email Programs
 
 Watch this step-by-step tutorial to learn how to create an email program with an A/B test.

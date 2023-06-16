@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-11
 jira: KT-13219
 thumbnail: 3419295.jpeg
+exl-id: 735587c7-01e8-47d8-9514-ceea1c02bd65
 ---
-
 # Reporting and analytics
 
 Learn how to navigate the Analytics and Database section to pull different out-of-the-box reports in Marketo Engage.
@@ -22,4 +22,3 @@ Learn how to navigate the Analytics and Database section to pull different out-o
 
 *   **Expert Customer Blog Post** 
     Learn from Champion Chelsea Kiko on creating various reports - [Reporting in Various Marketo Engage Spaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
-    
