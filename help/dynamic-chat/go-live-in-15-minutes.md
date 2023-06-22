@@ -3,7 +3,7 @@ title: Go live with Dynamic Chat in just 15 minutes
 description: A step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes!
 role: User
 level: Beginner
-kt: 10239
+jira: KT-10239
 thumbnail: 342164.jpeg
 exl-id: d0e8df26-e09e-4330-a74b-06c81ed7ce14
 ---

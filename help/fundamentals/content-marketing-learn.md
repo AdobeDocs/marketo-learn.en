@@ -3,7 +3,7 @@ title: Learn about developing a content marketing strategy
 description: Attract, acquire, and engage your audience by developing a content marketing strategy.
 role: User
 level: Beginner
-kt: 10734
+jira: KT-10734
 thumbnail: 345417.jpeg
 exl-id: 5b238132-3ea3-4cc8-a079-b107bb32da36
 ---

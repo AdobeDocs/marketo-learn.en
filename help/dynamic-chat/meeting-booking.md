@@ -3,7 +3,7 @@ title: Enable people to book meetings with your sales team
 description: Use Dynamic Chat to accelerate the connection with sales for [!DNL target] account leads.
 role: User
 level: Beginner
-kt: 9696
+jira: KT-9696
 thumbnail: 340258.jpeg
 exl-id: ad61b583-b62a-45a3-afca-7533891a224b
 ---

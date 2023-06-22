@@ -3,7 +3,7 @@ title: Product tour of Dynamic Chat
 description: Learn about Dynamic Chat, a new chatbot solution built for marketing and sales from Adobe.
 role: User
 level: Beginner
-kt: 9697
+jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
 ---

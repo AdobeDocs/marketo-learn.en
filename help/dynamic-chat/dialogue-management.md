@@ -3,7 +3,7 @@ title: Create and manage personalized dialogues
 description: Learn about creating and managing personalized dialogues. Designing conversations that are targeted and personalized is the key to creating a great conversational experience for every web visitor.
 role: User
 level: Beginner
-kt: 9698
+jira: KT-9698
 thumbnail: 340259.jpeg
 exl-id: 1c02fc09-feec-4506-9941-76ceeb1e3520
 ---

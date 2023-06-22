@@ -3,7 +3,7 @@ title: Activate your Marketo Integration with Dynamic Chat
 description: Dynamic Chat is natively integrated into Marketo, which enables you to use context from chatbot conversations to retarget or score your prospects.
 role: User
 level: Beginner
-kt: 9697
+jira: KT-9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
 ---

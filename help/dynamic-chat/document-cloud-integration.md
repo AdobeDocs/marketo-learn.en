@@ -3,7 +3,7 @@ title: Embed PDF in Conversations
 description: Share PDF documents within personalized conversations you design in Dynamic Chat.
 role: User
 level: Beginner
-kt: 10495
+jira: KT-10495
 thumbnail: 343479.jpeg
 exl-id: e8c1f602-ceff-48a9-8a1c-8edb47dd5946
 ---

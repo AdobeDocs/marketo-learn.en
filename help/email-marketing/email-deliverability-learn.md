@@ -3,7 +3,7 @@ title: Learn about optimizing email deliverability
 description: Your marketing message won’t meet your goals if your emails don’t make it into your subscribers’ inboxes. Learn how to successfully deliver emails to the subscribers who want to read them.
 role: User
 level: Beginner
-kt: 10764
+jira: KT-10764
 thumbnail: 345481.jpeg
 exl-id: abc6d870-6c2c-453f-9239-424cb2803aec
 ---

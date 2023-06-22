@@ -3,7 +3,7 @@ title: Learn about building and designing landing pages
 description: Drive higher conversions by building and designing landing pages that incorporate best practices.
 role: User
 level: Beginner
-kt: 10749
+jira: KT-10749
 thumbnail: 345468.jpeg
 exl-id: d1c497c4-fde2-471f-8993-a95319d4b611
 ---
