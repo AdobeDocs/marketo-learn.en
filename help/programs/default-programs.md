@@ -1,7 +1,6 @@
 ---
 title: Default Programs
-description: Learn how to create and measure your first Default Program.
-role: User
+description: Learn how to create and measure the success of your default programs.
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-05-23
@@ -11,6 +10,6 @@ exl-id: d9fbd960-6eab-4e3b-b9f4-69384556c95e
 ---
 # Default Programs
 
-Learn how to create and measure your first Default Program.
+Learn how to create and measure the success of your default programs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on)
