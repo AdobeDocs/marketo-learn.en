@@ -16,7 +16,7 @@ Smart Campaigns are the engine of Marketo. In addition to using Smart Campaigns 
 >[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
 
 
-## Additional Resources:
+## Additional Resources
 
 **Documentation:**
 
