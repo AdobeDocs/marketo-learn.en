@@ -17,6 +17,7 @@ breadcrumb-title: Marketo Engage Tutorials
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Default programs](/help/programs/default-programs.md)
+  + [Leverage the flexibility of Default Programs](/help/programs/leverage-the-flexibility-of-default-programs.md)
   + [Email programs](/help/programs/email-programs.md)
   + [Event programs](/help/programs/event-programs.md)
   + [Engagement programs](/help/programs/engagement-programs.md)
