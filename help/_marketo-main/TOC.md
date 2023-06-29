@@ -16,12 +16,13 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Navigate the UI](/help/fundamentals/ui-navigation.md)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
-  + [Default programs](/help/programs/default-programs.md)
-  + [Leverage the flexibility of Default Programs](/help/programs/leverage-the-flexibility-of-default-programs.md)
-  + [Email programs](/help/programs/email-programs.md)
+  + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
   + [Event programs](/help/programs/event-programs.md)
   + [Engagement programs](/help/programs/engagement-programs.md)
-  + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
+  + [Email programs](/help/programs/email-programs.md)
+  + [Default programs]{#default-programs}
+    + [Create and measure a default program](/help/programs/create-and-measure-default-programs.md)
+    + [Leverage the flexibility of Default Programs](/help/programs/leverage-the-flexibility-of-default-programs.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](/help/email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](/help/email-marketing/scheduled-email-watch.md)
