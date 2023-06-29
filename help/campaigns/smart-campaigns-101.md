@@ -1,5 +1,5 @@
 ---
-title: Smart Campaigns 101 - What you can do with Smart Campaigns beyond the core programs
+title: Smart Campaigns 101
 description: Learn  how you can use Smart Campaigns for data normalization and automated alerts.
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
 ---
-# Smart Campaigns 101 - What you can do with Smart Campaigns beyond the core programs
+# Smart Campaigns 101
 
 Smart Campaigns are the engine of Marketo. In addition to using Smart Campaigns to send out emails and programs, you can use smart campaigns for a variety of use cases. Learn  how you can use Smart Campaigns for data normalization and automated alerts.
 
