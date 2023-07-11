@@ -14,6 +14,8 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
   + [Navigate the UI](/help/fundamentals/ui-navigation.md)
+  + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+  + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -81,9 +83,6 @@ breadcrumb-title: Marketo Engage Tutorials
   + [CRM sync](/help/lead-and-data-management/crm-sync-learn.md)
   + [Lead lifecycle](/help/lead-and-data-management/lead-lifecycle-learn.md)
   + [Lead lifecycle walk-through](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ Instance management {#instance-management}
-  + [Best practices](/help/instance-management/best-practice-learn.md)
-  + [Best practices walk-through](/help/instance-management/best-practice-watch.md)
 + Events {#events}
   + [Events walk-through](/help/events/events-watch.md)
   + [Creating an event program](/help/events/events-learn.md)
