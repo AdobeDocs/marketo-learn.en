@@ -15,9 +15,9 @@ Understand the four program types, how to import programs, lead scoring programs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
 
-##Additional Resources:
+## Additional Resources
 
-Product guides:
+**Product guides:**
 
 * [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
 * [Create a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)

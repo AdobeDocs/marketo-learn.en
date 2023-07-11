@@ -17,7 +17,7 @@ When you first start working with Marketo Engage, the organization is key. Stayi
 
 ## Additional Resources
 
-Product guides:
+**Product guides:**
 
 * [Best Practice: How to Organize your Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [Clone a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
