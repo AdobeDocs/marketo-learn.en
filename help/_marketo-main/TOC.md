@@ -16,6 +16,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Navigate the UI](/help/fundamentals/ui-navigation.md)
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
+  + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -90,7 +91,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Webinars walk-through](/help/events/webinar-watch.md)
   + [Design an effective Interactive Webinar](/help/events/design-an-effective-interactive-webinar.md)
 + Reporting and analytics {#reporting}
-  +  [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
-  +  [Key reports](/help/reporting/key-reports.md)
+  + [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
+  + [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"} 
