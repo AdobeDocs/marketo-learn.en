@@ -6,7 +6,7 @@ level: Beginner
 jira: KT-10753
 thumbnail: 345472.jpeg
 exl-id: 0fd61398-601f-40a8-9aad-0d07814f9453
-feature: "Programs, Events"
+feature: Programs, Events
 ---
 # Learn about creating an event program
 
