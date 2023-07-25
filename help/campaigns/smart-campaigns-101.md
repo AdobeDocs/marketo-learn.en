@@ -8,6 +8,7 @@ last-substantial-update: 2023-05-30
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
+feature: Smart Campaigns
 ---
 # Smart Campaigns 101
 

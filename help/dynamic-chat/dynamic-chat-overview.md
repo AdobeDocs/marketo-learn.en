@@ -5,6 +5,7 @@ doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
+feature: Dynamic Chat
 ---
 # Dynamic Chat tutorials
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9697
 thumbnail: 340473.jpeg
 exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
+feature: Dynamic Chat
 ---
 # Product tour of [!UICONTROL Dynamic Chat] 
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9930
 thumbnail: 341158.jpeg
 exl-id: ee0bb66f-cc04-47ba-ba3e-d9f7d5ba0d6f
+feature: Email Setup
 ---
 # Filtering Email Bot Activities
 

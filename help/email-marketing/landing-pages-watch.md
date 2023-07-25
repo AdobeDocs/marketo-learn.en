@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10750
 thumbnail: 345469.jpeg
 exl-id: 2a7493c0-9627-4eb8-a01c-447f889b65f1
+feature: Landing Pages
 ---
 # Build and design landing pages
 

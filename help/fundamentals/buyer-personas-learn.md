@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10732
 thumbnail: 345415.jpeg
 exl-id: 50b9b05f-7235-4c9b-ba92-8d1284fa2e3d
+feature: Marketing
 ---
 # Learn about creating buyer personas
 

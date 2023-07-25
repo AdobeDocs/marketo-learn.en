@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12965
 thumbnail: 3416923.jpeg
 exl-id: b9bf800d-5d96-4a58-8296-f9466186a68c
+feature: Dynamic Chat
 ---
 # Dialogue preview
 

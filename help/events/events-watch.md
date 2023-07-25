@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10754
 thumbnail: 345473.jpeg
 exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
+feature: Programs, Events
 ---
 # Create an event program
 

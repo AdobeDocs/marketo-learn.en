@@ -5,6 +5,7 @@ doc-type: overview-page
 role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
+feature: Sales Insight Actions
 ---
 # Sales Insight Actions Tutorials
 

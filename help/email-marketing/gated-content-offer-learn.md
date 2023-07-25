@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10745
 thumbnail: 345464.jpeg
 exl-id: bcf0ded2-573c-4b6f-b41b-7e1d414f78ef
+feature: Programs
 ---
 # Learn about building a gated content email program
 

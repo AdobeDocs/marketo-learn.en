@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10738
 thumbnail: 345422.jpeg
 exl-id: 2ccb3cb4-3f4f-415c-b592-7504903f0d81
+feature: Programs
 ---
 # Learn about building a lead lifecycle program
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10756
 thumbnail: 345475.jpeg
 exl-id: 5c68bede-6920-4a77-9a43-f8e5974988b7
+feature: Forms
 ---
 # How to create and edit forms
 

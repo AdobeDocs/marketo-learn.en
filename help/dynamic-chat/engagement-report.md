@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12964
 thumbnail: 3416921.jpeg
 exl-id: bb4d0570-5790-454c-8787-ae18b6ebe7ce
+feature: Dynamic Chat
 ---
 # Engagement report
 

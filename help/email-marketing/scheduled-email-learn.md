@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10747
 thumbnail: 345466.jpeg
 exl-id: 751006dd-0e21-4371-a04a-79d24cfe70d9
+feature: Programs
 ---
 # Learn about building a scheduled email program
 

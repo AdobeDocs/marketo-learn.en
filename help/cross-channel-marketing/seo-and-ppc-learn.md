@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10731
 thumbnail: 345401.jpeg
 exl-id: 1ab0de6b-7a9e-4b86-a9f6-2ba655d9e1fc
+feature: SEO
 ---
 # Learn about optimizing your SEO efforts with [!DNL Marketo]
 

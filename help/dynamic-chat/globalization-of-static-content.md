@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12966
 thumbnail: 3416924.jpeg
 exl-id: 19ccc619-50f9-4737-875c-8f87f55a0183
+feature: Dynamic Chat
 ---
 # Globalization of static content
 

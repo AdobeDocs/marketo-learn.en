@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-13203
 thumbnail: 3418042.jpg
 exl-id: ac796291-63d9-4909-9ec3-5c3a1206c394
+feature: Programs, Smart Campaigns
 ---
 # Understanding programs and campaigns
 

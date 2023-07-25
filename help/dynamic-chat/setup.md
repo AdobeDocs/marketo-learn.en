@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9693
 thumbnail: 340257.jpeg
 exl-id: 63e6df39-2315-4587-ba80-8e38e5555dc3
+feature: Dynamic Chat
 ---
 # Setup and install your chatbot
 

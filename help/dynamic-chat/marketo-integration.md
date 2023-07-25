@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
+feature: Dynamic Chat
 ---
 # Activate your Marketo Integration with [!UICONTROL Dynamic Chat] 
 

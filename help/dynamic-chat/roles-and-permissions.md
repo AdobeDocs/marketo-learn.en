@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12967
 thumbnail: 3416920.jpeg
 exl-id: ac7de00d-9093-427a-bbf7-c26a703d9c63
+feature: Dynamic Chat
 ---
 # Roles and Permissions
 

@@ -4,6 +4,7 @@ description: Accessing Your Sales Insight Actions Instance
 role: User
 level: Beginner
 exl-id: 6851ed6e-216c-4f07-ab4c-18fde0a142fa
+feature: Sales Insight Actions
 ---
 # Accessing Your Sales Insight Actions Instance {#accessing-your-sales-insight-actions-instance}
 

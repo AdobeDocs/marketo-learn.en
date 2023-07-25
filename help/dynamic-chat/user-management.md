@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9686
 thumbnail: 340249.jpeg
 exl-id: c6007829-9831-4259-a37e-20a2d318734f
+feature: Dynamic Chat
 ---
 # Add and manage users of [!UICONTROL Dynamic Chat] 
 

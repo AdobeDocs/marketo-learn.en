@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10764
 thumbnail: 345481.jpeg
 exl-id: abc6d870-6c2c-453f-9239-424cb2803aec
+feature: Deliverability
 ---
 # Learn about optimizing email deliverability
 

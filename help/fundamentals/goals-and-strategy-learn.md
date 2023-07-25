@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10735
 thumbnail: 345419.jpeg
 exl-id: 8fda2fba-97df-48f0-a1ce-37d60eaa3730
+feature: Marketing
 ---
 # Learn about developing  marketing goals and strategy
 

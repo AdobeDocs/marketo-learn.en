@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10767
 thumbnail: 345484.jpeg
 exl-id: 06d37d77-4785-474d-b750-0aa1d82e1cd5
+feature: A/B Testing
 ---
 # Create an A/B test
 

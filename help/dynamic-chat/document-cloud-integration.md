@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10495
 thumbnail: 343479.jpeg
 exl-id: e8c1f602-ceff-48a9-8a1c-8edb47dd5946
+feature: Dynamic Chat
 ---
 # Embed PDF in Conversations
 
