@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10734
 thumbnail: 345417.jpeg
 exl-id: 5b238132-3ea3-4cc8-a079-b107bb32da36
+feature: Marketing
 ---
 # Learn about developing a content marketing strategy
 

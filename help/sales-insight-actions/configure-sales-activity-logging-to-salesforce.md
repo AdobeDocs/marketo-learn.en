@@ -4,6 +4,7 @@ description: Configure Sales Activity Logging to [!DNL Salesforce]
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
+feature: Sales Insight Actions
 ---
 # Configure Sales Activity Logging to [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
 

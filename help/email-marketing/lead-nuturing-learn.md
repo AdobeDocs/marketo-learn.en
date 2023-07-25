@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10761
 thumbnail: 345478.jpeg
 exl-id: e2fc507e-d274-4341-857b-463ffa56558a
+feature: Engagement Programs
 ---
 # Learn about creating and running [!UICONTROL lead] nurturing campaigns
 

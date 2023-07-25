@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12968
 thumbnail: 3416925.jpeg
 exl-id: 598814fc-75f4-46b8-8975-c0a1c43b92ea
+feature: Dynamic Chat
 ---
 # Search in Stream designer
 

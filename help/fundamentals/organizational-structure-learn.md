@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10733
 thumbnail: 345416.jpeg
 exl-id: 935f92e8-ad52-44aa-90a3-396906e3a0c3
+feature: Marketing
 ---
 # Learn about defining your marketing organization structure
 

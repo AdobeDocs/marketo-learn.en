@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10766
 thumbnail: 345483.jpeg
 exl-id: 94527801-50cc-4eb0-b75e-7db6911c38aa
+feature: A/B Testing
 ---
 # Learn about using A/B testing to improve email performance
 

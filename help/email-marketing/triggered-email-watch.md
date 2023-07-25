@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10763
 thumbnail: 345480.jpeg
 exl-id: 0fc3cc78-080c-4d55-a2e5-d07b8fa8305b
+feature: Smart Campaigns
 ---
 # Create triggered email campaigns
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10768
 thumbnail: 345485.jpeg
 exl-id: fe19fc67-60d0-47ee-9d76-88210ca37415
+feature: "Dynamic Content, Predictive Content"
 ---
 # Learn about using dynamic and predictive content in emails
 

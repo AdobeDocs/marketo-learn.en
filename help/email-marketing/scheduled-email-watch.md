@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10748
 thumbnail: 345467.jpeg
 exl-id: 17525478-7f0e-4aaa-8fb8-af9f966b0c4f
+feature: Programs
 ---
 # Build a scheduled email program
 

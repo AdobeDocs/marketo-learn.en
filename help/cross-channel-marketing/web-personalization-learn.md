@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10725
 thumbnail: 345405.jpeg
 exl-id: bc772311-71f5-4b54-a5f2-c88a04621965
+feature: Web Personalization
 ---
 # Learn about engaging visitors with web personalization
 

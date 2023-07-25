@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10752
 thumbnail: 345470.jpeg
 exl-id: 7cd6e9a4-49cf-44f8-9909-bf9bbedfdbeb
+feature: Email Programs
 ---
 # How to create a personalized newsletter 
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10743
 thumbnail: 345427.jpeg
 exl-id: 03a46ec2-563a-4ebb-a8f4-0a23d17c2ce2
+feature: Deliverability
 ---
 # How to set up and manage a subscription center
 

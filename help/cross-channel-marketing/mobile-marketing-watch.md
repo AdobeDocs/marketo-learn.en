@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10729
 thumbnail: 345402.jpeg
 exl-id: 8e82a586-2001-4b7e-a2d4-073e78045854
+feature: Mobile Marketing
 ---
 # Integrate mobile marketing with Marketo
 

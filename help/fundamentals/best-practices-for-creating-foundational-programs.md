@@ -7,6 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11
 jira: KT-13567
 thumbnail: 3421275.jpeg
+feature: Programs
 ---
 
 # Best practices for creating foundational programs

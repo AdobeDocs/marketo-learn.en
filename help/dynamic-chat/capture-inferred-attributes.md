@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-20
 jira: KT-12963
 thumbnail: 3416922.jpeg
 exl-id: 0c6d016c-3d79-43ab-adb6-490aeb9717ef
+feature: Dynamic Chat
 ---
 # Capturing inferred attributes
 

@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10751
 thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
+feature: Programs
 ---
 # Learn about creating a personalized newsletter email progra… (Titles should be no more than 60 characters)
 

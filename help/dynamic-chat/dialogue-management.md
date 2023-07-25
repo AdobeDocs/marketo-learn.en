@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-9698
 thumbnail: 340259.jpeg
 exl-id: 1c02fc09-feec-4506-9941-76ceeb1e3520
+feature: Dynamic Chat
 ---
 # Create and manage personalized Dialogues
 

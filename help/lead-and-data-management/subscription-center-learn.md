@@ -6,6 +6,7 @@ level: Beginner
 jira: KT-10742
 thumbnail: 345426.jpeg
 exl-id: 969ce461-d932-44ea-90b2-975fa79525c2
+feature: Deliverability
 ---
 # Learn about setting up and managing a subscription center
 
