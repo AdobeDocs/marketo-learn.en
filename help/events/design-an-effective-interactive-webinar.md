@@ -2,6 +2,8 @@
 title: Design an Effective Interactive Webinar
 description: Learn how to create and design an effective Interactive Webinar
 jira: KT-13352
+thumbnail: 3418602.jpeg
+feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
