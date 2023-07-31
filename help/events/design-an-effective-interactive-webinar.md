@@ -7,7 +7,6 @@ feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-feature: Programs, Events
 ---
 # Design an Effective Interactive Webinar {#design-an-effective-interactive-webinar}
 
