@@ -1,6 +1,7 @@
 ---
 title: Engagement map nested campaigns
 description: Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using Engagement Map.
+feature: Smart Campaigns
 role: User
 level: Beginner
 doc-type: Feature Video
