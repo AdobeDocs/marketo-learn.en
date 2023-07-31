@@ -26,6 +26,10 @@ breadcrumb-title: Marketo Engage Tutorials
     + [Create and measure a default program](/help/programs/create-and-measure-default-programs.md)
     + [Leverage the flexibility of default programs](/help/programs/leverage-the-flexibility-of-default-programs.md)
   + [Engagement programs](/help/programs/engagement-programs.md)
+  + Engagement maps {#engagement-maps}
+    + [Engagement map overview](help/campaigns/engagement-maps/engagement-map-overview.md)
+    + [Engagement map nested campaigns](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+    + [Engagement map error detection and resolution](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + Email marketing {#email-marketing}
   + [Scheduled email](/help/email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](/help/email-marketing/scheduled-email-watch.md)
