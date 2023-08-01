@@ -4,7 +4,7 @@ description: Learn how Engagement Map aids in troubleshooting and fixing campaig
 feature: Smart Campaigns
 role: User
 level: Beginner
-hidefromtoc: yes
+hidefromtoc: no
 doc-type: Feature Video
 last-substantial-update: 2023-07-31
 jira: KT-13742

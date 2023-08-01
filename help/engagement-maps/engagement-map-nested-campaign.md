@@ -5,7 +5,7 @@ feature: Smart Campaigns
 role: User
 level: Beginner
 doc-type: Feature Vide
-hidefromtoc: yes
+hidefromtoc: no
 last-substantial-update: 2023-07-31
 jira: KT-13741
 thumbnail: 3422235.jpeg
