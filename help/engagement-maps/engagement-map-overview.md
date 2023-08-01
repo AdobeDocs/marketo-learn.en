@@ -5,6 +5,7 @@ feature: Smart Campaigns
 role: User
 level: Beginner
 doc-type: Feature Video
+hidefromtoc: yes
 last-substantial-update: 2023-07-31
 jira: KT-13740
 thumbnail: 3422232.jpeg
