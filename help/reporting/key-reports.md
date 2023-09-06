@@ -16,11 +16,15 @@ feature: Reporting
 
 Learn about the key reports within Marketo Engage and how to pull them.
 
-1.  Read the related product guides:
+>[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on)
+
+## Additional resources
+
+Read the related product guides:
 
     [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
 
-1.  Learn from your peers:
+Learn from your peers:
 
     * [Expert Customer Blog post: How Champion Chelsea Kiko Reports in Various Marketo Engage Spaces](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627) 
     * [Expert Customer Webinar: Beyond the Basics with Courtney Tobe](https://nation.marketo.com/t5/product-blogs/on-demand-webinar-beyond-the-basics-marketo-reporting/ba-p/302116)
