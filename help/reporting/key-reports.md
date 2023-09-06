@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-30
 jira: KT-13261
 thumbnail: 3420138.jpeg
-hide: yes
-hidefromtoc: yes
+hide: false
+hidefromtoc: false
 exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
 feature: Reporting
 ---
