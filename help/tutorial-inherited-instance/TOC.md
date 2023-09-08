@@ -8,7 +8,8 @@ role: Admin
 level: Beginner
 ---
 
-# Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance  {#auditing-an-inherited-instance}
+# Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance {#auditing-an-inherited-instance}
 
 + [Tutorial overview](/help/tutorial-inherited-instance/overview.md)
++ [Pre-launch QA Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
   

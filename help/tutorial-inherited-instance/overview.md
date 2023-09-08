@@ -13,7 +13,8 @@ thumbnail: KT-13890.jpeg
 # Tips and Tricks for auditing an inherited Marketo Engage instance - tutorial overview
 
 Learn how to optimize and scale a live Marketo Engage instance that you just inherited. Sourced Adobe Marketo Champions, this 'Inherited Instance Audit Tips and Tricks series provides step by step guidance on topics such as how to audit an inherited instance, admin routine for troubleshooting, database hygiene, deep dive of the instance 'Admin' settings, and more.   
-  
+ 
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on) 
 
 If you inherit a live Marketo Engage instance that has been managed by multiple people, you may find yourself making mental notes of everything that seems out of place.  
 
