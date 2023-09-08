@@ -23,14 +23,14 @@ It is important to organize the cleanup and optimization work by categorizing th
 This 'Inherited Instance Audit Tips and Tricks series is sourced from Adobe Marketo Champions, providing step-by-step guidance for new admins like you who just stepped into a new role of managing an existing Marketo Engage instance. Lack of examples to start with? These tutorials also accompany downloadable templates for you to jump-start an inherited instance right away. Get inspired by learning from peers! 
 
 ## What you will learn
-  
- * How to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance 
 
- * Establish an admin routine to review notifications, CRM sync, Launchpoint, and Web services and troubleshoot errors timely 
+* How to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance 
 
- * Quick efficiency wins to optimize program build, governance, and overall marketing operations 
+* Establish an admin routine to review notifications, CRM sync, Launchpoint, and Web services and troubleshoot errors timely 
 
- * Map out data sources with a visual architecture diagram to understand your tech stack
+* Quick efficiency wins to optimize program build, governance, and overall marketing operations 
 
- * Establish an effective program pre-launch QA process to avoid mistakes.
+* Map out data sources with a visual architecture diagram to understand your tech stack
+
+* Establish an effective program pre-launch QA process to avoid mistakes.
 
