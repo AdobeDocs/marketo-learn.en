@@ -48,4 +48,30 @@ Rules of thumb to keep in mind:
 
 **Step 4:** There may be items that are missing or not applicable as your team conducts this exercise a few times. Revisit this checklist (e.g. quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
 
-## Example Template: Program Pre-launch Checklist 
+## Example Template: Program Pre-launch Checklist
+
+>[!BEGINTABS]
+
+>[!TAB  Key Details and Planning]
+
+|#|Review|Questions to ask|Example|Acceptance Criteria|Additional Resources|
+|---|---|---|---|---|---|
+|1|**Program type**| Is it appropriate? |If Engagement program, is it logical? If Default, is it logical?| If you cannot answer this question with a **yes**, you may need to change your program type.| [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)|
+|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?| If you cannot answer this question with a **yes**, you will need to either change your channel or discuss the creation of a new one with a Marketo Engage admin| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
+|3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|If you cannot answer this question with a **yes**, or aren't sure, review your naming conventions and if necessary, update the name of your program.||
+|4|**Period Cost**|Has the program had a period cost tag assigned?||If you cannot answer this question with a **yes**, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
+|5|**Success**| Has the program's objective and success metric been clearly identified? Do you know how you're going to measure it? Is it being marked with a program status change?||If you cannot answer this question with a **yes**, you will not have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.||
+|6|Audience|Has the program's audience been clearly identified?||If you cannot answer this question with a **yes**, find out before you plan to send.||
+|7|**Tokens**|Have all required program tokens been updated?||**Yes, or N/A**: If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab, and see whether the program contains any local tokens that need to be updated||[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html)|
+
+>[!TAB Web Personalization Campaigns]
+
+|#|Review|Questions to ask|Acceptance Criteria|
+|---|---|---|---|
+|1|**Design**|Is the design consistent with your brand guidelines?|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|
+|2|**Testing**|Has it been tested across devices? browsers? Does it both render cleanly and function?| If you cannot answer with a yes, you should test this across devices and browsers.|
+|3|**Data**|Has it been tested across devices? browsers? Does it both render cleanly and function?|If you cannot answer with a yes, you should test this.|
+|4|**Tracking**|If you have a form in the campaign, are hidden UTM fields in place to track sources of submissions? Have these been tested?|**Yes or no:** If you answer no, understand that your ability to track which sources directed people to this form will be more limited.|
+|5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with functioning Privacy Policy link?|Understand your relevant compliance environment: if you cannot answer this question with a yes, you need to update the Privacy Policy section to ensure it is compliant. **If you do not know, seek appropriate advice from your Legal team.**|
+|6|**Google Analytics Integration**|Is your Web Personalization integrated with Google Analytics?|**Yes or no**: If answering no, understand that your ability to track what web personalization impact will be more limited.|
+|7|**Segments**|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|If you cannot answer with a yes, you'll need to update it.|
