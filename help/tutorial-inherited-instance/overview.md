@@ -33,4 +33,3 @@ This 'Inherited Instance Audit Tips and Tricks series is sourced from Adobe Mark
 * Map out data sources with a visual architecture diagram to understand your tech stack
 
 * Establish an effective program pre-launch QA process to avoid mistakes.
-
