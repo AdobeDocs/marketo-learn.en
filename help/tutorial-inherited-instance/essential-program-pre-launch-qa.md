@@ -1,7 +1,7 @@
 ---
 title: Essential Program Pre-launch QA Process for Success
 description: Learn how you as a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently. We will use the Program Pre-launch Checklist authored by Adobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements to watch out for and requirements for each.
-feature: Administrate
+feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
