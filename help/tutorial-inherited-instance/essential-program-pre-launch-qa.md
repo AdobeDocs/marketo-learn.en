@@ -58,95 +58,124 @@ Rules of thumb to keep in mind:
 
 |#|Review|Questions to ask|Example|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|---|
-|1|**Program type**| Is it appropriate? |If an Engagement program, is it logical? If Default, is it logical?| If you cannot answer this question with a **yes**, you may need to change your program type.| [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)|
-|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?| If you cannot answer this question with a **yes**, you need to either change your channel or discuss the creation of a new one with a Marketo Engage admin| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
-|3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|If you cannot answer this question with a **yes**, or aren't sure, review your naming conventions and if necessary, update the name of your program.||
-|4|**Period Cost**|Has the program had a period cost tag assigned?||If you cannot answer this question with a **yes**, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
-|5|**Success**| Has the program's objective and success metric been clearly identified? Do you know how you're going to measure it? Is it being marked with a program status change?||If you cannot answer this question with a **yes**, you will not have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.||
-|6|Audience|Has the program's audience been clearly identified?||If you cannot answer this question with a **yes**, find out before you plan to send.||
-|7|**Tokens**|Have all required program tokens been updated?||**Yes, or N/A**: If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab, and see whether the program contains any local tokens that must be updated||[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html)|
+|1|**Program type**| Is it appropriate? |If an Engagement program, is it logical? If Default, is it logical?| **Yes:** If you cannot answer this question with a yes, you may need to change your program type.| [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)|
+|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?|**Yes:** If you cannot answer this question with a yes, you need to either change your channel or discuss the creation of a new one with a Marketo Engage admin| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
+|3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|**Yes:** If you cannot answer this question with a yes, or aren't sure, review your naming conventions and if necessary, update the name of your program.||
+|4|**Period Cost**|Has the program had a period cost tag assigned?||**Yes:** If you cannot answer this question with a yes, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
+|5|**Success**| Has the program's objective and success metric been clearly identified? Do you know how you're going to measure it? Is it being marked with a program status change?||**Yes:** If you cannot answer this question with a yes, you will not have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.||
+|6|Audience|Has the program's audience been clearly identified?||**Yes:** If you cannot answer this question with a yes, find out before you plan to send.||
+|7|**Tokens**|Have all required program tokens been updated?||**Yes or not applicable**: If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab, and see whether the program contains any local tokens that must be updated||[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html)|
 
 >[!TAB Web Personalization Campaigns]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|
-|1|**Design**|Is the design consistent with your brand guidelines?|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|
-|2|**Testing**|Has it been tested across devices? browsers? Does it both render cleanly and function?| If you cannot answer with a yes, you should test this across devices and browsers.|
-|3|**Data**|Has it been tested across devices? browsers? Does it both render cleanly and function?|If you cannot answer with a yes, you should test this.|
+|1|**Design**|Is the design consistent with your brand guidelines?|**Yes:** If you cannot answer this with a yes, you either need a good reason for it or you need to redesign the assets.|
+|2|**Testing**|Has it been tested across devices? browsers? Does it both render cleanly and function?|**Yes:** If you cannot answer with a yes, you should test this across devices and browsers.|
+|3|**Data**|If there is a form in the campaign, has the form been tested? Do all triggers flow as expected? Do all form fields map accurately? Can you prove this, having checked a lead record's activity log - not just the fields?|**Yes:** If you cannot answer with a yes, you should test this.|
 |4|**Tracking**|If you have a form in the campaign, are hidden UTM fields in place to track sources of submissions? Have these been tested?|**Yes or no:** If you answer no, understand that your ability to track which sources directed people to this form will be limited.|
-|5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with a functioning Privacy Policy link?|Understand your relevant compliance environment: if you cannot answer this question with a yes, you must update the Privacy Policy section to ensure it is compliant. **If you do not know, seek appropriate advice from your Legal team.**|
-|6|**Google Analytics Integration**|Is your Web Personalization integrated with Google Analytics?|**Yes or no**: If answering no, understand that your ability to track what web personalization impact will be limited.|
-|7|**Segments**|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|If you cannot answer with a yes, you need to update it.|
+|5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with a functioning Privacy Policy link?|**Yes:** Understand your relevant compliance environment: if you cannot answer this question with a yes, you must update the Privacy Policy section to ensure it is compliant. **If you do not know, seek appropriate advice from your Legal team.**|
+|6|**Google Analytics Integration**|Is your Web Personalization integrated with Google Analytics?|**Yes or no:** If answering no, understand that your ability to track what web personalization impact will be limited.|
+|7|**Segments**|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|**Yes:**  If you cannot answer with a yes, you need to update it.|
 
 >[!TAB Forms]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|
-|1|**Responsive**|Is the form device responsive?|f you cannot answer this with a yes, you should update the CSS to make it responsive or it may impact your performance.|
-|2|**Design**|Is the design of the form brand consistent?|If you cannot answer this with a yes, you either need a good reason for it or you must update the CSS to make it on brand.|
-|3|**Data Flow**|Does all data map to fields as intended? Have you checked a test record's activity log to prove this?|If you cannot answer with a yes, you should fix and test the mapping.|
-|4|**Tracking**|Are hidden UTM fields in place to track sources of submissions to this form? Have these been tested?|Yes or no: If answering no, understand that your ability to track what sources directed people to this form will be limited.|
-|5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with a functioning Privacy Policy link?|Know your relevant compliance environment: If you cannot answer this question with a yes, you must update to ensure it is compliant. If you do not know, seek appropriate advice.|
+|1|**Responsive**|Is the form device responsive?|**Yes:** If you cannot answer this with a yes, you should update the CSS to make it responsive or it may impact your performance.|
+|2|**Design**|Is the design of the form brand consistent?|**Yes:** If you cannot answer this with a yes, you either need a good reason for it or you must update the CSS to make it on brand.|
+|3|**Data Flow**|Does all data map to fields as intended? Have you checked a test record's activity log to prove this?|**Yes:** If you cannot answer with a yes, you should fix and test the mapping.|
+|4|**Tracking**|Are hidden UTM fields in place to track sources of submissions to this form? Have these been tested?|**Yes or no:** If answering no, understand that your ability to track what sources directed people to this form will be limited.|
+|5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with a functioning Privacy Policy link?|**Yes:** Know your relevant compliance environment: If you cannot answer this question with a yes, you must update to ensure it is compliant. **If you do not know, seek appropriate advice.**|
 
 >[!TAB Smart Campaigns]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|
-|1|**Accuracy**|Have all necessary Smart Campaigns been checked, reviewed, and considered accurate?|If you cannot answer with a yes, you should fix and check these before proceeding.|
-|2|**Send count**|If your email sending campaign is a batch campaign (not triggered) look at the count of leads in the 'schedule' tab - do the numbers align to what you expect? Is it below the abort threshold?|If you cannot answer with a yes, you should fix and check these before proceeding.|
-|3|**Master Rules**|Are master segmentations/lists being used if appropriate or where appropriate?|**Yes / N/A**.: Master lists/segmentations are designed to reduce the number of fields you must reference and reduce the risk of human error. You should be very confident of your rules if not using master lists/segmentations.|
-|4|**Attribution**|If the program is acquiring new leads (e.g., an event program) are attribution settings included as required? Is the acquisition program being mapped?|**Yes / N/A:** If you are importing leads to your program, or your program will be acquiring new leads, you should have acquisition program settings used.|
-|5|**Engagement Programs**|If documenting an engagement program, are there campaigns in place to ensure members are added, paused, and restarted as appropriate? Have these steps been sense-checked by others?|**Yes / N/A:** If this is an engagement program, and you cannot answer with a yes without good reason, don't activate until this is in place.|
-|6|**Subscription Preferences**|Have all necessary subscription preference factors been included? |**Yes / N/A:** If you're unsure, ask your Marketo Engage admin. You'll need a good reason to proceed with N/A (e.g., operational sends).|
-|7|**Program Status**|Are there flow steps included to update program statuses? |f you cannot answer with a yes, you should to add these into your smart campaign flow steps (see [Change Program Status- Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html))|
-|8|**Broader Impact**|Are any flow steps sending alerts/writing to fields that sync to other teams/systems? If so, has volume been considered and have stakeholders for those teams/systems been advised?  |**Yes / No / N/A:** Any answer is okay but if it does map you should usually inform the team that owns the system. If you're not sure, ask your admins.|
-|9|**Scoring Impact**|Have any implications to lead scoring been considered? |**Yes / N/A:** If you can't answer yes or not applicable, ask your admin.|
-|10|**RCM Impact**|Have any implications to the lead lifecycle model been considered?||
-|11|**Nurture Impact**|Have any implications to existing nurture programs been considered? Have you ensured people will not be bombarded by multiple communications?|   **Yes / N/A:** If you can't answer yes or not applicable, ask your admin.|
-|12|**Reporting Success**|Is program success being measured logically? Is the success reasonable - not too close in the process? Not too far to achieve? Do you have a strategy for how you will report on and measure success to communicate internally?|If you can't answer yes, rethink your success metric definition.|
+|1|**Accuracy**|Have all necessary Smart Campaigns been checked, reviewed, and considered accurate?|**Yes:** If you cannot answer with a yes, you should fix and check these before proceeding.|
+|2|**Send count**|If your email sending campaign is a batch campaign (not triggered) look at the count of leads in the 'schedule' tab - do the numbers align to what you expect? Is it below the abort threshold?|**Yes:** If you cannot answer with a yes, you should fix and check these before proceeding.|
+|3|**Master Rules**|Are master segmentations/lists being used if appropriate or where appropriate?|**Yes or not applicable:** Master lists/segmentations are designed to reduce the number of fields you must reference and reduce the risk of human error. You should be very confident of your rules if not using master lists/segmentations.|
+|4|**Attribution**|If the program is acquiring new leads (e.g., an event program) are attribution settings included as required? Is the acquisition program being mapped?|**Yes or not applicable:** If you are importing leads to your program, or your program will be acquiring new leads, you should have acquisition program settings used.|
+|5|**Engagement Programs**|If documenting an engagement program, are there campaigns in place to ensure members are added, paused, and restarted as appropriate? Have these steps been sense-checked by others?|**Yes or not applicable:** If this is an engagement program, and you cannot answer with a yes without good reason, don't activate until this is in place.|
+|6|**Subscription Preferences**|Have all necessary subscription preference factors been included? |**Yes or not applicable:** If you're unsure, ask your Marketo Engage admin. You'll need a good reason to proceed with N/A (e.g., operational sends).|
+|7|**Program Status**|Are there flow steps included to update program statuses? |**Yes:** If you cannot answer with a yes, you should to add these into your smart campaign flow steps (see [Change Program Status- Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html))|
+|8|**Broader Impact**|Are any flow steps sending alerts/writing to fields that sync to other teams/systems? If so, has volume been considered and have stakeholders for those teams/systems been advised?  |**Yes, no or not applicable:** Any answer is okay but if it does map you should usually inform the team that owns the system. If you're not sure, ask your admins.|
+|9|**Scoring Impact**|Have any implications to lead scoring been considered? |**Yes or not applicable:** If you can't answer yes or not applicable, ask your admin.|
+|10|**RCM Impact**|Have any implications to the lead lifecycle model been considered?|**Yes or not applcable:** If you can't answer yes or cot applicable, ask your admin.|
+|11|**Nurture Impact**|Have any implications to existing nurture programs been considered? Have you ensured people will not be bombarded by multiple communications?|   **Yes or not applicable:** If you can't answer yes or not applicable, ask your admin.|
+|12|**Reporting Success**|Is program success being measured logically? Is the success reasonable - not too close in the process? Not too far to achieve? Do you have a strategy for how you will report on and measure success to communicate internally?|**Yes:** If you can't answer yes, rethink your success metric definition.|
 
 >[!TAB Lists]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|
-|1|**Logic**|If smart lists are being used to identify any part of the audience, has the logic been checked, reviewed, and considered accurate?|If you cannot answer with a yes, you should fix the smart list set up, and check these before proceeding.|
-|2|**List Import Processes**|If static lists are being used to identify any part of the audience, is the data source trustworthy and has the import been done accurately & according to your list import processes?|If you cannot answer with a yes, you should fix the list data and check these before proceeding.|
-|3|**Exclusions**|Are any required exclusions being included (for example competitors, unsubscribe, black blocklists)| **Yes / N/A:** You must have unsubscribes filtered out unless you have a very good, legally compliant reason not to. You should be very confident of your content, campaign rules and legal basis if not including any of these.|
-|4|**Master Lists**|Are master lists/segmentations being used where appropriate?    |**Yes / N/A:** Master lists/segmentations are designed to reduce the number of fields you must reference and reduce the risk of human error. You should be very confident of your rules if not using master lists/segmentations.|
+|1|**Logic**|If smart lists are being used to identify any part of the audience, has the logic been checked, reviewed, and considered accurate?|**Yes:** If you cannot answer with a yes, you should fix the smart list set up, and check these before proceeding.|
+|2|**List Import Processes**|If static lists are being used to identify any part of the audience, is the data source trustworthy and has the import been done accurately & according to your list import processes?|**Yes:** If you cannot answer with a yes, you should fix the list data and check these before proceeding.|
+|3|**Exclusions**|Are any required exclusions being included (for example competitors, unsubscribe, black blocklists)| **Yes or not applicable:** You must have unsubscribes filtered out unless you have a very good, legally compliant reason not to. You should be very confident of your content, campaign rules and legal basis if not including any of these.|
+|4|**Master Lists**|Are master lists/segmentations being used where appropriate?    |**Yes or not applicable:** Master lists/segmentations are designed to reduce the number of fields you must reference and reduce the risk of human error. You should be very confident of your rules if not using master lists/segmentations.|
 
 >[!TAB Audience]
 
 |#|Review|Questions to ask|Acceptance Criteria|
-|---|---|---|---|---|
-|
+|---|---|---|---|
+|1|**Legal Basis**|You have an appropriate legal basis for contacting your audience - either: <ul><li>**Explicit:** They have explicitly opted in to receive marketing communications from your brand</li><li>**Inferred (where compliant):*** They have provided you with their contact details and can reasonably expect that you will use this information to contact them.</li><li>**Deemed (where compliant):** You have obtained their contact details from a public source and can reasonably assume the content is relevant to them, given the public source.</li></ul>|**Yes and state the basis:** Be sure whatever basis you choose is valid in your compliance environment. If you cannot answer with a yes, hold off on launching the program and seek clarification regarding the legal basis for contacting this audience.|
+|2|**Data Sources**|If you are identifying your audience through an import list, is your data source trustworthy?|**Yes / Not applicable:** If you cannot answer with a yes, seek clarification on the data source.|
+|3|**List Purchasing**| Has the audience been sourced through list purchasing or sponsorship activities?|**No if source = list purchasing:** List purchasing is bad practice, illegal in many places, and often a breach of your contract with your Marketing Automation platform.|
+|||||Yes, if source = sponsorship. In sponsorship & competition cases, ensure the data capture was compliant. It is best practice to be clear in the first communication about how you received their info, and to make opt out easy for people.|
+|4|*Relevance*|The information you are about to send this audience is relevant to them and to their relationship with you.|**Yes:** If you cannot answer with a yes, stop and consider very carefully why you are sending to these people. Sending information that is not relevant to them or their relationship with you is likely to adversely affect performance, deliverability, and may be a breach in your compliance environment.|
+|5|**Expectation**|This audience expects to hear from you.|**Yes:** If you cannot answer with a yes, stop and consider very carefully why you are sending to these people. Sending to an audience who do not want or expect to hear from you is likely to adversely affect performance, deliverability, and may be a breach in your compliance environment.|
 
 
 >[!TAB Email Asset Testing Checklist]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|---|
-|1|||||
-|2|||||
-|3|||||
-|4|||||
-|5|||||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
-|11|||||
-|12|||||
-|13|||||
-|14|||||
-|15|||||
-|16|||||
-|17|||||
-|18|||||
-|19|||||
-|20|||||
-|21|||||
-|22|||||
+|1    Sender email address: checked with brand owner, confirmed to be safe for use.    Yes. If you cannot answer with a yes, you should check the sender email before proceeding.
+2    Sender name: checked with brand owner, confirmed to be safe for use.    Yes. If you cannot answer with a yes, you should check before proceeding.
+3    Reply-to address: checked with brand owner, confirmed to be safe for use.    Yes. If you cannot answer with a yes, you should check before proceeding.
+4    Preheader settings: pre-header has been set according to best practice (min. 80 char, full sentences, front load the valuable bits.)    Yes. If you cannot answer with a yes, you should update before proceeding.
+5    Copy Proofing: no spelling or grammar issues found; tone is brand appropriate    Yes. If you cannot answer with a yes, you should fix before proceeding.
+6    Scannability: can you comprehend the key information in this email at a scan?    Yes / N/A. Email best practice suggests that it's important to ensure your email's key message can be understood at a scan. If you choose not to apply this practice, be aware it may impact your email's performance.
+7    Unsubscribe: The email has a functional unsubscribe link, which you have tested.    Yes / N/A. N/A should only be valid if the email is operational. Be confident that unsubscribe will not be required, if in doubt, inclusion is safer.
+8    Text Version: A text version of the email has been created, and you have sent yourself a test of the text version.    Yes. If you cannot answer with a yes, you should test before proceeding.
+9    Text Version Optimization: the layout of the text version has been optimized. No HTML comments are visible, all relevant content is included.    Yes. Auto-generated text versions can be awful to read - it's worth optimizing them.
+10    Text Version Hyperlinks & UTMS: hyperlinks work & include UTMs, across:
+·      header section
+·      image areas (if included)
+·      body
+·      CTA(s)
+·      footer    Yes. If you cannot answer with a yes, you should fix and check these before proceeding. Be aware that automatic text versions don't pull through variables reliably!
+11    HTML/Main Version: An HTML/primary version of the email has been created, and you have sent yourself a test of it.    Yes (unless plain text only). If you cannot answer with a yes, you should send yourself a test before proceeding.
+12    Images: All images have alt text, and none are broken.    Yes / N/A. If you cannot answer with a yes, you should fix and check these before proceeding (unless there are no images).
+13    Image Compression: All images were saved for web from your image editing software, and then compressed prior to uploading, and email load time is acceptable.
+(Note: Your hero images should be below 120kb, and all smaller images should be smaller. High load times will impact performance).    Yes / N/A. All images (if any are used) should be compressed to improve load speed.
+14    HTML Version Hyperlinks & UTMs: hyperlinks work & include UTMs, across:
+·      header section
+·      images
+·      body
+·      CTA(s)
+·      footer     
+Yes. Don't send broken links. If you can't answer yes, fix before continuing.
+15    Dynamic content: Does your email have dynamic content in it? Have you tested it across multiple scenarios?    Yes. If you cannot answer with a yes, you should test this before proceeding.
+16    Legal requirements:
+·      you have not misrepresented any offer.
+·      any required disclaimers are included in accordance with your compliance environment    Yes. If you cannot answer with a yes, you should fix and check these before proceeding.
+17    Peer reviewed: Have you had another peer Marketo Engage user review your test email?    Yes. If you cannot answer with a yes, this should be done before you send.
+18    Operational sends: Has the email been set to operational (meaning it will bypass unsubscribe settings)? If so, do you have a valid reason for this?    Yes / No. If answering with yes, you should have a valid reason for sending as an operational email. If you're not sure, ask your Marketo Engage admin.
+19    A/B & Champ/Challenger Testing: Are you running any champion/challenger testing on the email?    Yes / No. If you're not doing any testing, think about whether you may be missing an opportunity to learn more about your audience.
+20    
+ 
+Client Testing: Have you run the email through your client testing software? (e.g., Litmus or Email on Acid or Marketo Email Deliverability Power Pack)
+· Any display issues with major email clients have been identified and either corrected or logged as a non-urgent template fix.
+· Any load speed issues have been identified and attempts made to improve.
+· Any subject line/preview line issues have been identified and resolved.
+
+Yes / N/A. If you cannot answer with a yes (unless you don't have testing software) this should be done before you send.
+21    Spam Testing: Have you run the email through spam process?
+·      Any blocklisting flags are raised for awareness.
+·      Any inbox placement/email client flags are identified, potential causes sought and attempts to resolve are made.
+Use Marketo's Inbox Tracker functionality for this if you have it included in your contract, or tools like Litmus or Email on Acid.    Yes / N/A. If you cannot answer with a yes (unless you don't have testing software) this should be done before you send.
+22    Additional Analytics: Does the email have additional analytics code included?    Yes / N/A. If you cannot answer with a yes (unless you don't have additional analytics software) this should be done before you send.
 
 >[!TAB Final Checks - BEFORE YOU HIT SEND]
 
