@@ -90,7 +90,7 @@ Rules of thumb to keep in mind:
 
 >[!TAB Final Checks - BEFORE YOU HIT SEND]
 
->[!TABS END]
+>[!TABSEND]
 
 ## What's Next?
 
