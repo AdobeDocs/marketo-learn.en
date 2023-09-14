@@ -2,6 +2,8 @@
 title: Essential Program Pre-launch QA Process for Success
 description: Learn how you as a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently. We will use the Program Pre-launch Checklist authored by Adobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements to watch out for and requirements for each.
 feature: Administration
+
+
 role: Admin
 level: Beginner
 doc-type: Tutorial
@@ -52,7 +54,7 @@ Rules of thumb to keep in mind:
 
 >[!BEGINTABS]
 
->[!TAB  Key Details and Planning]
+>[!TAB Key Details and Planning]
 
 |#|Review|Questions to ask|Example|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|---|
@@ -75,3 +77,31 @@ Rules of thumb to keep in mind:
 |5|**GDPR/CASL Compliance**|If data is captured through the form, is the opt-in compliant and do you provide a collection statement with functioning Privacy Policy link?|Understand your relevant compliance environment: if you cannot answer this question with a yes, you need to update the Privacy Policy section to ensure it is compliant. **If you do not know, seek appropriate advice from your Legal team.**|
 |6|**Google Analytics Integration**|Is your Web Personalization integrated with Google Analytics?|**Yes or no**: If answering no, understand that your ability to track what web personalization impact will be more limited.|
 |7|**Segments**|Is the segment chosen appropriate, and does it apply to the right domains? Is the segment being sent to Google Analytics?|If you cannot answer with a yes, you'll need to update it.|
+
+>[!TAB Forms]
+
+>[!TAB Smart Campaigns]
+
+>[!TAB Lists]
+
+>[!TAB Audience]
+
+>[!TAB Email Asset Testing Checklist]
+
+>[!TAB Final Checks - BEFORE YOU HIT SEND]
+
+>[!TABSEND]
+
+## What's Next?
+
+Click here[LINK] to download the editable program pre-launch checklist for you to customize. Remember this should be adapted to suit your organization's workflow. Developing an effective QA process will keep you accountable and limit customer-facing mistakes.
+
+### Authors
+
+**Grace Brebner** - Adobe Marketo Champion 
+*Director of Client Strategy, APAC Region, 
+Digital Pi, LLC - A Merkle Company*
+
+**Amy Chiu**
+*Adoption & Retention Marketing Manager
+Adobe*
