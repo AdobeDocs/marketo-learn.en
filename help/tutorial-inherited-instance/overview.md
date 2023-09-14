@@ -10,7 +10,7 @@ jira: KT-13890
 thumbnail: KT-13890.jpeg
 ---
 
-# Tips and Tricks for auditing an inherited Marketo Engage instance - tutorial overview
+# Tips and Tricks for auditing an inherited Marketo Engage instance - Tutorial Overview
 
 *Source: Adobe Marketo Champions* 
 
