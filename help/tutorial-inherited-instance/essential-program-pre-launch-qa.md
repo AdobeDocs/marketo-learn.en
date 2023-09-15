@@ -155,11 +155,11 @@ Rules of thumb to keep in mind:
 >[!TAB Final Checks - BEFORE YOU HIT SEND]
 
 |#|Review|Questions to ask|Acceptance Criteria|
-|---|---|---|---|---|
-|1|||||
-|2|||||
-|3|||||
-|4|||||
+|---|---|---|---|
+|1|**Asset approval**|Ensure that finalized program assets and champion/challenger tests are fully approved and have no final changes in draft mode.|**Yes:**<br> If you cannot answer with a yes, this must be done before you send.|
+|2|**Smart Campaign accuracy**|Do the smart campaigns reference the right assets?|**Yes:**<br> If you cannot answer with a yes, this must be fixed before you send.|
+|3 |**Checklist steps**|Have all the above checks been completed?    |**Yes:**<br> If you cannot answer with a yes, this should be done before you send.|
+|4|**Stakeholder approval**|Has the campaign received final sign off from stakeholders?|**Yes:**<br> If you cannot answer with a yes, this should be done before you send.|
 
 >[!TABSEND]
 
