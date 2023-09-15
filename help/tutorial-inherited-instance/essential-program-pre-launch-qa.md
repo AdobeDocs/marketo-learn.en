@@ -161,7 +161,7 @@ Rules of thumb to keep in mind:
 |3 |**Checklist steps**|Have all the above checks been completed?    |**Yes:**<br> If you cannot answer with a yes, this should be done before you send.|
 |4|**Stakeholder approval**|Has the campaign received final sign off from stakeholders?|**Yes:**<br> If you cannot answer with a yes, this should be done before you send.|
 
->[!TABSEND]
+>[!ENDTABS]
 
 ## What's Next?
 
