@@ -10,7 +10,7 @@ feature: Sales Insight Actions
 
 This video provides an overview of how to access your [!UICONTROL Sales Insight Actions] account to create content, configure your account, invite new user, and more.
 
->[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340925/?quality=12&learn=on){transcript=true}
 
 ## Related videos
 

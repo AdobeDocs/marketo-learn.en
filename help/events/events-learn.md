@@ -12,4 +12,4 @@ feature: Programs, Events
 
 Leverage in-person engagement in your event marketing programs to build relationships, generate goodwill, and earn the trust of prospective buyers and customers.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}

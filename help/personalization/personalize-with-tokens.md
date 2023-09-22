@@ -14,4 +14,4 @@ thumbnail: 3421605.jpeg
 
 Learn how to use tokens in Marketo programs. Leveraging Tokens in Marketo programs can aid in personalization, quicker program build time, and decreased likelihood of typos or human error.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}

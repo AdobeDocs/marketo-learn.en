@@ -15,4 +15,4 @@ thumbnail: 3422232.jpeg
 
 Learn how to build reusable campaigns and increase velocity using Engagement Map
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}

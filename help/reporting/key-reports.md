@@ -16,7 +16,7 @@ feature: Reporting
 
 Learn about the key reports within Marketo Engage and how to pull them.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
 
 ## Additional resources
 

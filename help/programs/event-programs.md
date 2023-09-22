@@ -14,7 +14,7 @@ feature: Programs
 
 Develop a foundational understanding and build your first Event Program by watching this video.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
 
 ## Additional resources
 

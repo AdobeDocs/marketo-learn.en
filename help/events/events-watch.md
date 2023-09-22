@@ -12,7 +12,7 @@ feature: Programs, Events
 
 Learn how to create a trade show event program that is based on a pre-built program in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
 
 ## Additional resources
 

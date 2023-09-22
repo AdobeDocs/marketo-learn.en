@@ -15,4 +15,4 @@ feature: Programs
 
 Learn how to create and measure the success of your default programs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}

@@ -12,4 +12,4 @@ feature: Email Setup
 
 A guide to help you enable identification of Email activities by bots and how you can filter and create campaigns excluding bots.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}

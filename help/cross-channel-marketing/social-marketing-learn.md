@@ -12,4 +12,4 @@ feature: Social
 
 Unsure of how to best utilize social marketing? Learn how to effectively increase brand awareness and nurture brand engagement using your social channel.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}

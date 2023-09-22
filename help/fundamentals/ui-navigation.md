@@ -14,7 +14,7 @@ feature: Modern UX
 
 Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## Additional resources
 

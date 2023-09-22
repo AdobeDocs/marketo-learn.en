@@ -15,4 +15,4 @@ thumbnail: 3422235.jpeg
 
 Learn how to decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using Engagement Map.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}

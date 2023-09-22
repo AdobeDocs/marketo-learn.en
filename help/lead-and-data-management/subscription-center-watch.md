@@ -12,4 +12,4 @@ feature: Deliverability
 
 Watch how to implement processes between you and your subscribers by setting up and managing your subscription center.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}

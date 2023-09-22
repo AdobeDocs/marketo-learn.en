@@ -13,4 +13,4 @@ exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
 
 Watch how to implement Marketo's suggested program and instance best practices in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}

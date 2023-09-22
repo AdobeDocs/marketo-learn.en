@@ -12,4 +12,4 @@ feature: Programs
 
 Gating some of your best content as a content marketing strategy will help you to generate leads and learn which of your visitors is serious. Learn about gated content, how it works, and steps for success.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}

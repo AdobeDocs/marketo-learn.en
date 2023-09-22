@@ -15,4 +15,4 @@ thumbnail: 3422246.jpeg
 
 Learn how Engagement Map aids in troubleshooting and fixing campaign issues quickly
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}

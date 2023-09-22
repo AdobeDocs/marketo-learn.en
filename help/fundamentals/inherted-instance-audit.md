@@ -17,4 +17,4 @@ Inheriting a Marketo Engage instance can be a stressful time, whether you are an
 
 In this tutorial, we will walk you through the most important sections within Marketo Engage, including Admin, Marketing Activities, Design Studio, and Database, and provide you with tips for auditing and optimization along the way.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}

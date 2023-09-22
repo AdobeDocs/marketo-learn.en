@@ -12,7 +12,7 @@ feature: Programs
 
 Learn how to create, manage, and track a scheduled email program.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
 
 ## Additional resources
 

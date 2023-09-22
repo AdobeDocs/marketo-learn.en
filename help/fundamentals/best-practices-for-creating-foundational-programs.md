@@ -14,7 +14,7 @@ feature: Programs
 
 Understand the four program types, how to import programs, lead scoring programs and defining channel tags. Learn about the common use cases and best practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 
 ## Additional Resources
 

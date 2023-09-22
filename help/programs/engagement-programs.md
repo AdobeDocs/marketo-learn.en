@@ -14,7 +14,7 @@ feature: Programs
 
 Follow this step-by-step tutorial to build your first engagement program.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on) 
+>[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true} 
 
 ## Additional resources:
 

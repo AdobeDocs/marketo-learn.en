@@ -12,4 +12,4 @@ feature: Email Programs
 
 Learn how to create a personalized newsletter email program in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}

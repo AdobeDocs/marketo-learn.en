@@ -14,7 +14,7 @@ feature: Getting Started
 
 When you first start working with Marketo Engage, the organization is key. Staying organized in your instance makes it easy for you and your colleagues to keep track of campaigns, programs, and assets. Learn how to organize your navigation tree in [!UICONTROL Marketing Activities] using folders, standard naming conventions, and features such as cloning to easily work with your coworkers in a new [!DNL Marketo Engage] instance. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
 
 ## Additional Resources
 

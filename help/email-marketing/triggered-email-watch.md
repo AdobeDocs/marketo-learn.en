@@ -12,4 +12,4 @@ feature: Smart Campaigns
 
 Learn how to create a triggered smart campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}

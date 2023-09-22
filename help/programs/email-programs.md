@@ -14,7 +14,7 @@ feature: Programs
 
 Watch this step-by-step tutorial to learn how to create an email program with an A/B test.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## Additional resources:

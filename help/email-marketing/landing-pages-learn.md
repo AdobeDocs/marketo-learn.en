@@ -12,4 +12,4 @@ feature: Landing Pages
 
 Drive higher conversions by building and designing landing pages that incorporate best practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
