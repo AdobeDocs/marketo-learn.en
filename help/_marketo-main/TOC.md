@@ -2,6 +2,7 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: A collection of videos and tutorials for Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
+auto-video-transcripts: true
 ---
 
 # [!DNL Marketo Engage] tutorials {#tutorials}
