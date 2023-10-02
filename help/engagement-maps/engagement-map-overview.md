@@ -13,6 +13,6 @@ exl-id: 9bb2499e-8a0c-4fdc-89c8-ef467cafc363
 ---
 # Engagement map overview
 
-Learn how to build reusable campaigns and increase velocity using Engagement Map
+Learn how Engagement Map can increase your campaign velocity.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
