@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-21
 jira: KT-13611
 thumbnail: 3421605.jpeg
+exl-id: 8ff3053e-28ba-43f8-91a6-25fd16f6def3
 ---
-
 # Personalize with tokens
 
 Learn how to use tokens in Marketo programs. Leveraging Tokens in Marketo programs can aid in personalization, quicker program build time, and decreased likelihood of typos or human error.

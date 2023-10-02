@@ -9,7 +9,7 @@ jira: KT-13261
 thumbnail: 3420138.jpeg
 hide: false
 hidefromtoc: false
-exl-id: 6110c26a-5920-4b98-82fa-bbe76f402a71
+exl-id: c2973736-d4dc-492f-8815-9bc93dc5a870
 feature: Reporting
 ---
 # Key Reports within Marketo Engage
