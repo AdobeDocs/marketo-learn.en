@@ -2,8 +2,6 @@
 title: Essential Program Pre-launch QA Process for Success
 description: Learn how you as a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
 feature: Administration
-
-
 role: Admin
 level: Beginner
 doc-type: Tutorial
