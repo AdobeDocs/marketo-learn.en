@@ -1,0 +1,67 @@
+---
+title: Create a visual data flow diagram to understand your marketing tech stack
+description: Learn how to create a diagram of "Lead and data sources" to understand the data universe, to audit and tidy up the instance efficiently.  
+feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
+role: Admin
+level: Beginner
+doc-type: Tutorial
+last-substantial-update: 2023-10-03
+jira: KT-13877
+thumbnail: KT-13877.jpeg
+---
+
+# Create a visual data flow diagram to understand your marketing tech stack
+
+As an admin who takes over a Marketo Engage instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe Marketo Champion, Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge effectively by creating a diagram of "Lead and data sources" to understand the data universe.
+
+## Why create an architecture diagram for your inherited instance? 
+
+1. **Familiarize yourself with the marketing tech stack you inherited from a live instance.** All Marketing Operation Managers/Platform Operations Managers are encouraged to do this exercise when starting at a new company. This creation process enables admin users to see the full picture of the data and activities sent from external integrations to Marketo Engage and to easily troubleshoot the API errors. 
+2. **Familiarize yourself with the key stakeholders who manage the external integrations.** A tip that Kelly Jo Horton uses to identify the stakeholders quickly is to reference the list of API users. 
+   1. **Navigate to the 'Integration>LaunchPoint' tab in the 'Admin' section.** Learn more about how to navigate to the 'LaunchPoint' tab: [Create a Custom Service for Use with ReST API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?).
+   2. Find API usage statistics by API user in the Integration>Web Services tab in the API Call Information section. By clicking on the API call number, you can view the specific individual calls made by each user. 
+
+##  How to do this visual data flow diagram exercise 
+
+### Step 1: Current State Diagram
+
+Create a "Current State" diagram. Here is an example:
+
+![Current state diagram](_assets/data-flow-diagram/Current%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
+
+
+### Step 2: Future State Diagram
+
+Create a "Future State" diagram that can be used when presenting the technology and systems roadmap to non-technical stakeholders. Here is an example:  
+
+![Future state diagram](_assets/data-flow-diagram/Future%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
+
+### Step 3: Technical Version
+
+Create a technical version that shows details like the API username for each integration, a short description of the type of data being pushed to [!DNL Marketo Engage] or pulled from [!DNL Marketo Engage], and a detailed diagram of any middleware flows and triggers.  Here is an example:  
+
+![Technical version](_assets/data-flow-diagram/Lead-Sources-Data-Sources_KellyJo_Horton.drawio.png)
+
+
+## What's Next?
+
+**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, lead and data flow, or create a diagram for your data universe from scratch as you audit the instance. Here are a few tools that you can use: 
+* [draw.io](https://workspace.google.com/marketplace/app/drawio/671128082532) (Google Docs)
+* Adobe XD
+* Figma
+* Gliffy (in Confluence).  
+
+**What if there are architecture diagrams already?**New team members could have different perspectives. There is value in having new Marketo Engage admins do this exercise as part of their onboarding process and sharing it with others. 
+
+
+## Authors
+
+**Kelly Jo Horton**  
+*Senior Client Partner at Etumos*
+
+ ![Kelly Jo Horton](_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="50%"}
+
+**Amy Chiu**
+*Adoption & Retention Marketing Manager at Adobe* 
+
+![Amy Chiu](_assets/authors/Adobe_Author_Amy_Chiu.jpg)
