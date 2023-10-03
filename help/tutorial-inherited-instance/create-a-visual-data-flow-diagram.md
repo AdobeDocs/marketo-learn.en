@@ -27,20 +27,20 @@ As an admin who takes over a [!DNL Marketo Engage] instance that has been live f
 
 Create a "Current State" diagram. Here is an example:
 
-![Current state diagram](_assets/data-flow-diagram/Current%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
+![Current state diagram](./_assets/data-flow-diagram/Current%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
 
 
 ### Step 2: Future State Diagram
 
 Create a "Future State" diagram that can be used when presenting the technology and systems roadmap to non-technical stakeholders. Here is an example:  
 
-![Future state diagram](_assets/data-flow-diagram/Future%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
+![Future state diagram](./_assets/data-flow-diagram/Future%20State%20Lead_Data%20Sources_KellyJo_Horton.png)
 
 ### Step 3: Technical Version
 
 Create a technical version that shows details like the API username for each integration, a short description of the type of data being pushed to [!DNL Marketo Engage] or pulled from [!DNL Marketo Engage], and a detailed diagram of any middleware flows and triggers.  Here is an example:  
 
-![Technical version](_assets/data-flow-diagram/Lead-Sources-Data-Sources_KellyJo_Horton.drawio.png)
+![Technical version](./_assets/data-flow-diagram/Lead-Sources-Data-Sources_KellyJo_Horton.drawio.png)
 
 
 ## What's Next?
@@ -61,9 +61,9 @@ Here are a few tools that you can use:
 **Kelly Jo Horton**  
 *Senior Client Partner at Etumos*
 
- ![Kelly Jo Horton](_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="50%"}
+ ![Kelly Jo Horton](./_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="50%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager at Adobe* 
 
-![Amy Chiu](_assets/authors/Adobe_Author_Amy_Chiu.jpg)
+![Amy Chiu](./_assets/authors/Adobe_Author_Amy_Chiu.jpg)
