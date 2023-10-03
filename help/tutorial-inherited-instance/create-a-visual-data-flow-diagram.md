@@ -45,14 +45,15 @@ Create a technical version that shows details like the API username for each int
 
 ## What's Next?
 
-**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, lead and data flow, or create a diagram for your data universe from scratch as you audit the instance. Here are a few tools that you can use: 
+**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, lead and data flow, or create a diagram for your data universe from scratch as you audit the instance. 
+
+Here are a few tools that you can use: 
 * [draw.io](https://workspace.google.com/marketplace/app/drawio/671128082532) (Google Docs)
 * Adobe XD
 * Figma
-* Gliffy (in Confluence).  
+* Gliffy (in Confluence)  
 
-**What if there are architecture diagrams already?**New team members could have different perspectives. There is value in having new Marketo Engage admins do this exercise as part of their onboarding process and sharing it with others. 
-
+**What if there are architecture diagrams already?** New team members could have different perspectives. There is value in having new Marketo Engage admins do this exercise as part of their onboarding process and sharing it with others. 
 
 ## Authors
 
