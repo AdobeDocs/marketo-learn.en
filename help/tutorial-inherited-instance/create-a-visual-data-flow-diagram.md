@@ -27,20 +27,20 @@ As an admin who takes over a [!DNL Marketo Engage] instance that has been live f
 
 Create a "Current State" diagram. Here is an example:
 
-![Current state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png)
+![Current state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
 
 
 ### Step 2: Future State Diagram
 
 Create a "Future State" diagram that can be used when presenting the technology and systems roadmap to non-technical stakeholders. Here is an example:  
 
-![Future state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png)
+![Future state diagram](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
 
 ### Step 3: Technical Version
 
 Create a technical version that shows details like the API username for each integration, a short description of the type of data being pushed to [!DNL Marketo Engage] or pulled from [!DNL Marketo Engage], and a detailed diagram of any middleware flows and triggers.  Here is an example:  
 
-![Technical version](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png)
+![Technical version](/help/tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
 ## What's Next?
@@ -61,9 +61,9 @@ Here are a few tools that you can use:
 **Kelly Jo Horton**  
 *Senior Client Partner at Etumos*
 
- ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="50%"}
+ ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="15%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager at Adobe* 
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg)
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
