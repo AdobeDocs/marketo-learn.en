@@ -11,6 +11,6 @@ level: Beginner
 # Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance {#auditing-an-inherited-instance}
 
 + [Tutorial overview](/help/tutorial-inherited-instance/overview.md)
-+ [Pre-launch QA Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
++ [Program pre-launch QA Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [Create a visual data flow diagram](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
   
