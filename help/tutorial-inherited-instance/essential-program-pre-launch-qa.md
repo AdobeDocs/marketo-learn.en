@@ -1,6 +1,6 @@
 ---
 title: Essential Program Pre-launch QA Process for Success
-description: Learn how you as a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
+description: Learn how you as a Marketo Engage administrator can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
 feature: Administration
 role: Admin
 level: Beginner
@@ -12,18 +12,18 @@ thumbnail: KT-13888.jpeg
 
 # Essential Program Pre-launch QA Process for Success
 
-Learn how you as a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently. We use the Program Pre-launch Checklist authored by Adobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements to watch out for and requirements for each.
+Learn how you as a Marketo Engage administrator can develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently. We use the Program Pre-launch CheckAdobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements to watch out for and requirements for each.
 
-If you are a Marketo Engage admin or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it will not be a scalable process. Designing and running a program pre-launch QA process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
+If you are a Marketo Engage administrator or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it will not be a scalable process. Designing and running a program pre-launch QA process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
 
-In this tutorial, you willlearn how a Marketo Engage admin can develop a program pre-launch QA process to help your internal teams scale. We will use the Program Pre-launch Checklist authored by Adobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements and requirements.
+In this tutorial, you will learn how a Marketo Engage administrator can develop a program pre-launch QA process to help your internal teams scale. We will use the Program Pre-launch Checklist authored by Adobe Marketo Champion, Grace Brebner, as an example, and walk you through the key elements and requirements.
 
 ## Why you should design a program pre-launch QA process?
 
 If you are newer to Marketo Engage, you may not know what to check for when building out a program. Even for seasonal Marketo Engage admins, reviewing the programs based on your memory is risky. This is when a program pre-launch checklist comes into play. It not only helps drive your program QA processes more smoothly, but also trains your builders to look out for common pitfalls.
 
 * **Timesaving:** Without having an established QA process in place, it will ultimately add time to your program build process and take more time to take your marketing programs to the market. Once you set up your own program pre-launch list and have your internal users familiarize themselves with the QA process, they become more accurate in program configuration by using it.
-* **Self-enablement:** Having your Marketing team go through the checklists that are relevant to the programs they are building provides a structured curriculum to train your internal users. Every time they work through the checklist to perform self-review, it builds up their muscle memory. Even if you are an experienced Marketo Engage admin reviewing others' programs, having a checklist to check off prevents you from overlooking common pitfalls.
+* **Self-enablement:** Having your Marketing team go through the checklists that are relevant to the programs they are building provides a structured curriculum to train your internal users. Every time they work through the checklist to perform self-review, it builds up their muscle memory. Even if you are an experienced Marketo Engage administrator reviewing others' programs, having a checklist to check off prevents you from overlooking common pitfalls.
 
 ## Get started with designing your program prelaunch QA process.
 
@@ -57,7 +57,7 @@ Rules of thumb to keep in mind:
 |#|Review|Questions to ask|Example|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|---|
 |1|**Program type**| Is it appropriate? |If an Engagement program, is it logical? If Default, is it logical?| **Yes:** <br>If you cannot answer this question with a yes, you may need to change your program type.| [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)|
-|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?|**Yes:** <br>If you cannot answer this question with a yes, you need to either change your channel or discuss the creation of a new one with a Marketo Engage admin| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
+|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?|**Yes:** <br>If you cannot answer this question with a yes, you need to either change your channel or discuss the creation of a new one with a Marketo Engage administrator| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
 |3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|**Yes:** <br>If you cannot answer this question with a yes, or aren't sure, review your naming conventions and if necessary, update the name of your program.||
 |4|**Period Cost**|Has the program had a period cost tag assigned?||**Yes:** <br>If you cannot answer this question with a yes, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
 |5|**Success**| Has the program's objective and success metric been clearly identified? Do you know how you're going to measure it? Is it being marked with a program status change?||**Yes:** <br>If you cannot answer this question with a yes, you will not have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.||
@@ -95,12 +95,12 @@ Rules of thumb to keep in mind:
 |3|**Master Rules**|Are master segmentations/lists being used if appropriate or where appropriate?|**Yes or not applicable:** Master lists/segmentations are designed to reduce the number of fields you must reference and reduce the risk of human error. You should be very confident of your rules if not using master lists/segmentations.|
 |4|**Attribution**|If the program is acquiring new leads (for example, an event program) are attribution settings included as required? Is the acquisition program being mapped?|**Yes or not applicable:** If you are importing leads to your program, or your program will be acquiring new leads, you should have acquisition program settings used.|
 |5|**Engagement Programs**|If documenting an engagement program, are there campaigns in place to ensure members are added, paused, and restarted as appropriate? Have these steps been sense-checked by others?|**Yes or not applicable:** If this is an engagement program, and you cannot answer with a yes without good reason, don't activate until this is in place.|
-|6|**Subscription Preferences**|Have all necessary subscription preference factors been included? |**Yes or not applicable:** If you're unsure, ask your Marketo Engage admin. You'll need a good reason to proceed with N/A (for example, operational sends).|
+|6|**Subscription Preferences**|Have all necessary subscription preference factors been included? |**Yes or not applicable:** If you're unsure, ask your Marketo Engage administrator. You'll need a good reason to proceed with N/A (for example, operational sends).|
 |7|**Program Status**|Are there flow steps included to update program statuses? |**Yes:** <br>If you cannot answer with a yes, you should to add these into your smart campaign flow steps (see [Change Program Status- Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html))|
 |8|**Broader Impact**|Are any flow steps sending alerts/writing to fields that sync to other teams/systems? If so, has volume been considered and have stakeholders for those teams/systems been advised?  |**Yes, no or not applicable:** Any answer is okay but if it does map you should usually inform the team that owns the system. If you're not sure, ask your admins.|
-|9|**Scoring Impact**|Have any implications to lead scoring been considered? |**Yes or not applicable:** If you can't answer yes or not applicable, ask your admin.|
-|10|**RCM Impact**|Have any implications to the lead lifecycle model been considered?|**Yes or not applcable:** If you can't answer yes or cot applicable, ask your admin.|
-|11|**Nurture Impact**|Have any implications to existing nurture programs been considered? Have you ensured people will not be bombarded by multiple communications?|   **Yes or not applicable:** If you can't answer yes or not applicable, ask your admin.|
+|9|**Scoring Impact**|Have any implications to lead scoring been considered? |**Yes or not applicable:** If you can't answer yes or not applicable, ask your administrator.|
+|10|**RCM Impact**|Have any implications to the lead lifecycle model been considered?|**Yes or not applcable:** If you can't answer yes or cot applicable, ask your administrator.|
+|11|**Nurture Impact**|Have any implications to existing nurture programs been considered? Have you ensured people will not be bombarded by multiple communications?|   **Yes or not applicable:** If you can't answer yes or not applicable, ask your administrator.|
 |12|**Reporting Success**|Is program success being measured logically? Is the success reasonable - not too close in the process? Not too far to achieve? Do you have a strategy for how you will report on and measure success to communicate internally?|**Yes:** <br>If you can't answer yes, rethink your success metric definition.|
 
 >[!TAB Lists]
@@ -144,7 +144,7 @@ Rules of thumb to keep in mind:
 |15|**Dynamic content**| Does your email have dynamic content in it? Have you tested it across multiple scenarios?|**Yes:**<br> If you cannot answer with a yes, you should test this before proceeding.|
 |16|**Legal requirements**|<ul><li>You have not misrepresented any offer?</li><li>Any required disclaimers are included in accordance with your compliance environment?</li></ul>|**Yes:**><br> If you cannot answer with a yes, you should fix and check these before proceeding.|
 |17|**Peer reviewed**|Have you had another peer Marketo Engage user review your test email?|**Yes:**<br> If you cannot answer with a yes, this should be done before you send.|
-|18|**Operational sends**|Has the email been set to operational (meaning it will bypass unsubscribe settings)? If so, do you have a valid reason for this?|**Yes or No:**<br> If answering with yes, you should have a valid reason for sending as an operational email. If you're not sure, ask your Marketo Engage admin.|
+|18|**Operational sends**|Has the email been set to operational (meaning it will bypass unsubscribe settings)? If so, do you have a valid reason for this?|**Yes or No:**<br> If answering with yes, you should have a valid reason for sending as an operational email. If you're not sure, ask your Marketo Engage administrator.|
 |19|**A/B and Champ/Challenger Testing**|Are you running any champion/challenger testing on the email?|**Yes or no:**<br>If you're not doing any testing, think about whether you may be missing an opportunity to learn more about your audience.|
 |20|**Client Testing**| Have you run the email through your client testing software? (for example, Litmus or Email on Acid or [Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html))<ul><li>Any display issues with major email clients have been identified and either corrected or logged as a non-urgent template fix?</li><li>Any load speed issues have been identified and attempts made to improve?</li><li>Any subject line/preview line issues have been identified and resolved?</li></ul>|**Yes or not applicable:**<br>. If you cannot answer with a yes (unless you don't have testing software) this should be done before you send.|
 |21|**Spam Testing**| Have you run the email through spam process?<ul><li>Any blocklisting flags are raised for awareness.</li><li>Any inbox placement/email client flags are identified, potential causes sought and attempts to resolve are made?</li></ul>Use [Marketo's Inbox Tracker functionality](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html) for this if you have it included in your contract, or tools like Litmus or Email on Acid.    |**Yes or not applicable:**<br>. If you cannot answer with a yes (unless you don't have testing software) this should be done before you send.|
@@ -167,10 +167,11 @@ Click here[LINK] to download the editable program pre-launch checklist for you t
 
 ### Authors
 
-**Grace Brebner** - Adobe Marketo Champion 
-*Director of Client Strategy, APAC Region, 
-Digital Pi, LLC - A Merkle Company*
+**Grace Brebner** 
+Adobe Marketo Champion 
+*Director of Client Strategy, APAC Region, Digital Pi, LLC - A Merkle Company*
 
 **Amy Chiu**
-*Adoption & Retention Marketing Manager
-Adobe*
+*Adoption & Retention Marketing Manager, Adobe*
+
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="40%"}
