@@ -10,7 +10,9 @@ level: Beginner
 
 # Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance {#auditing-an-inherited-instance}
 
-+ [Tutorial overview](/help/tutorial-inherited-instance/overview.md)
-+ [Program pre-launch QA Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Create a visual data flow diagram](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
-  
++ [How to audit an inherited Marketo Engage instance - Tutorial](/help/tutorial-inherited-instance/overview.md)
++ [Log CRM Sync Errors for Easy Troubleshooting]()
++ [Develop an instance governance guide with documentation]()
++ [Map out your marketing tech stack visually](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
++ [Program Pre-launch QA Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
+
