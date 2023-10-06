@@ -1,8 +1,7 @@
 ---
 title: Develop an instance governance guide with documentation
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
