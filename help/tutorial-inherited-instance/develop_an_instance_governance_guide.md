@@ -84,7 +84,7 @@ Schedule regular reviews of your documentation to ensure it remains accurate and
 
 ## What's Next?
 
-Get Started by downloading this [simple template[(/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
+Get Started by downloading this [simple template](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
 
 Follow these steps to develop your governance guide and documentation:  
 
