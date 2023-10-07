@@ -84,8 +84,8 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Accessing your Sales Insight Actions instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
   + [Configure sales activity logging to [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead and data management {#lead-and-data-management}
-  + [Lead scoring](/help/lead-and-data-management/lead-scoring-learn.md)
-  + [Lead scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
+  + [Lead / person scoring](/help/lead-and-data-management/lead-scoring-learn.md)
+  + [Lead / person scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
   + [Subscription center](/help/lead-and-data-management/subscription-center-learn.md)
   + [Subscription center walk-through](/help/lead-and-data-management/subscription-center-watch.md)
   + [CRM sync](/help/lead-and-data-management/crm-sync-learn.md)

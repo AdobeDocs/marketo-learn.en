@@ -45,7 +45,7 @@ Create a technical version that shows details like the API username for each int
 
 ## What's Next?
 
-**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, lead and data flow, or create a diagram for your data universe from scratch as you audit the instance. 
+**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, person and data flow, or create a diagram for your data universe from scratch as you audit the instance. 
 
 Here are a few tools that you can use: 
 
