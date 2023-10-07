@@ -14,6 +14,6 @@ feature: Programs
 
 
 Out of the four program types, default programs are the most flexible and you can get creative with what to create. 
-Learn about two common use cases: Webforms and paid media lead generation.
+Learn about two common use cases: Webforms and paid media person generation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on)

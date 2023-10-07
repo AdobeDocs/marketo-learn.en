@@ -18,7 +18,7 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
 * **[Setup and install your chatbot](setup.md)**
     *Learn steps to set up your [!UICONTROL Dynamic Chat]  subscription.*
 * **[Activate your Marketo Integration with [!UICONTROL Dynamic Chat] ](marketo-integration.md)**
-    *Target your web visitors with conversations and personalize them with lead information from Marketo.*
+    *Target your web visitors with conversations and personalize them with person information from Marketo.*
 * **[Add and manage users of [!UICONTROL Dynamic Chat] ](user-management.md)**
     *Learn how to add or manage users in [!UICONTROL Dynamic Chat] .*
 * **[Create and manage personalized Dialogues](dialogue-management.md)**
@@ -32,7 +32,7 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
 * **[Search in Stream Designer](search-in-stream-designer.md)**
     *A quick search can help you get to any card in your stream designer in one-click.*
 * **[Capturing inferred attributes](capture-inferred-attributes.md)**
-    *We can identify and populate inferred attributes against every lead captured through Dynamic Chat by leveraging the Munchkin ID.*
+    *We can identify and populate inferred attributes against every person captured through Dynamic Chat by leveraging the Munchkin ID.*
 * **[Dialogue preview](dialogue-preview.md)**
     *Previewing your dialogue before you publish is super easy with Dialogue preview feature.*
 * **[Engagement report](engagement-report.md)**

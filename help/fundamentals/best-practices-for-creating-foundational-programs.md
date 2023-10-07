@@ -1,6 +1,6 @@
 ---
 title: Best practices for creating foundational programs
-description: Understand the four program types, how to import programs, lead scoring programs and defining channel tags. Learn about the common use cases and best practices.
+description: Understand the four program types, how to import programs,  lead / person  scoring programs and defining channel tags. Learn about the common use cases and best practices.
 role: Admin
 level: Beginner
 doc-type: Feature Video
@@ -12,7 +12,7 @@ feature: Programs
 
 # Best practices for creating foundational programs
 
-Understand the four program types, how to import programs, lead scoring programs and defining channel tags. Learn about the common use cases and best practices.
+Understand the four program types, how to import programs,  lead / person  scoring programs and defining channel tags. Learn about the common use cases and best practices.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
 
