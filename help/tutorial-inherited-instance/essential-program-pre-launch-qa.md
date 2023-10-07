@@ -189,4 +189,4 @@ Adobe Marketo Champion
 **Amy Chiu**
 *Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="40%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}

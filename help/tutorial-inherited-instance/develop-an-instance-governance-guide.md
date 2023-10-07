@@ -100,13 +100,13 @@ Maintaining comprehensive and up-to-date documentation for your Marketo Engage i
 
 ### Authors
 
-**Nick Hajdin ** 
+**Nick Hajdin** 
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="40%"}
+![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="15%"}
 
 **Amy Chiu**
 *[!DNL Adoption & Retention Marketing Manager, Adobe]*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="40%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
