@@ -61,9 +61,9 @@ Here are a few tools that you can use:
 **Kelly Jo Horton**  
 *Senior Client Partner at Etumos*
 
- ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="15%"}
+ ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="5%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager at Adobe* 
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="5%"}
