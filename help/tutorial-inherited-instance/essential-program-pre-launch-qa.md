@@ -3,7 +3,7 @@ title: Essential Program Pre-launch Quality Assurance QA Process for Success
 description: Learn how to develop a program pre-launch QA process to help your internal teams build and launch programs more accurately and efficiently.
 feature: Administration
 role: Admin
-level: Beginner
+level: Intermediate to Advanced
 doc-type: Tutorial
 last-substantial-update: 2023-10-06
 jira: KT-13888
@@ -12,13 +12,13 @@ thumbnail: KT-13888.jpeg
 
 # Essential program pre-launch quality assurance process for success
 
-If you are a [!DNL Marketo Engage] administrator or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it is not a scalable process. Designing and running a program pre-launch quality assurance (QA) process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
+If you are a [!DNL Marketo Engage] administrator or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it is not a scalable process. Learn how to design and run a program pre-launch quality assurance (QA) process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
 
-In this tutorial, you learn how a [!DNL Marketo Engage] administrator can develop a program pre-launch QA process to help your internal teams scale. The Program Pre-launch Checklist, authored by Adobe Marketo Champion, Grace Brebner, is used as an example to walk you through the key elements and requirements.
+In this tutorial, you learn how a [!DNL Marketo Engage] administrator can develop a program pre-launch QA process to help your internal teams scale. The Program Pre-launch Checklist, sourced from Adobe Marketo Champion, Grace Brebner, is used as an example to walk you through the key elements and requirements.
 
 ## Why should you design a program pre-launch QA process?
 
-If you are newer to [!DNL Marketo Engage], you may not know what to check for when building out a program. Even for seasonal [!DNL Marketo Engage] admins, reviewing the programs based on your memory is risky. This is when a program pre-launch checklist comes into play. It not only helps drive your program QA processes more smoothly, but also trains your builders to look out for common pitfalls.
+If you are newer to [!DNL Marketo Engage], you may not know what to check for when building out a program. Even for seasonal [!DNL Marketo Engage] administers, reviewing the programs based on your memory is risky. This is when a program pre-launch checklist comes into play. It not only helps drive your program QA processes more smoothly, but also trains your builders to look out for common pitfalls.
 
 * **Timesaving:** Without having an established QA process in place, it ultimately adds time to your program build process and take more time to take your marketing programs to the market. Once you set up your own program pre-launch list and have your internal users familiarize themselves with the QA process, they become more accurate in program configuration by using it.
 * **Self-enablement:** Having your Marketing team go through the checklists that are relevant to the programs they are building provides a structured curriculum to train your internal users. Every time they work through the checklist to perform self-review, it builds up their muscle memory. Even if you are an experienced [!DNL Marketo Engage] administrator reviewing others' programs, having a checklist to check off prevents you from overlooking common pitfalls.
@@ -27,13 +27,13 @@ If you are newer to [!DNL Marketo Engage], you may not know what to check for wh
 
 **Step 1:** To start off, answer the following questions to think through your QA process:
 
-Who is able to serve the reviewer and approver role? If you are in a smaller organization, the [!DNL Marketo Engage] admins may play hybrid roles of Marketing and Marketing Operations. It is recommended that you have a non-builder [!DNL Marketo Engage] Consider power users to audit the programs. A new pair of fresh eyes helps spot issues.
+**Who is able to serve the reviewer and approver role?** If you are in a smaller organization, the [!DNL Marketo Engage] admins may play hybrid roles of Marketing and Marketing Operations. It is recommended that you have a non-builder [!DNL Marketo Engage] Consider power users to audit the programs. A new pair of fresh eyes helps spot issues.
 
-How would the builders and the reviewers collaborate and document notes and changes? You could keep things organized in a spreadsheet or within a project management platform. Reference the checklist below and convert the template into the format that works best for your organization. Your team can simply clone the template each time they build and review the program for launch.
+**How would the builders and the reviewers collaborate and document notes and changes?** You could keep things organized in a spreadsheet or within a project management platform. Reference the checklist below and convert the template into the format that works best for your organization. Your team can simply clone the template each time they build and review the program for launch.
 
 **Step 2:** Now go through the program prelaunch checklists line by line to familiarize yourself with the program QA scope.
 
-Rules of thumb to keep in mind:
+**Rules of thumb to keep in mind:**
 
 * This program pre-launch checklist isn't designed to be one size fits all. Use what's relevant, ignore or delete what's not, and customize it for your organization's needs. You could also divide up the checklists to use only pieces that are relevant to your program build.
 * Define your requirements clearly. Consider your acceptance criteria for each element and edit them in your offline template.
@@ -44,7 +44,7 @@ Rules of thumb to keep in mind:
 * Have your builders do a self-review in one column and have the reviewers document their notes in another column next to the requirements.
 * Only have the reviewers fill out the 'Final Checks' section. This section asks the reviewer to repeat several key checks to ensure that changes are made properly throughout the QA process.
 
-**Step 4:** There may be items that are missing or not applicable as your team conducts this exercise a few times. Revisit this checklist (for example, quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
+**Step 4:** There may be items that are missing or not applicable as your team runs this exercise a few times. Revisit this checklist (for example, quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
 
 ## Example Template: Program Pre-launch Checklist
 
@@ -52,15 +52,15 @@ Rules of thumb to keep in mind:
 
 >[!TAB Key Details and Planning]
 
-|#|Review|Questions to ask|Example|Acceptance Criteria|Additional Resources|
+|#|Review Area|Questions to ask|Example|Acceptance Criteria|Additional Resources|
 |---|---|---|---|---|---|
 |1|**Program type**| Is it appropriate? |If an Engagement program, is it logical? If Default, is it logical?| **Yes:** <br>If you cannot answer this question with a yes, you may need to change your program type.| [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)|
-|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?|**Yes:** <br>If you cannot answer this question with a yes, you must either change your channel or discuss the creation of a new one with a [!DNL Marketo Engage] administrator| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html)|
-|3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|**Yes:** <br>If you cannot answer this question with a yes, or aren't sure, review your naming conventions and if necessary, update the name of your program.||
-|4|**Period Cost**|Has the program had a period cost tag assigned?||**Yes:** <br>If you cannot answer this question with a yes, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
-|5|**Success**| Has the program's objective and success metric been clearly identified? Do you know how you're going to measure it? Is it being marked with a program status change?||**Yes:** <br>If you cannot answer this question with a yes, you won't have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.||
-|6|**Audience**|Has the program's audience been clearly identified?||**Yes:** <br>If you cannot answer this question with a yes, find out before you plan to send.||
-|7|**Tokens**|Have all required program tokens been updated?||**Yes or not applicable** <br>If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab. See whether the program contains any local tokens that must be updated||[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html)|
+|2| **Channel**|Is the channel appropriate? Do the Channel Steps / program statuses support the program's success management? | If set up as a newsletter, does this make sense and do the program statuses support the purpose of the program, or are you trying to twist something pre-existing but not suitable?|**Yes:** <br>If you cannot answer this question with a yes, you must either change your channel or discuss the creation of a new one with a [!DNL Marketo Engage] administrator| [Create a Program Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html) [Understanding Channel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html#channel)|
+|3|**Program Naming Convention**| Is this set following your naming conventions correctly? Link to your naming convention tool or spreadsheet if you have one.| Formula: [PROGRAM TYPE] - [DATE] [CATEGORY]: [SHORT DESCRIPTION]|**Yes:** <br>If you cannot answer this question with a yes, or aren't sure, review your naming conventions and if necessary, update the name of your program.|[Best practices to organize a new Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance.html)|
+|4|**Period Cost**|Have you assigned a period cost tag to the program?|If you spend $1000 to produce an eBook that launches in July, the program would have a period cost of $1000 in July.|**Yes:** <br>If you cannot answer this question with a yes, add a period cost in, even if it's just zero! |[ Using Period Costs in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html)|
+|5|**Success**| Have you identified the program's objective and success metric? Do you know how you're going to measure the program? Have you marked it with a program status change?|If it’s a ‘Chat’ channel, the status progression could be Member, Engaged, and Converted.  |**Yes:** <br>If you cannot answer this question with a yes, you won't have an easy means of understanding whether your campaign had any impact. Identify what your primary objective is, and then a means of measuring it - even if it's a manual list import after 7 days.|[Program Statuses](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html#program-statuses)|
+|6|**Audience**|Have you identified the program's audience?||**Yes:** <br>If you cannot answer this question with a yes, find out before you plan to send.||
+|7|**Tokens**|Have you updated all the required program tokens?|If it’s a webinar program, have you updated the event date, event title, descriptions, and calendar file, etc.?|**Yes or not applicable** <br>If you can't answer with a yes, or don't know whether it applies, check your program 'Tokens' tab. See whether the program contains any local tokens that must be updated||[Understanding My Tokens in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html)|
 
 >[!TAB Web Personalization Campaigns]
 
