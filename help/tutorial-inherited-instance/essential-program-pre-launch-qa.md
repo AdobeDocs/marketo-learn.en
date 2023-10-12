@@ -138,7 +138,7 @@ If you are newer to [!DNL Marketo Engage], you may not know what to check for wh
 |5|**Expectation**|This audience expects to hear from you.|**Yes:** <br>If you cannot answer with a yes, stop and consider carefully why you are sending to these people. Sending to an audience who does not want or expect to hear from you is likely to adversely affect performance, deliverability, and may be a breach in your compliance environment.|
 
 
->[!TAB Email Asset Testing Checklist]
+>[!TAB Email Asset]
 
 |#|Review|Questions to ask|Acceptance Criteria|
 |---|---|---|---|
