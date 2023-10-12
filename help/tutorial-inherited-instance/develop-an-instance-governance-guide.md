@@ -3,9 +3,9 @@ title: Develop an instance governance guide with documentation
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
 feature: Administration
 role: Admin
-level: Intermediate to advanced
+level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-12
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 ---
@@ -106,9 +106,9 @@ Maintaining comprehensive and up-to-date documentation for your Marketo Engage i
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="5%"}
+![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="20%"}
 
 **Amy Chiu**
 *[!DNL Adoption & Retention Marketing Manager, Adobe]*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="5%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}

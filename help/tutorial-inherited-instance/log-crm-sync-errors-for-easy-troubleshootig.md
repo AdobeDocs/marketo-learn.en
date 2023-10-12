@@ -3,9 +3,9 @@ title: Log CRM Sync Errors for Easy Troubleshooting
 description: Learn how to use a log of CRM Sync errors to investigate CRM sync issues and keep it running smoothly.
 feature: Administration
 role: Admin
-level: Intermediate to Advanced
+level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-12
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 ---
@@ -46,10 +46,10 @@ Before you get started, download the [CRM Sync Errors Log template](/help/tutori
 Adobe Marketo Champion 
 *Senior Manager, Marketing Operations, Iterable*
 
-![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Amy-Goldfine-Headshot.jpg){width="5%"}
+![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Amy-Goldfine-Headshot.jpg){width="25%"}
 
 **Amy Chiu**
 *Adoption & Retention Marketing Manager at Adobe* 
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="5%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
  
