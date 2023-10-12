@@ -3,16 +3,18 @@ title: Develop an instance governance guide with documentation
 description: Learn how to establish a robust procedure for creating and maintaining documentation and changelog for your Marketo Engage instance. This will not only save time for your team's knowledge sharing but also enhance the health and efficiency of your instance.
 feature: Administration
 role: Admin
-level: Beginner
+level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-12
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 ---
 
 # Develop an instance governance guide with documentation
 
-As you step into a legacy [!DNL Marketo Engage] instance, it often comes with the challenge of lacking up-to-date functional and technical documentation. As an administrator, establishing guidelines to ensure proper instance governance is a core responsibility that you cannot overlook. This step-by-step tutorial sourced from [!DNL Adobe Marketo Champion], Nick Hajdin, will guide you through this process to outline your instance setup, document your primary operational programs, and maintain a [!DNL changelog] to enforce a strict governance policy. 
+As you step into a legacy [!DNL Marketo Engage] instance, it often comes with the challenge of lacking up-to-date functional and technical documentation. As an administrator, establishing guidelines to ensure proper instance governance is a core responsibility that you cannot overlook. It is one of the critical strategies to [drive efficiency as you work in an established Marketo Engage instance](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582). 
+
+This step-by-step tutorial sourced from [!DNL Adobe Marketo Champion], Nick Hajdin, will guide you through this process to outline your instance setup, document your primary operational programs, and maintain a [!DNL changelog] to enforce a strict governance policy. 
 
 ## Why develop an instance governance guide & documentation for your inherited instance? 
 
@@ -86,7 +88,7 @@ Schedule regular reviews of your documentation to ensure it remains accurate and
 
 Get Started by downloading this [simple template](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 
 
-Follow these steps to develop your governance guide and documentation:  
+Follow the steps above to develop your governance guide and documentation. As you work through the process, keep these rules of thumb in mind:  
 
 **Update your existing documentation:** 
 It is crucial to keep your documentation up to date. If it has not been modified for the past 3 years, commit time to revise your documentation as you audit your instance.  
@@ -100,13 +102,13 @@ Maintaining comprehensive and up-to-date documentation for your Marketo Engage i
 
 ### Authors
 
-**Nick Hajdin ** 
+**Nick Hajdin**
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="40%"}
+![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="20%"}
 
 **Amy Chiu**
 *[!DNL Adoption & Retention Marketing Manager, Adobe]*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="40%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}

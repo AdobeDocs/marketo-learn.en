@@ -3,7 +3,7 @@ title: Create a visual data flow diagram to understand your marketing tech stack
 description: Learn how to create a diagram of "Lead and data sources" to understand the data universe, to audit and tidy up the instance efficiently.  
 feature: Administration
 role: Admin
-level: Beginner
+level: Intermediate, Experienced
 doc-type: Tutorial
 last-substantial-update: 2023-10-03
 jira: KT-13877
@@ -12,7 +12,7 @@ thumbnail: KT-13877.jpeg
 
 # Create a visual data flow diagram to understand your marketing tech stack
 
-As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion], Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge effectively by creating a diagram of "Lead and data sources" to understand the data universe.
+As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion], Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge by [creating a diagram of "Lead and data sources"](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774) to familiarize herself with the data universe. In this tutorial, you will learn how to create your own data flow diagram by building upon the examples shared by Kelly Jo Horton. Let's get to know your MarTech ecosystem!  
 
 ## Why create an architecture diagram for your inherited instance? 
 
