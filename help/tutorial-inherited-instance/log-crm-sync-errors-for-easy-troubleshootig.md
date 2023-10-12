@@ -12,7 +12,9 @@ thumbnail: KT-13875.jpeg
 
 # Log CRM Sync Errors for Easy Troubleshooting
 
-As a Marketo Engage administrator, checking if your instance is in sync with your CRM should be a key part of your daily routine. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html) (find it on the top right corner of your Marketo Engage interface) is where you will start to find and investigate frequent syncing issues, there is a pro tip that could help you manage the instance health in an organized manner.  Adobe Marketo Champion, Amy Goldfine recommends admin users keep a log of CRM Sync errors to make troubleshooting easier.  
+As a Marketo Engage administrator, checking if your instance is in sync with your CRM should be a key part of your [daily routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508). While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html) (find it on the top right corner of your Marketo Engage interface) is where you will start to find and investigate frequent syncing issues, there is a pro tip that could help you manage the instance health in an organized manner.  Adobe Marketo Champion, Amy Goldfine recommends admin users keep a log of CRM Sync errors to make troubleshooting easier.
+
+![Screenshot of the Sync Errors tab](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
 ## Why keep a record of CRM Sync Errors? 
 
