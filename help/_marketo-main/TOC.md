@@ -68,6 +68,8 @@ auto-video-transcripts: true
   + [Marketo integration](/help/dynamic-chat/marketo-integration.md)
   + [User management](/help/dynamic-chat/user-management.md)
   + [Dialogue management](/help/dynamic-chat/dialogue-management.md)
+  + [Set up Live chat](/help/dynamic-chat/set-up-live-chat.md)
+  + [Agent management](/help/dynamic-chat/agent-management.md)
   + [Meeting bookings](/help/dynamic-chat/meeting-booking.md)
   + [Go live in 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
   + [Embed PDF in conversations](/help/dynamic-chat/document-cloud-integration.md)
