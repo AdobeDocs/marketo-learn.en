@@ -3,7 +3,7 @@ title: Create a visual data flow diagram to understand your marketing tech stack
 description: Learn how to create a diagram of "Lead and data sources" to understand the data universe, to audit and tidy up the instance efficiently.  
 feature: Administration
 role: Admin
-level: level: Intermediate, Experienced
+level: Intermediate, Experienced
 doc-type: Tutorial
 last-substantial-update: 2023-10-03
 jira: KT-13877
