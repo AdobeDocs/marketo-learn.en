@@ -12,13 +12,13 @@ thumbnail: KT-13877.jpeg
 
 # Create a visual data flow diagram to understand your marketing tech stack
 
-As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion], Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge by [creating a diagram of "Lead and data sources"](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774) to familiarize herself with the data universe. In this tutorial, you will learn how to create your own data flow diagram by building upon the examples shared by Kelly Jo Horton. Let's get to know your MarTech ecosystem!  
+As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion], Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge by [creating a diagram of "Lead and data sources"](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} to familiarize herself with the data universe. In this tutorial, you will learn how to create your own data flow diagram by building upon the examples shared by Kelly Jo Horton. Let's get to know your MarTech ecosystem!  
 
 ## Why create an architecture diagram for your inherited instance? 
 
 1. **Familiarize yourself with the marketing tech stack you inherited from a live instance.** All Marketing Operation Managers/Platform Operations Managers are encouraged to do this exercise when starting at a new company. This creation process enables admin users to see the full picture of the data and activities sent from external integrations to [!DNL Marketo Engage] and to easily troubleshoot the API errors. 
 2. **Familiarize yourself with the key stakeholders who manage the external integrations.** A tip that Kelly Jo Horton uses to identify the stakeholders quickly is to reference the list of API users. 
-   1. **Navigate to the 'Integration>LaunchPoint' tab in the 'Admin' section.** Learn more about how to navigate to the 'LaunchPoint' tab: [Create a Custom Service for Use with ReST API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html).
+   1. **Navigate to the 'Integration>LaunchPoint' tab in the 'Admin' section.** Learn more about how to navigate to the 'LaunchPoint' tab: [Create a Custom Service for Use with REST API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Find API usage statistics by API user in the Integration>Web Services tab in the API Call Information section. By clicking on the API call number, you can view the specific individual calls made by each user. 
 
 ## How to do this visual data flow diagram exercise 
