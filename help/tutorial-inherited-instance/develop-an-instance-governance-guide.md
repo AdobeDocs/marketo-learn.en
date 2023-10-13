@@ -106,9 +106,9 @@ Maintaining comprehensive and up-to-date documentation for your Marketo Engage i
 [!DNL Adobe Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![Nick Hajdin](_assets/authors/Headshot-Nick-Hajdin.jpg){width="20%"}
+![Nick Hajdin](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
-*[!DNL Adoption & Retention Marketing Manager, Adobe]*
+*Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

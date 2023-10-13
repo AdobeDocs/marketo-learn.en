@@ -47,12 +47,12 @@ Create a technical version that shows details like the API username for each int
 
 **Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, person and data flow, or create a diagram for your data universe from scratch as you audit the instance. 
 
-Here are a few tools that you can use: 
+* File 1
+* File 2
+* File 3
+* File 4
 
-* [draw.io](https://workspace.google.com/marketplace/app/drawio/671128082532) (Google Docs)
-* Adobe XD
-* Figma
-* Gliffy (in Confluence)  
+Here are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, Gliffy (in Confluence)  
 
 **What if there are architecture diagrams already?** New team members could have different perspectives. There is value in having new [!DNL Marketo Engage] admins do this exercise as part of their onboarding process and sharing it with others. 
 
@@ -61,9 +61,9 @@ Here are a few tools that you can use:
 **Kelly Jo Horton**  
 *Senior Client Partner at Etumos*
 
- ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.jpg){width="15%"}
+ ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 
 **Amy Chiu**
-*Adoption & Retention Marketing Manager at Adobe* 
+*Adoption & Retention Marketing Manager, Adobe*
 
-![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.jpg){width="15%"}
+![Amy Chiu](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

@@ -20,20 +20,20 @@ This 'Inherited Instance Audit Tips and Tricks' tutorial is sourced from Adobe M
 
 The tutorial accompanies downloadable templates to jump-start an inherited instance right away. Get inspired by learning from peers! 
 
-## What you will learn
+## Topics and what you will learn
 
-* How to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance 
+* **[Audit an inherited instance](/help/tutorial-inherited-instance/audit-an-inherted-instance.md)**
+*Learn how to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance*
 
-* Establish an admin routine to review notifications, CRM sync, Launchpoint, and Web services and troubleshoot errors timely 
+* **[Log CRM Sync Errors for Easy Troubleshooting](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
+*Learn how to establish an admin routine to review notifications, CRM sync, Launchpoint, and Web services and troubleshoot errors timely.* 
 
-* Quick efficiency wins to optimize program build, governance, and overall marketing operations 
+* **[Develop an instance governance guide](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
+*Learn how achieve quick efficiency wins to optimize program build, governance, and overall marketing operations*
 
-* Map out data sources with a visual architecture diagram to understand your tech stack
 
-* Establish an effective program pre-launch QA process to avoid mistakes.
+* **[Map out your marketing tech stack visually](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
+*Learn how to map out data sources with a visual architecture diagram to understand your tech stack*
 
-## Demo: How to audit an inherited Marketo Engage instance.
-
-Inheriting a Marketo Engage instance can be a stressful time, whether you are an experienced Admin or whether you are a newer Admin it can be difficult to know where to start cleaning up. To start off, we recommend you spend time understanding what is in the instance you just inherited today and creating a plan of action to update the configuration. Watch this demo to learn how to audit each section within your inherited instance. 
-
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on) 
+* **[Program Pre-launch Quality Assurance (QA) Process](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+*Learn how to establish an effective program pre-launch QA process to avoid mistakes.*
