@@ -26,7 +26,7 @@ Before you get started, download the [CRM Sync Errors Log template](/help/tutori
 
 **Step 1:** Go to the *[!UICONTROL Admin] section* in Marketo Engage. Under *[!UICONTROL Integration]*, click *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]*, or *[!DNL Veeva]*, depending on which [!DNL CRM] you use, then the *[!UICONTROL Sync Errors]* tab. 
 
-**Step 2:** You can choose to [export the records of errors as a [!DNL CSV] file through the *[!UICONTROL Filter]* panel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors). If you only have a few hours, copying and pasting directly from the *[!UICONTROL Sync Errors]* tab would be the way to go. 
+**Step 2:** You can choose to [export the records of errors as a [!DNL CSV] file through the [!UICONTROL Filter] panel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors). If you only have a few hours, copying and pasting directly from the *[!UICONTROL Sync Errors]* tab would be the way to go. 
 
 **Step 3:** Note the date that the error occurred.   
 
