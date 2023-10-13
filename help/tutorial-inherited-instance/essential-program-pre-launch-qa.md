@@ -25,28 +25,40 @@ If you are newer to [!DNL Marketo Engage], you may not know what to check for wh
 
 ## Get started with designing your program prelaunch QA process.
 
-**Step 1:** To start off, answer the following questions to think through your QA process:
+### Step 1: Think through your QA process
 
-**Who is able to serve the reviewer and approver role?** If you are in a smaller organization, the [!DNL Marketo Engage] admins may play hybrid roles of Marketing and Marketing Operations. It is recommended that you have a non-builder [!DNL Marketo Engage] Consider power users to audit the programs. A new pair of fresh eyes helps spot issues.
+Answer the following questions to think through your QA process:
 
-**How would the builders and the reviewers collaborate and document notes and changes?** You could keep things organized in a spreadsheet or within a project management platform. Reference the checklist below and convert the template into the format that works best for your organization. Your team can simply clone the template each time they build and review the program for launch.
+* **Who is able to serve the reviewer and approver role?** 
+    If you are in a smaller organization, the [!DNL Marketo Engage] admins may play hybrid roles of Marketing and Marketing Operations. It is recommended that you have a non-builder [!DNL Marketo Engage] Consider power users to audit the programs. A new pair of fresh eyes helps spot issues.
 
-**Step 2:** Now go through the program prelaunch checklists line by line to familiarize yourself with the program QA scope.
+* **How would the builders and the reviewers collaborate and document notes and changes?** 
+    You could keep things organized in a spreadsheet or within a project management platform. Reference the checklist below and convert the template into the format that works best for your organization. Your team can simply clone the template each time they build and review the program for launch.
+
+### Step 2: Go through the program prelaunch
+
+Go through the program prelaunch checklists line by line to familiarize yourself with the program QA scope.
 
 **Rules of thumb to keep in mind:**
 
 * This program pre-launch checklist isn't designed to be one size fits all. Use what's relevant, ignore or delete what's not, and customize it for your organization's needs. You could also divide up the checklists to use only pieces that are relevant to your program build.
 * Define your requirements clearly. Consider your acceptance criteria for each element and edit them in your offline template.
 
-**Step 3:** Develop a guideline for your internal teams to use the program prelaunch checklist and test run the QA process until it's more streamlined. Here's an example:
+### Step 3: Develop a guideline for your internal teams 
+
+Develop a guideline for your internal teams to use the program prelaunch checklist and test run the QA process until it's more streamlined. 
+
+Here's an example:
 
 * Builders should clone the program prelaunch checklist to check, note, and approve as they go down the checklist.
 * Have your builders do a self-review in one column and have the reviewers document their notes in another column next to the requirements.
 * Only have the reviewers fill out the 'Final Checks' section. This section asks the reviewer to repeat several key checks to ensure that changes are made properly throughout the QA process.
 
-**Step 4:** There may be items that are missing or not applicable as your team runs this exercise a few times. Revisit this checklist (for example, quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
+### Step 4: Revisit the checklist on a regular basis
 
-## Example Template: Program Pre-launch Checklist
+There may be items that are missing or not applicable as your team runs this exercise a few times. Revisit this checklist (for example, quarterly) to update the review items and acceptance criteria to fine-tune your program QA process.
+
+## Example Template: Program Pre-launch Checklist {#pre-launch-checklist}
 
 >[!NOTE]
 >If you are on a smaller screen, please be aware that you can scroll the tab below to see more.
@@ -186,7 +198,7 @@ Click [here](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_E
 ### Authors
 
 **Grace Brebner** 
-Adobe Marketo Champion(2021)
+Adobe Marketo Champion (2021)
 *Director of Client Strategy, APAC Region, Digital Pi, LLC - A Merkle Company*
 
 ![Grace Brebner](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
