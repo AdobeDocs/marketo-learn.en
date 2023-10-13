@@ -14,7 +14,7 @@ thumbnail: KT-13888.jpeg
 
 If you are a [!DNL Marketo Engage] administrator or on the Marketing Operation team, reviewing the program configuration properly is crucial to avoid customer-facing mistakes. Though you can learn from your mistakes along the way to limit mistakes, it is not a scalable process. Learn how to design and run a program pre-launch quality assurance (QA) process between builders and power users/reviewers helps save you time, prevent errors, and train your internal users more quickly.
 
-In this tutorial, you learn how a [!DNL Marketo Engage] administrator can develop a program pre-launch QA process to help your internal teams scale. The Program Pre-launch Checklist, sourced from Adobe Marketo Champion, Grace Brebner, is used as an example to walk you through the key elements and requirements.
+In this tutorial, you learn how a [!DNL Marketo Engage] administrator can develop a program pre-launch QA process to help your internal teams scale. The Program Pre-launch Checklist, sourced from Adobe Marketo Champion(20), Grace Brebner, is used as an example to walk you through the key elements and requirements.
 
 ## Why should you design a program pre-launch QA process?
 
@@ -186,7 +186,7 @@ Click [here](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_E
 ### Authors
 
 **Grace Brebner** 
-Adobe Marketo Champion 
+Adobe Marketo Champion(2021)
 *Director of Client Strategy, APAC Region, Digital Pi, LLC - A Merkle Company*
 
 ![Grace Brebner](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
