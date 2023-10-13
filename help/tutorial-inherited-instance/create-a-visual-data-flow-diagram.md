@@ -59,6 +59,7 @@ Here are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, G
 ## Authors
 
 **Kelly Jo Horton**  
+*Adobe Marketo Champion Alumnus*
 *Senior Client Partner at Etumos*
 
  ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
