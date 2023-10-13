@@ -47,10 +47,10 @@ Create a technical version that shows details like the API username for each int
 
 **Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, person and data flow, or create a diagram for your data universe from scratch as you audit the instance. 
 
-* File 1
-* File 2
-* File 3
-* File 4
+* [Example] Current State and Future State Diagram 
+* [Example] Detailed Layers by Functional Category Diagram
+* [Example] Lead and Data Source Flow Diagram 
+* [Example] Simplified Diagram 
 
 Here are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, Gliffy (in Confluence)  
 
