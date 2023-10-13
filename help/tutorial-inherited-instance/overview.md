@@ -26,7 +26,7 @@ The tutorial accompanies downloadable templates to jump-start an inherited insta
 *Learn how to audit an existing instance that's new to you. Test the inherited set-up using out-of-the-box tools such as Campaigns Inspectors to gain insights into your instance*
 
 * **[Log CRM Sync Errors for Easy Troubleshooting](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)**
-*Learn how to establish an admin routine to review notifications, CRM sync, Launchpoint, and Web services and troubleshoot errors timely.* 
+*Learn how to establish an admin routine to review notifications, CRM sync, Launchpoint, and web services and troubleshoot errors timely.* 
 
 * **[Develop an instance governance guide](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
 *Learn how achieve quick efficiency wins to optimize program build, governance, and overall marketing operations*

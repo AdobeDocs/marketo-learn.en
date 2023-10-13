@@ -12,7 +12,7 @@ thumbnail: KT-13875.jpeg
 
 # Log CRM Sync Errors for Easy Troubleshooting
 
-As a Marketo Engage administrator, checking if your instance is in sync with your CRM should be a key part of your [daily routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508). While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html) (find it on the top right corner of your Marketo Engage interface) is where you will start to find and investigate frequent syncing issues, there is a pro tip that could help you manage the instance health in an organized manner.  Adobe Marketo Champion, Amy Goldfine recommends admin users keep a log of CRM Sync errors to make troubleshooting easier.
+As a Marketo Engage administrator, checking if your instance is in sync with your CRM should be a key part of your [daily routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (find it on the top right corner of your Marketo Engage interface) is where you will start to find and investigate frequent syncing issues, there is a pro tip that could help you manage the instance health in an organized manner.  Adobe Marketo Champion, Amy Goldfine recommends admin users keep a log of CRM Sync errors to make troubleshooting easier.
 
 ![Screenshot of the Sync Errors tab](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -26,7 +26,7 @@ Before you get started, download the [CRM Sync Errors Log template](/help/tutori
 
 **Step 1:** Go to the *[!UICONTROL Admin] section* in Marketo Engage. Under *[!UICONTROL Integration]*, click *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]*, or *[!DNL Veeva]*, depending on which [!DNL CRM] you use, then the *[!UICONTROL Sync Errors]* tab. 
 
-**Step 2:** You can choose to [export the records of errors as a [!DNL CSV] file through the [!UICONTROL Filter] panel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors). If you only have a few hours, copying and pasting directly from the *[!UICONTROL Sync Errors]* tab would be the way to go. 
+**Step 2:** You can choose to [export the records of errors as a [!DNL CSV] file through the [!UICONTROL Filter] panel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. If you only have a few hours, copying and pasting directly from the *[!UICONTROL Sync Errors]* tab would be the way to go. 
 
 **Step 3:** Note the date that the error occurred.   
 
@@ -40,7 +40,7 @@ Before you get started, download the [CRM Sync Errors Log template](/help/tutori
 
 ## What's Next?  
 
-**Identify Error Codes:** To understand the error codes, look up the descriptions in the developers documentation [Response-Level Error Codes table](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) and find typical next steps to resolve the errors.  
+**Identify Error Codes:** To understand the error codes, look up the descriptions in the developers documentation [Response-Level Error Codes table](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} and find typical next steps to resolve the errors.  
 
 ## Authors
 
