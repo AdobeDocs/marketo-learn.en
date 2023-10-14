@@ -8,6 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-12
 jira: KT-13875
 thumbnail: KT-13875.jpeg
+hide: yes
 ---
 
 # Log CRM Sync Errors for Easy Troubleshooting

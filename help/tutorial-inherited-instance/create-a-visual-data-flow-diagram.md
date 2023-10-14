@@ -8,6 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-03
 jira: KT-13877
 thumbnail: KT-13877.jpeg
+hide: yes
 ---
 
 # Create a visual data flow diagram to understand your marketing tech stack

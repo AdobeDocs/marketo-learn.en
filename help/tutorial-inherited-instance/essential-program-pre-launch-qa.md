@@ -8,6 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-06
 jira: KT-13888
 thumbnail: KT-13888.jpeg
+hide: yes
 ---
 
 # Essential program pre-launch quality assurance process for success
