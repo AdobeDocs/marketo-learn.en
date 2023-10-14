@@ -14,7 +14,7 @@ feature: Dynamic Chat
 
 Learn how you can create new roles and set permission to your Dynamic Chat users.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416920/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416920/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

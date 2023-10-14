@@ -12,4 +12,4 @@ feature: Forms
 
 Watch how to build, design, and organize forms that include progressive profiling.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}

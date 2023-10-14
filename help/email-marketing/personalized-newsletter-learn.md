@@ -12,4 +12,4 @@ feature: Programs
 
 Engage with prospects and customers in a cost-effective way using personalized email newsletters.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}

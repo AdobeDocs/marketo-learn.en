@@ -7,14 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-30
 jira: KT-13263
 thumbnail: 3420096.jpeg
-exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
+exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 ---
 # Smart Campaigns 101
 
 Smart Campaigns are the engine of Marketo. In addition to using Smart Campaigns to send out emails and programs, you can use smart campaigns for a variety of use cases. Learn  how you can use Smart Campaigns for data normalization and automated alerts.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## Additional Resources

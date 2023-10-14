@@ -12,4 +12,4 @@ feature: Web Personalization
 
 Deliver a personal and relevant experience to each website visitor based on who they are and what they do. Learn about segmenting and targeting your website visitors to create more tailored, meaningful, and engaging experiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}

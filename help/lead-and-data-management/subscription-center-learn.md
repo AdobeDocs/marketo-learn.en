@@ -12,4 +12,4 @@ feature: Deliverability
 
 Struggling to communicate with your subscribers? Let them tell you what communications they want and how often they want to hear from you. Learn how to create and manage a subscription center to develop an appropriate cadence and process.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}

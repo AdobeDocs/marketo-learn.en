@@ -12,4 +12,4 @@ feature: Smart Campaigns
 
 Learn how to use [!DNL Marketo] to capitalize on buyer behaviors by using triggered email campaigns to engage with timely and relevant messaging.
 
->[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

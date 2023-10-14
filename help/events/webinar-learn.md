@@ -12,4 +12,4 @@ feature: Programs, Events
 
 Ready to run a webinar as part of your marketing activities? Learn how webinars work with [!DNL Marketo Engage] and its Adobe Exchange webinar partners.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}

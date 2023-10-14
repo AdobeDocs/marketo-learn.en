@@ -12,4 +12,4 @@ feature: Forms
 
 Use [!DNL Marketo forms] to capture person data progressively when prospects visit your website.
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

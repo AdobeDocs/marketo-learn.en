@@ -12,4 +12,4 @@ feature: Deliverability
 
 Watch how to optimize email deliverability through best practices, email authentication, and reputation.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}

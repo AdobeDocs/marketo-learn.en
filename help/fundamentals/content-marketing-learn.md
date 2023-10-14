@@ -12,4 +12,4 @@ feature: Marketing
 
 Attract, acquire, and engage your audience by developing a content marketing strategy. Learn the key steps for success that include optimizing and measuring the impact of your content.
 
->[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345417/?quality=12&learn=on){transcript=true}

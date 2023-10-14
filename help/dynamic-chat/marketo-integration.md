@@ -12,7 +12,7 @@ feature: Dynamic Chat
 
 [!UICONTROL Dynamic Chat]  is natively integrated into [!DNL Marketo Engage], which enables you to use context from chatbot conversations to retarget or score your prospects.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

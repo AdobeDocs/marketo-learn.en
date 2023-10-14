@@ -10,7 +10,7 @@ feature: Sales Insight Actions
 
 Learn how to configure and log Sales Insight Actions activities to your [!DNL Salesforce] account.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## Related videos
 

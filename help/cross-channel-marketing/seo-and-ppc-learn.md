@@ -12,4 +12,4 @@ feature: SEO
 
 Is your website getting lost in hundreds of search results? Learn how to increase your brand visibility by improving your SEO and PPC strategies.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}

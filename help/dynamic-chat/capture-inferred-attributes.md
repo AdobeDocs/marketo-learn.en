@@ -14,7 +14,7 @@ feature: Dynamic Chat
 
 Since Dynamic Chat uses same Adobe Marketo Engage munchkin cookie, by leveraging the munchkin we now identify and populate inferred attributes against every person captured through Dynamic Chat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

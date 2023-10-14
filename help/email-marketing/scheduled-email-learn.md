@@ -12,4 +12,4 @@ feature: Programs
 
 Get ready to engage your customers as individuals in your email marketing. Learn to deliver compelling messages relevant to your audience and measure the ROI of your email campaigns.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}

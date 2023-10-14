@@ -12,4 +12,4 @@ feature: Landing Pages
 
 Learn how to create, customize, and personalize landing pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}

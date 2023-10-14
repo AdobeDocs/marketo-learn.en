@@ -2,6 +2,7 @@
 user-guide-title: Marketo Engage Tutorials
 user-guide-description: A collection of videos and tutorials for Adobe Marketo Engage.
 breadcrumb-title: Marketo Engage Tutorials
+auto-video-transcripts: true
 ---
 
 # [!DNL Marketo Engage] tutorials {#tutorials}
@@ -67,6 +68,8 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Marketo integration](/help/dynamic-chat/marketo-integration.md)
   + [User management](/help/dynamic-chat/user-management.md)
   + [Dialogue management](/help/dynamic-chat/dialogue-management.md)
+  + [Set up Live chat](/help/dynamic-chat/set-up-live-chat.md)
+  + [Agent management](/help/dynamic-chat/agent-management.md)
   + [Meeting bookings](/help/dynamic-chat/meeting-booking.md)
   + [Go live in 15 minutes](/help/dynamic-chat/go-live-in-15-minutes.md)
   + [Embed PDF in conversations](/help/dynamic-chat/document-cloud-integration.md)

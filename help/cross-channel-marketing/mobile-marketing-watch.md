@@ -12,4 +12,4 @@ feature: Mobile Marketing
 
 Watch how to create buyer personas, set KPIs, determine your communication cadence, use the [!DNL Marketo] Marketing Calendar, and more to improve your mobile marketing strategy.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}

@@ -14,7 +14,7 @@ feature: Dynamic Chat
 
 You may already know how you can create non-English dialogue (if not, [click here](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). You can personalize static/system content to the language of your choice.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

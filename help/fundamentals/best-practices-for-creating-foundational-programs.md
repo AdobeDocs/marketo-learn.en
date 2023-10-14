@@ -8,13 +8,13 @@ last-substantial-update: 2023-07-11
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
+exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
 ---
-
 # Best practices for creating foundational programs
 
 Understand the four program types, how to import programs,  lead / person  scoring programs and defining channel tags. Learn about the common use cases and best practices.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 
 ## Additional Resources
 

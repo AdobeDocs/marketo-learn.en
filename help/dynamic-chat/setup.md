@@ -12,7 +12,7 @@ feature: Dynamic Chat
 
 A guide to help you install chatbot JavaScript onto your website or landing page and customize its look to match your brand.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

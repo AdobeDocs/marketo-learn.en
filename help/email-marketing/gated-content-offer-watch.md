@@ -12,4 +12,4 @@ feature: Programs
 
 Watch how to set up and track a gated content email program in Marketo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}

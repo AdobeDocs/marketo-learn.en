@@ -10,7 +10,7 @@ feature: Sales Insight Actions
 
 Accelerate prospecting efforts with marketing-powered intelligence and engagement tools together in a single workflow using Sales Insight Actions.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
 
 ## Related videos
 

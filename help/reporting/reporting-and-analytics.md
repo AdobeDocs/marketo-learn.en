@@ -7,14 +7,14 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-11
 jira: KT-13219
 thumbnail: 3419295.jpeg
-exl-id: 735587c7-01e8-47d8-9514-ceea1c02bd65
+exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
 ---
 # Reporting and analytics
 
 Learn how to navigate the Analytics and Database section to pull different out-of-the-box reports in Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
 ## Additional Resources
 

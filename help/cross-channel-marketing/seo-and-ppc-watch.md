@@ -12,4 +12,4 @@ feature: SEO
 
 Watch how to implement steps for success to create beneficial SEO and PPC strategies.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}

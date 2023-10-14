@@ -12,6 +12,6 @@ feature: Dynamic Chat
 
 A step by step guide to help you go live with your first dialogue using [!UICONTROL Dynamic Chat]  in just 15 minutes!
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
 *Note: For those who do not know how to access [!UICONTROL Dynamic Chat] , [here is a short video](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en) to help you to add yourself or other users to [!UICONTROL Dynamic Chat] .*
