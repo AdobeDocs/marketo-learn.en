@@ -12,4 +12,4 @@ feature: Web Personalization
 
 Watch how to connect [!DNL Marketo] to several of our digital advertising LaunchPoint partners.
 
->[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

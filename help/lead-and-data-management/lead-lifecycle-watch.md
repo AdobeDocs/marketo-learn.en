@@ -12,4 +12,4 @@ feature: Programs
 
 Create a [!UICONTROL person lifecycle] program that tracks your leads using program statuses and acts on those leads who are ready for sales.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

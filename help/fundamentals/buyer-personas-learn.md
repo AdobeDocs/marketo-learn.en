@@ -12,4 +12,4 @@ feature: Marketing
 
 Want to make sure your content marketing is engaging prospective buyers and generating leads? Creating buyer personas will help you determine what kind of content you need and how buyers will find and consume information.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}

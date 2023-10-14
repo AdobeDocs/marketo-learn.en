@@ -12,7 +12,7 @@ feature: Dynamic Chat
 
 Manage your [!UICONTROL Dynamic Chat]  users through Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

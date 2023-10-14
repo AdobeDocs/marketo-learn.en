@@ -14,7 +14,7 @@ feature: Dynamic Chat
 
 Now see the trends of how your web visitors engaging with your dialogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

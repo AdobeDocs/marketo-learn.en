@@ -12,4 +12,4 @@ feature: Engagement Programs, Person Scoring
 
 Watch how to build a  lead / person  scoring operational program, use tokens in the campaign, and import pre-built campaigns.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}

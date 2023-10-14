@@ -12,4 +12,4 @@ feature: Marketing
 
 To win in today’s shifting digital marketing landscape, you need a team that can respond to the evolving challenges marketers face every day. Learn about ways to structure your marketing organization to meet the new challenges, the types of people you need on the team, and how to best position marketing to person your organization into the engagement economy.
 
->[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345416/?quality=12&learn=on){transcript=true}

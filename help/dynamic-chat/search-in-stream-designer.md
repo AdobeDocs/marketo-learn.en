@@ -14,7 +14,7 @@ feature: Dynamic Chat
 
 A quick search can help you get to any card in your stream designer in one-click.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
 
 ## More helpful videos
 

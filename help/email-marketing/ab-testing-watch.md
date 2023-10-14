@@ -12,4 +12,4 @@ feature: A/B Testing
 
 Learn how to create an email A/B test in Marketo to improve your email performance.
 
->[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345484/?quality=12&learn=on){transcript=true}

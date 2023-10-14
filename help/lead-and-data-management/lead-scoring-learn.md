@@ -12,4 +12,4 @@ feature: Engagement Programs, Person Scoring
 
 Improve the quality of leads that marketing provides to sales by using a  lead / person  scoring program.  Learn about  lead / person  scoring, how it works, and steps for success to realize its measurable benefits.
 
->[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345424/?quality=12&learn=on){transcript=true}
