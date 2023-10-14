@@ -18,7 +18,7 @@ auto-video-transcripts: true
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
-  + [Inherited Instance Audit](/help/fundamentals/inherted-instance-audit.md)
+  + [Audit an inherited instance](/help/fundamentals/inherted-instance-audit.md)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
@@ -85,8 +85,8 @@ auto-video-transcripts: true
   + [Accessing your Sales Insight Actions instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
   + [Configure sales activity logging to [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead and data management {#lead-and-data-management}
-  + [Lead scoring](/help/lead-and-data-management/lead-scoring-learn.md)
-  + [Lead scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
+  + [Lead / person scoring](/help/lead-and-data-management/lead-scoring-learn.md)
+  + [Lead / person scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
   + [Subscription center](/help/lead-and-data-management/subscription-center-learn.md)
   + [Subscription center walk-through](/help/lead-and-data-management/subscription-center-watch.md)
   + [CRM sync](/help/lead-and-data-management/crm-sync-learn.md)
