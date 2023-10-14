@@ -5,7 +5,7 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12
+last-substantial-update: 2023-10-16
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: yes

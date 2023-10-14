@@ -6,7 +6,7 @@ feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
 level: Intermediate
 doc-type: Feature Video
-last-substantial-update: 2023-08-08
+last-substantial-update: 2023-10-16
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: yes
