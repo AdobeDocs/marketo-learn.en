@@ -45,12 +45,71 @@ Create a technical version that shows details like the API username for each int
 
 ## What's Next?
 
-**Get Started with Examples:** Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, person and data flow, or create a diagram for your data universe from scratch as you audit the instance:
+**Get Started with Examples:** 
+Download one of the sample data flow diagrams to map out the current state of your marketing tech stack, person and data flow, or create a diagram for your data universe from scratch as you audit the instance:
 
-* [Current State and Future State Diagram](/help/tutorial-inherited-instance/_assets/downloads/Current_Future_State_Lead_Data_Sources.zip) 
-* [Detailed Layers by Functional Category Diagram](/help/tutorial-inherited-instance/_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip) 
-* [Lead and Data Source Flow Diagram](/help/tutorial-inherited-instance/_assets/downloads/Lead_Data_Source.zip)  
-* [Simplified Diagram](/help/tutorial-inherited-instance/_assets/downloads/Simple_World_Class_Stage_Stack.zip) 
+Click on the **sample diagrams** to download the files:
+
+<table style="table-layout:fixed">
+   <tr>  
+      <td style="border: 0;">
+      <div style="text-align: center;">
+          <a href="./_assets/downloads/Current_Future_State_Lead_Data_Sources.zip">
+            <strong>Current State and Future State</strong>
+         </a>
+      </div>
+      </td>
+      <td style="border: 0;">
+      <div style="text-align: center;">
+         <a href="./_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip">
+         <strong>Detailed Layers by Functional Category </strong>   
+         </a>
+      </div>
+      </td>
+      <td style="border: 0;">
+         <div style="text-align: center;">
+         <a href="./_assets/downloads/Lead_Data_Source.zip">
+           <strong>Lead and Data Source Flow </strong>  
+         </a>
+         </div>
+       </td> 
+       <td style="border: 0;">
+         <div style="text-align: center;">
+         <a href="./_assets/downloads/Simple_World_Class_Stage_Stack.zip">
+          <strong>Simplified Diagram</strong>  
+         </a>
+         </div>
+        </td>  
+   </tr>
+   <tr>
+    <td style="border: 0;">
+         <div>
+          <img alt="Current State and Future State Diagram" src="./_assets/Thumbnail_Current-Future State Lead_Data Sources_KellyJo_Horton.png"/>
+         </a>
+      </div>
+      </td>
+      <td style="border: 0;">
+         <div>
+         <a href="./_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip">
+         <img alt="Detailed Layers by Functional Category Diagram" src="./_assets/Thumbnail_Detailed_Layers_by_Functional_Category_Stacked_Technologies_KellyJo_Horton.png" />
+       </a>
+         </div>
+      </td>
+       <td style="border: 0;">
+         <div>
+            <a href="./_assets/downloads/Lead_Data_Source.zip">
+         <img alt="Lead and Data Source Flow Diagram" src="./_assets/Thumbnail_Lead-Data Source Diagram_KellyJo_Horton.png" />
+         </a>
+         </div>
+      </td>
+     <td style="border: 0;">
+         <div>
+            <a href="./_assets/downloads/Simple_World_Class_Stage_Stack.zip">
+             <img alt="Simplified Diagram" src="./_assets/Thumbnail_Simple_World_Class_Stage_Stack.png" />
+         </a>
+         </div>
+      </td>
+</table>
 
 These are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, Gliffy (in Confluence)  
 
