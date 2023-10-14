@@ -17,7 +17,7 @@ breadcrumb-title: Marketo Engage Tutorials
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
-  + [Audit an inherited instance](help/fundamentals/inherted-instance-audit.md)
+  + [Audit an inherited instance](/help/fundamentals/inherted-instance-audit.md)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
