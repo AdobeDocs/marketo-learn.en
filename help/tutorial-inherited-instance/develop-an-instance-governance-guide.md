@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: yes
+hide: no
 ---
 
 # Develop an instance governance guide with documentation

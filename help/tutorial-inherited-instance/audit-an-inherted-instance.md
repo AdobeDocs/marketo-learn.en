@@ -9,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-16
 jira: KT-13762
 thumbnail: 3422473.jpeg
-hide: yes
+hide: no
 ---
 
 # How to audit an inherited Marketo Engage instance

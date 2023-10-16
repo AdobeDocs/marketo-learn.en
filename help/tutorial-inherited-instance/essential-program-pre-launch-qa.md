@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: yes
+hide: no
 ---
 
 # Essential program pre-launch quality assurance process for success
@@ -168,7 +168,7 @@ There may be items that are missing or not applicable as your team runs this exe
 |8|**Text Version**|<li>Have you created a text version of the email? <li>Have you sent yourself a test of the text version?  |**Yes:**<br> If you cannot answer with a yes, you should test before proceeding.|
 |9|**Text Version Optimization**|<li>Has the layout of the text version been optimized?<li>Are there any HTML comments visible?<li>Is all relevant content included? |**Yes:**<br> Auto-generated text versions can be awful to read - it's worth optimizing them.|[Edit the Text Version of an Email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.html){target="_blank"}|
 |10|**Text Version Hyperlinks and UTMS**| Do hyperlinks work & include UTMs across these areas? :<ul><li>Header section</li><li>Image areas (if included)</li><li>Body</li><li>CTA(s)</li>Footer</li></ul>|**Yes:**<br> If you cannot answer with a yes, you should fix and check these before proceeding. Automatic text versions don't pull through variables reliably!||
-|11|**HTML/Main Version**|<li>Have you created an HTML/primary version of the email?<li>Have you sent yourself a test of it? |**Yes (unless plain text only):**<br> If you cannot answer with a yes, you should send yourself a test before proceeding.|[Edit an Email's HTML](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"}|
+|11|**HTML/Main Version**|<li>Have you created an HTML/main version of the email?<li>Have you sent yourself a test of it? |**Yes (unless plain text only):**<br> If you cannot answer with a yes, you should send yourself a test before proceeding.|[Edit an Email's HTML](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"}|
 |12|**Images**|<li>Do all images have alt text? <li>Are there any images broken? | **Yes or not applicable:**<br>. If you cannot answer with a yes, you should fix and check these before proceeding (unless there are no images).||
 |13|**Image Compression**|<li>Were all images saved for web from your image editing software? <li>Were they compressed prior to uploading? <li>Is the email load time acceptable? |**Yes or not applicable:**<br>All images (if any are used) should be compressed to improve load speed.|Your hero images should be below 120kb, and all smaller images should be smaller. High load times will impact performance. |
 |14|**HTML Version Hyperlinks and UTMs**| Do all the hyperlinks work and include UTMs across these areas? :<ul><li>Header section</li><li>Image areas (if included)</li><li>Body</li><li>CTA(s)</li>Footer</li></ul>|**Yes:**<br> Don't send broken links. If you can't answer yes, fix before continuing.||
