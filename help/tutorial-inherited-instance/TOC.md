@@ -6,6 +6,7 @@ breadcrumb-url: /docs/marketo-learn/auditing-an-inherited-instance/overview.html
 index: no
 role: Admin
 level: Beginner
+auto-video-transcripts: true
 ---
 
 # Tutorial - Tips and Tricks for auditing an inherited Marketo Engage instance {#auditing-an-inherited-instance}
