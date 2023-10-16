@@ -5,10 +5,10 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-09-07
+last-substantial-update: 2023-10-16
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: yes
+hide: no
 ---
 
 # Tips and Tricks for auditing an inherited Marketo Engage instance - Tutorial Overview
@@ -29,7 +29,6 @@ This 'Inherited Instance Audit Tips and Tricks' tutorial, sourced from Adobe Mar
 
 * **[Develop an instance governance guide](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
 *Learn how achieve quick efficiency wins to optimize program build, governance, and overall marketing operations*
-
 
 * **[Map out your marketing tech stack visually](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
 *Learn how to map out data sources with a visual architecture diagram to understand your tech stack*

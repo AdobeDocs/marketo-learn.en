@@ -5,15 +5,15 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03
+last-substantial-update: 2023-10-16
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: yes
+hide: no
 ---
 
 # Create a visual data flow diagram to understand your marketing tech stack
 
-As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion], Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge by [creating a diagram of "Lead and data sources"](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} to familiarize herself with the data universe. In this tutorial, you will learn how to create your own data flow diagram by building upon the examples shared by Kelly Jo Horton. Let's get to know your MarTech ecosystem!  
+As an admin who takes over a [!DNL Marketo Engage] instance that has been live for years, it is like a mission impossible to audit and tidy up the instance efficiently. When Adobe [!DNL Marketo Champion](2019), Kelly Jo Horton, stepped into a long-established instance, she tackled this challenge by [creating a diagram of "Lead and data sources"](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} to familiarize herself with the data universe. In this tutorial, you will learn how to create your own data flow diagram by building upon the examples shared by Kelly Jo Horton. Let's get to know your MarTech ecosystem!  
 
 ## Why create an architecture diagram for your inherited instance? 
 
@@ -118,7 +118,7 @@ These are a few tools that you can use: draw.io (Google Docs), Adobe XD, Figma, 
 ## Authors
 
 **Kelly Jo Horton**  
-Adobe Marketo Champion Alumnus
+Adobe Marketo Champion (2019)
 *Senior Client Partner at Etumos*
 
  ![Kelly Jo Horton](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
