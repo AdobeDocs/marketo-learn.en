@@ -67,6 +67,7 @@ auto-video-transcripts: true
   + [Setup and install](/help/dynamic-chat/setup.md)
   + [Marketo integration](/help/dynamic-chat/marketo-integration.md)
   + [User management](/help/dynamic-chat/user-management.md)
+  + [Conversational Forms](/help/dynamic-chat/conversational-forms.md)
   + [Dialogue management](/help/dynamic-chat/dialogue-management.md)
   + [Set up Live chat](/help/dynamic-chat/set-up-live-chat.md)
   + [Agent management](/help/dynamic-chat/agent-management.md)

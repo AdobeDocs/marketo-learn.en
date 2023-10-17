@@ -42,6 +42,8 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *Previewing your dialogue before you publish is super easy with Dialogue preview feature.*
   * **[Globalization of static content](globalization-of-static-content.md)**
     *You can personalize static/system content to language of your choice.*
+  * **[Conversational Forms](conversational-forms.md)**
+    *Learn how to engage your website visitors immediately after they fill out a form.*
 * Live chat and meeting booking
   * **[Set up Live chat](set-up-live-chat.md)**
     *Learn how to set up Live chat.*
