@@ -1,6 +1,6 @@
 ---
-title: Set up Live chat
-description: Learn how to set up Live chat
+title: Connect visitors to live agents
+description: Connect your qualified leads to engage with your sale agents instantly.
 feature: Dynamic Chat
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-14128
 thumbnail: 3424828.jpeg
 ---
 
-# Set up Live chat
+# Connect visitors to live agents
 
 In this video, you can understand how you can implement Live chat for your business using Dynamic Chat.
 

@@ -14,7 +14,9 @@ feature: Dynamic Chat
 Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials along with the documentation to improve your understanding of how to use [!UICONTROL Dynamic Chat]  to create personalized conversations. The following topics can help you get started:
 
 * Overview
-  * **[A quick product tour](product-tour.md)**
+  * **[A quick product tour [2023]](product-tour.md)**
+    *Get an overview of all new features that are launched 2023.*
+  * **[A quick product tour [2022]](product-tour.md)**
     *Get an overview of the complete product and learn how you can leverage [!UICONTROL Dynamic Chat].*
   * **[Go live in 15 minutes](go-live-in-15-minutes.md)**
     *A step by step guide to help you go live with your first dialogue using [!UICONTROL Dynamic Chat]  in just 15 minutes!*
@@ -44,9 +46,11 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *You can personalize static/system content to language of your choice.*
   * **[Conversational Forms](conversational-forms.md)**
     *Learn how to engage your website visitors immediately after they fill out a form.*
+  * **[Conversations SDK](conversations-sdk.md)**
+    *Learn how to implement Conversations SDK to convert any CTA click to an engaging conversation.*
 * Live chat and meeting booking
-  * **[Set up Live chat](set-up-live-chat.md)**
-    *Learn how to set up Live chat.*
+  * **[Connect visitors to live agents](connect-visitors-to-live-agents.md)**
+    *Connect your qualified leads to engage with your sale agents instantly.*
   * **[Enable your leads to book meetings with your sales](meeting-booking.md)**
    *Accelerate the connect with sales for those [!DNL target] accounts with Meeting booking functionalities.*
 * Analytics
