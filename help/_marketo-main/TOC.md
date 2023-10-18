@@ -103,4 +103,6 @@ auto-video-transcripts: true
   + [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
   + [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
-  + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"} 
+  + [Getting started with Salesforce sync](/help/integrations/salesforce-sync-setup.md)
+  + [Getting started with Microsoft Dynamics sync](/help/integrations/microsoft-dynamics-sync-setup.md)
+  + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
