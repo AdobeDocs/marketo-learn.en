@@ -1,5 +1,5 @@
 ---
-title: Dynamic Chat Conversations SDK
+title: Conversations SDK
 description: Learn how to implement Conversations SDK to convert any CTA click to an engaging conversation.
 feature: Dynamic Chat
 role: User
@@ -10,7 +10,7 @@ jira: KT-14211
 thumbnail: 3425034.jpeg
 ---
 
-# Dynamic Chat Conversations SDK
+# Conversations SDK
 
 Convert any CTA click, page load or any visitor action on your web page into an engaging conversation with Conversations SDK. Here is a step-by-step guide to implement on your website
 
