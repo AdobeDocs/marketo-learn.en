@@ -14,8 +14,6 @@ thumbnail: 3424719.jpeg
 
 # Getting started with Salesforce sync
 
-*Source: Adobe Marketo Champions*
-
 Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync. This tutorial walks you through how the sync works, setting up the sync to get the right data flowing, and the essential things to check on to make sure it's working properly. Additional tips and tricks for managing your Salesforce sync are shared to help you select the fields for sync and hide the fields that are no longer needed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
