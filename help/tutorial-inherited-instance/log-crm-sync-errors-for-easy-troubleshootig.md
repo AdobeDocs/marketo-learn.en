@@ -46,8 +46,8 @@ Before you get started, download the [CRM Sync Errors Log template](/help/tutori
 ## Authors
 
 **Amy Goldfine**  
-Adobe Marketo Champion(2022)
-*Senior Manager, Marketing Operations, Iterable*
+Adobe Marketo Champion(2019-2022)
+*Founder, MarketingOpsAdvice.com*
 
 ![Amy Goldfine](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
