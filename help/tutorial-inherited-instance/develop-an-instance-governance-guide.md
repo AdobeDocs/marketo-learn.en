@@ -9,8 +9,8 @@ last-substantial-update: 2023-10-16
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: no
+exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
 ---
-
 # Develop an instance governance guide with documentation
 
 As you step into a legacy [!DNL Marketo Engage] instance, it often comes with the challenge of lacking up-to-date functional and technical documentation. As an administrator, establishing guidelines to ensure proper instance governance is a core responsibility that you cannot overlook. It is one of the critical strategies to [drive efficiency as you work in an established Marketo Engage instance](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582). 

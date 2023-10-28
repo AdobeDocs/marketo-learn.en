@@ -1,6 +1,6 @@
 ---
 title: Getting started with Salesforce sync
-description: Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync. This tutorial walks you through how the sync works, setting up the sync to get the right data flowing, and the essential things to check on to make sure it's working properly. 
+description: Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync. This tutorial walks you through how the sync works, setting up the sync to get the right data flowing, and the essential things to check on to make sure it's working properly.
 feature-set: Marketo Engage
 feature: Salesforce Integration, Integrations, Marketing, Field Management, Administration
 topic: Integrations
@@ -10,8 +10,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17
 jira: KT-14113
 thumbnail: 3424719.jpeg
+exl-id: 2a88c233-ef13-47da-ae2a-5f0ace7a07e5
 ---
-
 # Getting started with Salesforce sync
 
 Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync. This tutorial walks you through how the sync works, setting up the sync to get the right data flowing, and the essential things to check on to make sure it's working properly. Additional tips and tricks for managing your Salesforce sync are shared to help you select the fields for sync and hide the fields that are no longer needed.

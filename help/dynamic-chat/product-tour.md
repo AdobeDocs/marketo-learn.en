@@ -7,8 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18
 jira: KT-14209
 thumbnail: 3425033.jpeg
+exl-id: bbcfe157-47e6-4728-b702-455ffa1deb65
 ---
-
 # Product tour of [!UICONTROL Dynamic Chat] [2023]
 
 Engage your web visitors with personalized conversations that will generate leads, respond to visitor questions with the power of GenAI, route to a sales agent, and also retarget chat leads through other channels to drive meeting bookings.

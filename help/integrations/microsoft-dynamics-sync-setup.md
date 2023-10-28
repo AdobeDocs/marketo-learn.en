@@ -10,8 +10,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17
 jira: KT-14112
 thumbnail: 3424737.jpeg
+exl-id: f93a08c0-ca4f-454b-b03e-6c5ceb353ec5
 ---
-
 # Getting started with Microsoft Dynamics sync
 
 Learn how the Microsoft Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. This tutorial walks you through how the sync works, downloading the Marketo Lead Management(MLM) solution, installing the MLM solution for server-to-server connection, and connecting the two systems. Additional tips and tricks for validating the sync, restricting the number of records synced, and estimating syncing time are shared to help you set up your Microsoft Dynamics sync.

@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18
 jira: KT-14211
 thumbnail: 3425034.jpeg
+exl-id: 0a9d38c3-5e18-4043-81d9-7c41f2bbbbba
 ---
-
 # Conversations SDK
 
 Convert any CTA click, page load or any visitor action on your web page into an engaging conversation with Conversations SDK. Here is a step-by-step guide to implement on your website

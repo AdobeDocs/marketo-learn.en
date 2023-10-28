@@ -10,8 +10,8 @@ last-substantial-update: 2023-10-16
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: no
+exl-id: 55ce292c-a711-4584-aa21-f57a624d7594
 ---
-
 # How to audit an inherited Marketo Engage instance
 
 Inheriting a Marketo Engage instance can be a stressful time, whether you are an experienced Admin or whether you are a newer Admin it can be difficult to know where to start cleaning up. To start off, we recommend you spend time understanding what is in the instance you just inherited today and creating a plan of action to update the configuration.
