@@ -81,7 +81,6 @@ auto-video-transcripts: true
   + [Dialogue preview](/help/dynamic-chat/dialogue-preview.md)
   + [Engagement report](/help/dynamic-chat/engagement-report.md)
   + [Globalization of static content](/help/dynamic-chat/globalization-of-static-content.md)
-  + [Roles and permissions](/help/dynamic-chat/roles-and-permissions.md)
 + Sales Insight Actions {#sales-insight-actions}
   + [Overview](/help/sales-insight-actions/overview.md)
   + [Sales Insight Actions overview](/help/sales-insight-actions/sales-insight-actions-overview.md)

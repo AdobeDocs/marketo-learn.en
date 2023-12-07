@@ -27,8 +27,6 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *Target your web visitors with conversations and personalize them with lead information from Marketo.*
   * **[Add and manage users of [!UICONTROL Dynamic Chat] ](user-management.md)**
     *Learn how to add or manage users in [!UICONTROL Dynamic Chat] .*
-  * **[Roles and permissions](roles-and-permissions.md)**
-    *Learn how you can create new roles and set permission to your Dynamic Chat users.*
   * **[Agent management](agent-management.md)**
     *Learn how to manage agents.*
 * Automated chat
