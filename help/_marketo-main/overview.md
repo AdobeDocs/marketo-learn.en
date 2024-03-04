@@ -1,10 +1,10 @@
 ---
-title: Marketo Engage tutorials
+title: Marketo Engage Tutorials
 description: Watch video tutorials on [!DNL Marketo Engage]. Improve your understanding of how to use marketing automation features and more.
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
 ---
-# [!DNL Marketo Engage] tutorials
+# [!DNL Marketo Engage] Tutorials
 
 Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These tutorials can help supplement [[!DNL Marketo] product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} to help you improve your understanding of marketing automation features. 
 
