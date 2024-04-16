@@ -92,6 +92,8 @@ auto-video-transcripts: true
   + [Subscription center](/help/lead-and-data-management/subscription-center-learn.md)
   + [Subscription center walk-through](/help/lead-and-data-management/subscription-center-watch.md)
   + [CRM sync](/help/lead-and-data-management/crm-sync-learn.md)
+  + [Getting started with Salesforce sync](/help/integrations/salesforce-sync-setup.md)
+  + [Getting started with Microsoft Dynamics sync](/help/integrations/microsoft-dynamics-sync-setup.md)
   + [Lead lifecycle](/help/lead-and-data-management/lead-lifecycle-learn.md)
   + [Lead lifecycle walk-through](/help/lead-and-data-management/lead-lifecycle-watch.md)
 + Events {#events}
@@ -104,6 +106,4 @@ auto-video-transcripts: true
   + [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
   + [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
-  + [Getting started with Salesforce sync](/help/integrations/salesforce-sync-setup.md)
-  + [Getting started with Microsoft Dynamics sync](/help/integrations/microsoft-dynamics-sync-setup.md)
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
