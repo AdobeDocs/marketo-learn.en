@@ -51,6 +51,9 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *Connect your qualified leads to engage with your sale agents instantly.*
   * **[Enable your leads to book meetings with your sales](meeting-booking.md)**
    *Accelerate the connect with sales for those [!DNL target] accounts with Meeting booking functionalities.*
+* Generative AI Chat
+  * **[Drive GenAI-powered conversations](gen-ai-features.md)**
+    *Learn how to use Dynamic Chat GenAI features.*
 * Analytics
   * **[Engagement report](engagement-report.md)**
     *See the trends of how your web visitors engaging with your dialogue*
