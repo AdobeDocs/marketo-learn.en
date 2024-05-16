@@ -7,8 +7,8 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-05-16
 jira: KT-15521
+exl-id: 345a68ba-3fd1-46a3-9576-99bf425c507e
 ---
-
 # Generative AI features of Dynamic Chat
 
 Learn how to drive GenAI-powered conversations and enable your visitors to ask questions, get quick responses, and generate summary for your conversations. Leverage conversational insights directly in your Marketo instances.
