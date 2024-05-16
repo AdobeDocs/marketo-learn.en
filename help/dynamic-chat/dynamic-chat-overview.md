@@ -56,5 +56,5 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *Learn how to use Dynamic Chat GenAI features.*
 * Analytics
   * **[Engagement report](engagement-report.md)**
-    *See the trends of how your web visitors engaging with your dialogue*
+    *See the trends of how your web visitors engaging with your dialogue.*
 
