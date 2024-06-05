@@ -104,7 +104,13 @@ auto-video-transcripts: true
   + [Creating an event program](/help/events/events-learn.md)
   + [Webinars](/help/events/webinar-learn.md)
   + [Webinars walk-through](/help/events/webinar-watch.md)
+  + [Interactive Webinars User and License Management](/help/events/interactive-webinars-user-and-license-management.md)
+  + [Interactive Webinars Event Program Creation](/help/events/interactive-webinars-event-program-creation.md)
+  + [Interactive Webinars Event Program Overview](/help/events/interactive-webinars-event-program-overview.md)
+  + [Interactive Webinars Event Configuration](/help/events/interactive-webinars-event-configuration.md)
   + [Design an effective Interactive Webinar](/help/events/design-an-effective-interactive-webinar.md)
+  + [Interactive Webinars Event Delivery](/help/events/interactive-webinars-event-delivery.md)
+  + [Interactive Webinars Post Event Insights and Actions](/help/events/interactive-webinars-post-event-insights-and-actions.md)
 + Reporting and analytics {#reporting}
   + [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
   + [Key reports](/help/reporting/key-reports.md)
