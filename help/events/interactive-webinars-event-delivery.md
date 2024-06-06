@@ -12,6 +12,6 @@ exl-id: 71feb0cc-3f3e-4396-8bb0-21dbc244cfc8
 ---
 # Interactive Webinars Event Delivery
 
-Learn how to deliver your Interactive Webinars Event in an optimal fashion to achieve your objective and engage the attendees to ensure the content generates interest and the marketers can solicit intent through different engagement tools to help better segmentation and personalized nurturing.
+Learn how to deliver your Interactive Webinars Event in an optimal fashion to achieve your objective and engage the attendees. Ensure your content generates interest so you can solicit intent through different engagement tools to help better personalized nurturing and segmentation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429638/?learn=on)
