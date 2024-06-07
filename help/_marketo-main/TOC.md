@@ -18,7 +18,7 @@ auto-video-transcripts: true
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
-  + [Implement a new instance ](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+  + [Implement a new instance - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
   + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
