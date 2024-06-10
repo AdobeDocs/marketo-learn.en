@@ -46,6 +46,8 @@ Welcome to the [!UICONTROL Dynamic Chat]  tutorials site. Use these tutorials al
     *Learn how to engage your website visitors immediately after they fill out a form.*
   * **[Conversations SDK](conversations-sdk.md)**
     *Learn how to implement Conversations SDK to convert any CTA click to an engaging conversation.*
+  * **[Reusable Flows](reusable-flows.md)**
+    *Simplify designing and managing your conversations with the new Conversational Flow card. Create a conversational stream once and repurpose it into multiple Dialogues.*
   * **[Conversational Landing Pages](conversational-landing-pages.md)**
     *With just a few clicks, install Dynamic Chat Conversational Flows into any landing page (Marketo Landing Pages or Custom) and convert any link or button to trigger a conversational engagement.*
 * Live chat and meeting booking

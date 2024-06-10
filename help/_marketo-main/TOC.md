@@ -79,6 +79,7 @@ auto-video-transcripts: true
   + [Globalization of static content](/help/dynamic-chat/globalization-of-static-content.md)
   + [Conversational Forms](/help/dynamic-chat/conversational-forms.md)
   + [Conversations SDK](/help/dynamic-chat/conversations-sdk.md)
+  + [Reusable Flows](/help/dynamic-chat/reusable-flows.md)
   + [Conversational Landing Pages](/help/dynamic-chat/conversational-landing-pages.md)
   + [Connect visitors to live agents](/help/dynamic-chat/connect-visitors-to-live-agents.md)
   + [Meeting bookings](/help/dynamic-chat/meeting-booking.md)
