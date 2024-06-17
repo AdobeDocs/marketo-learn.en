@@ -11,6 +11,7 @@ auto-video-transcripts: true
 + Fundamentals {#fundamentals}
   + [Goals and strategy](/help/fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](/help/fundamentals/organizational-structure-learn.md)
+  + [Migrating to Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
   + [Content marketing](/help/fundamentals/content-marketing-learn.md)
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
