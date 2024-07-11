@@ -1,6 +1,7 @@
 ---
 title: Smart Campaigns 101
-description: Learn  how you can use Smart Campaigns for data normalization and automated alerts.
+description: Learn how you can use Smart Campaigns for data normalization and automated alerts.
+short-description: If Marketo Engage is a car, the Smart Campaign is its engine. Smart Campaigns can do more than you can imagine, and it's easy to get started using them.
 role: User
 level: Beginner
 doc-type: Feature Video

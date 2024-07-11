@@ -1,6 +1,7 @@
 ---
 title: Design an Effective Interactive Webinar
 description: Learn how to create and design an effective Interactive Webinar
+short-description: Learn how to design an effective Interactive Webinar, the first step in ensuring your webinar event is engaging and memorable.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
