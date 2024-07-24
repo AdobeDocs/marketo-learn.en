@@ -50,7 +50,7 @@ More help on this topic for Marketo Engage administrators can be found in the fo
 
 You can modify the migration date in **Admin** > **Migration Console** > **Pre-Migration** to better suit your internal timeline. Learn more about rescheduling and the limitations of [modifying your migration date](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}.
 
-* Send an email to your System Administrators.
+#### Send an email to your System Administrators {send-an-email-to-system-admin}
 
 Below is a sample email for you to send to your System Administrators. Typically, your IT department manages all your Adobe licenses.
 
@@ -84,7 +84,7 @@ Regards,
 
 `---------------------------------------------------`
 
-* Send an email to Marketo Engage users.
+#### Send an email to Marketo Engage users {#send-an-email-to-marketo-engage-users}
 
 Below is a sample email you can use to announce the upcoming migration to your Marketo Engage users who do not have administrator privileges.
 
