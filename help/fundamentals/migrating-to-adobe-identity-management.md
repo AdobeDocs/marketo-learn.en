@@ -124,7 +124,7 @@ ii. On the Adobe login page, please sign in with an existing Adobe ID.
 
 We appreciate your cooperation during this transition. Thank you for your understanding and commitment to keeping our systems secure.
 
-Best,
+Regards,
 
 `[Your Name]`
 
