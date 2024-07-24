@@ -31,9 +31,9 @@ To ensure your organization can migrate Adobe Marketo Engage to the Adobe Admin 
 
 In the video below, the Marketo Engage Product Management team walks you through the migration journey and what to expect.
 
-<iframe title="Adobe Video Publishing Cloud Player" width="854" height="480" src=https://video.tv.adobe.com/v/3430920t3/?t=170frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
 
-More help on this topic for Marketo Engage administrators:
+More help on this topic for Marketo Engage administrators can be found in the following help articles:
 
 * [User Setup checklist](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
