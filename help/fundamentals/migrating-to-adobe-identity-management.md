@@ -61,7 +61,7 @@ Below is a sample email for you to send to your System Administrators. Typically
 
 Dear `[IT Administrator/NAME]`,
 
-Our Marketo Engage subscription will soon be migrated to the Adobe Identity Management System. The [Marketing Operation team] needs your help to complete some required steps before user migration begins, to minimize the impact on Marketo Engage users
+Our Marketo Engage subscription will soon be migrated to the Adobe Identity Management System. The `[Marketing Operation team]` needs your help to complete some required steps before user migration begins, to minimize the impact on Marketo Engage users.
 
 `1.` Confirm if the organization already manages other Adobe products in Adobe Admin Console(s) and if Marketo Engage will be migrated to the same console.
 
@@ -71,7 +71,7 @@ Our Marketo Engage subscription will soon be migrated to the Adobe Identity Mana
 
 `2.` Be on the lookout for an email from Adobe with the subject line "Action required to manage user access to Adobe Marketo Engage `[Package Tier]`." This email was sent after Marketo Engage licenses were provisioned on our Admin Console. Only System Administrators will receive this email. Please inform us promptly when you receive it.
 
-* Adobe may seek consent from you, who's the System Administrator of the Admin Console, to automatically migrate users to our organization's existing console. In the email with the subject line "Action required to manage user access to Adobe Marketo Engage `[Package Tier]`.", click the "Get Started" button to navigate to the consent page.
+* Adobe may seek consent from you, who's the System Administrator of the Admin Console, to automatically migrate users to our organization's existing console. In the email with the subject line "Action required to manage user access to Adobe Marketo Engage `[Package Tier]`," click the "Get Started" button to navigate to the consent page.
 
 `3.` **Optional:** Setting up SSO (Single Sign On) on the Adobe Admin Console.
 
@@ -117,12 +117,12 @@ ii. An active user session is required for email verification success. Please si
 i. Accept the new invitation by clicking the 'Accept Invitation' button and signing in using Adobe Identity. 
 ii. On the Adobe login page, please sign in with an existing Adobe ID. 
 
-`3.` Contact: If you have any questions or need assistance after your account is migrated or if your account isn't migrated and you lost access to Marketo Engage, please reach out to the Marketo Engage migration team at [your internal contact email/phone].
+`3.` Contact: If you have any questions or need assistance after your account is migrated or if your account isn't migrated and you lost access to Marketo Engage, please reach out to the Marketo Engage migration team at `[your internal contact email/phone]`.
 
 We appreciate your cooperation during this transition. Thank you for your understanding and commitment to keeping our systems secure.
 
 Best,
 
-[Your Name]
+`[Your Name]`
 
 `---------------------------------------------------`
