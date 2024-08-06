@@ -30,8 +30,10 @@ Learn how to set up the Postman application and leverage variables to save data 
 
 * JS script to grab acccess_token from the response body (places under the Scripts: tab):
 
-`var jsonData = pm.response.json();
-pm.environment.set("access_token", jsonData.access_token);`
+```
+var jsonData = pm.response.json();
+pm.environment.set("access_token", jsonData.access_token);
+```
 
 * [Marketo Engage Developers documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
