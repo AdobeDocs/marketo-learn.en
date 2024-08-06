@@ -118,3 +118,4 @@ auto-video-transcripts: true
   + [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+  + [API Help - How to set the Access token in a variable](/help/integrations/api-set-access-token-variable.md)
