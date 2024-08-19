@@ -22,7 +22,7 @@ To ensure your organization can migrate Adobe Marketo Engage to the Adobe Admin 
 
 * If you're not sure who the System Administrators are within your organization, contact your Adobe Account team, or reach out to Adobe Support `marketocares@marketo.com`.
 
-* Confirm the Adobe Admin Console (or Adobe Org) to which your Marketo Engage subscription(s) will be migrated. You likely have an Adobe Admin Console for Dynamic Chat, a native conversation automation tool in Marketo Engage. Marketo Engage subscription(s) must be deployed in the same organization as [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
+* Confirm the Adobe Admin Console (or Adobe Org) to which your Marketo Engage subscription(s) will be migrated. You likely have an Adobe Admin Console for [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}, a native conversation automation tool in Marketo Engage. Marketo Engage subscription(s) must be deployed in the same organization as Dynamic Chat.
 
 * Work with your IT team to allowlist all Adobe domains listed [at the top of this article](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} to prevent disruption to Marketo Engage access after the migration to Adobe Identity.
 
@@ -76,9 +76,11 @@ Our Marketo Engage subscription will soon be migrated to the Adobe Identity Mana
 
 * Adobe may seek consent from you, the System Administrator of the Admin Console, to automatically migrate users to our organization's existing console. In the email with the subject line "Action required to manage user access to Adobe Marketo Engage `[Package Tier]`," click the "Get Started" button to navigate to the consent page.
 
-`3.` **Optional:** Setting up SSO (Single Sign On) on the Adobe Admin Console.
+`3.` After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. Please allowlist all Adobe domains listed [at the top of this article](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} to prevent disruption to our Marketo Engage access.
 
-* To benefit our users who log in with SSO on their Adobe Identity moving forward, we request you to assist with SSO setup on the Adobe Admin Console before user migration occurs.
+`4.` **Optional:** Setting up SSO (Single Sign On) on the Adobe Admin Console.
+
+* To benefit our users who log in with SSO on their Adobe Identity moving forward, please assist with SSO setup on the Adobe Admin Console before user migration occurs.
 
 We appreciate your cooperation during this transition. Let me know when you have completed these steps so I can proceed with the migration.
 
@@ -123,6 +125,8 @@ ii. An active user session is required for the email verification success. Pleas
 i. Accept the new invitation by clicking the 'Accept Invitation' button and signing in using Adobe Identity.
 
 ii. On the Adobe login page, please sign in with an existing Adobe ID.
+
+iii. You must first log in to the Marketo Engage instance for any previously bookmarked URL on the engage-xx.marketo.com domain you're navigating to.
 
 `3.` **Contact**: If you have any questions or need assistance after your account is migrated, or if your account isn't migrated and you lost access to Marketo Engage, please reach out to the Marketo Engage migration team at `[your internal contact email/phone]`.
 
