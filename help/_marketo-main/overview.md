@@ -22,10 +22,10 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 _Learn to navigate the Adobe Identity Management migration so you can start managing Adobe Marketo Engage along with other Adobe accounts and products for your users in a central location._
 
 * [Interactive Webinars Post Event Insights and Actions](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-Learn where to find detailed information on the performance and engagement of your Interactive Webinars event.
+_Learn where to find detailed information on the performance and engagement of your Interactive Webinars event._
 
 * [Marketo How to API Video - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-Learn how to set up the Postman application and how to leverage variables to save data into the variable for reusability purposes.
+_Learn how to set up the Postman application and how to leverage variables to save data into the variable for reusability purposes._
 
 ## Most popular videos {#most-popular-videos}
 
