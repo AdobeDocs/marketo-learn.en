@@ -8,8 +8,8 @@ doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06
 jira: KT-15548
+exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
 ---
-
 # API Help - How to set the Access token in a variable
 
 Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.
