@@ -1,8 +1,8 @@
 ---
 title: Migrating to Adobe Identity Management
 description: This tutorial will help you navigate the migration of your Marketo Engage subscriptions and users to the Adobe Admin Console.
-role: User, Admin, Leader
-level: Beginner, Intermediate, Experienced
+role: Admin
+level: Intermediate, Experienced
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26
 feature: Marketing
