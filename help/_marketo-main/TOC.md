@@ -60,7 +60,6 @@ auto-video-transcripts: true
   + [SEO and PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
   + [SEO and PPC walk-through](/help/cross-channel-marketing/seo-and-ppc-watch.md)
   + [Social marketing](/help/cross-channel-marketing/social-marketing-learn.md)
-  + [Social marketing walk-through](/help/cross-channel-marketing/social-marketing-watch.md)
   + [Web personalization](/help/cross-channel-marketing/web-personalization-learn.md)
   + [Web personalization walk-through](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -115,7 +114,6 @@ auto-video-transcripts: true
   + [Interactive Webinars Post Event Insights and Actions](/help/events/interactive-webinars-post-event-insights-and-actions.md)
   + [On-Demand Webinars](/help/events/on-demand-webinars.md)
 + Reporting and analytics {#reporting}
-  + [Reporting and analytics](/help/reporting/reporting-and-analytics.md)
   + [Key reports](/help/reporting/key-reports.md)
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)

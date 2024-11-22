@@ -3,7 +3,7 @@ title: Marketo How to API Video - How to set the Access token in a variable
 description: Learn how to set up the Postman application and how to leverage variables to save data into the variable for reusability purposes.
 feature: REST API
 role: Admin, Developer
-level: Beginner
+level: Advanced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06

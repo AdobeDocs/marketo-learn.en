@@ -2,7 +2,7 @@
 title: How to engage visitors with web personalization
 description: Watch how to connect [!DNL Marketo] to several of our digital advertising LaunchPoint partners.
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
