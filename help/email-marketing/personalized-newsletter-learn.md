@@ -1,5 +1,5 @@
 ---
-title: Learn about creating a personalized newsletter email progra… (Titles should be no more than 60 characters)
+title: Creating a personalized newsletter email program
 description: Engage with prospects and customers in a cost-effective way using personalized email newsletters.
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ thumbnail: 345471.jpeg
 exl-id: 35f33547-49ff-4e2e-a4b8-2cf8aa21d385
 feature: Programs
 ---
-# Learn about creating a personalized newsletter email progra… (Titles should be no more than 60 characters)
+# Creating a personalized newsletter email program
 
 Engage with prospects and customers in a cost-effective way using personalized email newsletters.
 

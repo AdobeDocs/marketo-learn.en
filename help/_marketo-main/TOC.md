@@ -15,7 +15,6 @@ auto-video-transcripts: true
   + [Content marketing](/help/fundamentals/content-marketing-learn.md)
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
-  + [Navigate the UI](/help/fundamentals/ui-navigation.md)
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
@@ -24,12 +23,10 @@ auto-video-transcripts: true
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
-  + [Email programs](/help/programs/email-programs.md)
   + [Event programs](/help/programs/event-programs.md)
   + Default programs {#default-programs}
     + [Create and measure a default program](/help/programs/create-and-measure-default-programs.md)
     + [Leverage the flexibility of default programs](/help/programs/leverage-the-flexibility-of-default-programs.md)
-  + [Engagement programs](/help/programs/engagement-programs.md)
   + Engagement maps {#engagement-maps}
     + [Engagement map overview](/help/engagement-maps/engagement-map-overview.md)
     + [Engagement map nested campaigns](/help/engagement-maps/engagement-map-nested-campaign.md)

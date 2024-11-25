@@ -1,8 +1,8 @@
 ---
 title: Learn about using dynamic and predictive content in emails
-description: Delivering relevant content is one of the most important ideas in marketing. Learn how to utilize Marketo Content AI and how to apply dynamic content when working with Marketo.
+description: Delivering relevant content is one of the most important ideas in marketing. Learn how to utilize Marketo Content AI and how to apply dynamic content when working with Marketo.
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-10768
 thumbnail: 345485.jpeg
 exl-id: fe19fc67-60d0-47ee-9d76-88210ca37415
