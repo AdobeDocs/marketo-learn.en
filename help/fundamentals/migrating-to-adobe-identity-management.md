@@ -28,6 +28,8 @@ To ensure your organization can migrate Adobe Marketo Engage to the Adobe Admin 
 
 * **Optional:** [Implement Single Sign On (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} before user migration.
 
+* **Optional:** Customize the [desired maximum session life](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} prior to user migration for Marketo Engage users to remain authenticated.  
+
 * Learn what to communicate with your System Administrators in the [Sample Email section](#announce-the-migration-timeline).
 
 ### 2. Familiarize yourself with the changes and impacts of migrating to Adobe Identity {#familiarize-yourself-with-the-changes}
@@ -78,9 +80,13 @@ Our Marketo Engage subscription will soon be migrated to the Adobe Identity Mana
 
 `3.` After migration, Marketo Engage will go from being served from experience.adobe.com to Adobe Experience Cloud. Please allowlist all Adobe domains listed [at the top of this article](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"} to prevent disruption to our Marketo Engage access.
 
-`4.` **Optional:** Setting up SSO (Single Sign On) on the Adobe Admin Console.
+`4.` **Optional:** Set up SSO (Single Sign On) in the Adobe Admin Console.
 
-* To benefit our users who log in with SSO on their Adobe Identity moving forward, please assist with SSO setup on the Adobe Admin Console before user migration occurs.
+* To benefit our users who log in with SSO on their Adobe Identity moving forward, please assist with SSO setup in the Adobe Admin Console before user migration occurs.
+
+`5.` **Optional:** Set a longer [maximum session life](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} in the Adobe Admin Console.
+
+* To prevent users from having to sign in frequently, please customize the session life in the Advanced Settings with a longer duration.
 
 We appreciate your cooperation during this transition. Let me know when you have completed these steps so I can proceed with the migration.
 
