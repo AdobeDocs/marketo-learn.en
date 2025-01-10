@@ -7,9 +7,9 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10
 jira: KT-16740
-hidefromtoc: True
+hidefromtoc: true
+exl-id: d59faacb-b8c1-431e-844d-f5ef25b2d8eb
 ---
-
 # Identify and Prevent Duplicate Records in Marketo Engage
 
 Explore tools and tips for spotting duplicates and preventing them with structured workflows and periodic audits.
