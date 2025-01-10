@@ -115,3 +115,16 @@ auto-video-transcripts: true
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
   + [API Help - How to set the Access token in a variable](/help/integrations/api-set-access-token-variable.md)
++ Managing Duplicates {#manage-duplicates}
+  + [Introduction to Managing Duplicates](/help/managing-duplicates/introduction-managing-duplicates.md)
+  + [Understand why duplicates occur](/help/managing-duplicates/why-duplicates-occur.md)
+  + [Identify and Prevent Duplicate Records](/help/managing-duplicates/identify-prevent-duplicates.md)
+  + [Determine when duplicate records are necessary](/help/managing-duplicates/determine-necessary-duplicates.md)
+  + [Merging duplicate records manually](/help/managing-duplicates/merge-manually.md)
+  + [Bulk merging duplicates part 1](/help/managing-duplicates/bulk-merge-part-1.md)
+  + [Bulk merging duplicates part 2](/help/managing-duplicates/bulk-merge-part-2.md)
+  + [Bulk merging duplicates part 3](/help/managing-duplicates/bulk-merge-part-3.md)
+  + [Automate duplicate management part 1](/help/managing-duplicates/automate-integration-part-1.md)
+  + [Automate duplicate management part 2](/help/managing-duplicates/automate-integration-part-2.md)
+  + [Simplify duplicate management](/help/managing-duplicates/simplify-acs.md)
+  + [Choose the best strategy for managing duplicates](/help/managing-duplicates/duplicate-strategy.md)
