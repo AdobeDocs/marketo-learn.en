@@ -28,6 +28,10 @@ To ensure your organization can migrate Adobe Marketo Engage to the Adobe Admin 
 
 * **Optional:** [Implement Single Sign On (SSO)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"} before user migration.
 
+   >[!NOTE]
+   >
+   >There are differences between Marketo Engage supported SSO and Adobe Admin Console SSO. As such, changes to your configuration may need to be implemented.
+
 * **Optional:** Customize the [desired maximum session life](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} prior to user migration for Marketo Engage users to remain authenticated.  
 
 * Learn what to communicate with your System Administrators in the [Sample Email section](#announce-the-migration-timeline).
