@@ -1,5 +1,5 @@
 ---
-title: Identify and Prevent Duplicate Records in Marketo Engage
+title: Identity and prevent duplicate records in Marketo Engage
 description: Explore tools and tips for spotting duplicates and preventing them with structured workflows and periodic audits.
 role: Admin
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ jira: KT-16740
 hidefromtoc: true
 exl-id: d59faacb-b8c1-431e-844d-f5ef25b2d8eb
 ---
-# Identify and Prevent Duplicate Records in Marketo Engage
+# Identity and prevent duplicate records in Marketo Engage
 
 Explore tools and tips for spotting duplicates and preventing them with structured workflows and periodic audits.
 
