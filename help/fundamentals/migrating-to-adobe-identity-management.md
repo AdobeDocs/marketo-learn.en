@@ -62,9 +62,9 @@ More help on this topic for Marketo Engage administrators can be found in the fo
 
 * **Send an email to your System Administrators**
 
-Below is a sample email for you to send to your System Administrators. Typically, your IT department manages all your Adobe licenses.
+Below is a sample email to send to your Admins. Typically, your IT department manages all your Adobe licenses.
 
-`---------------------------------------------------`
++++ Sample email to send to your System Administrators
 
 **Subject: Support Needed&mdash;Migration of Marketo Engage Subscriptions to Adobe Admin Console**
 
@@ -98,13 +98,13 @@ Regards,
 
 `[Your Name]`
 
-`---------------------------------------------------`
++++
 
 * **Send an email to Marketo Engage users**
 
-Below is a sample email you can use to announce the upcoming migration to your Marketo Engage users who do not have administrator privileges.
+Below is a sample email for Marketo Engage users who do **not** have administrator privileges.
 
-`---------------------------------------------------`
++++ Sample email announcing the upcoming migration
 
 **Subject: Important Update&mdash;Migration of Marketo Engage Subscriptions to Adobe Admin Console**
 
@@ -146,4 +146,4 @@ Regards,
 
 `[Your Name]`
 
-`---------------------------------------------------`
++++
