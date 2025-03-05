@@ -102,6 +102,7 @@ auto-video-transcripts: true
   + [Creating an event program](/help/events/events-learn.md)
   + [Webinars](/help/events/webinar-learn.md)
   + [Webinars walk-through](/help/events/webinar-watch.md)
+  + [Interactive Webinars Overview](/help/events/interactive-webinars-overview.md)
   + [Interactive Webinars User and License Management](/help/events/interactive-webinars-user-and-license-management.md)
   + [Interactive Webinars Event Program Creation](/help/events/interactive-webinars-event-program-creation.md)
   + [Interactive Webinars Event Program Overview](/help/events/interactive-webinars-event-program-overview.md)
