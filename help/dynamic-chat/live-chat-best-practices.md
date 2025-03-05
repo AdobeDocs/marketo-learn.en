@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 609
 last-substantial-update: 2025-03-05
 jira: KT-15667
+exl-id: e1eafb16-ddbb-46aa-81e6-e4eae1767f27
 ---
-
 # Best practices to implement live chat
 
 Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.
