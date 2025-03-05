@@ -17,7 +17,7 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 
 ## What's new {#whats-new}
 
-* [Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
 _Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat._
 
 * [Interactive Webinars Overview](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
