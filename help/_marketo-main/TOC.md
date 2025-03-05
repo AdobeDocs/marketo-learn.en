@@ -78,6 +78,7 @@ auto-video-transcripts: true
   + [Conversations SDK](/help/dynamic-chat/conversations-sdk.md)
   + [Reusable Flows](/help/dynamic-chat/reusable-flows.md)
   + [Conversational Landing Pages](/help/dynamic-chat/conversational-landing-pages.md)
+  + [Best practices to implement live chat](/help/dynamic-chat/live-chat-best-practices.md)
   + [Connect visitors to live agents](/help/dynamic-chat/connect-visitors-to-live-agents.md)
   + [Meeting bookings](/help/dynamic-chat/meeting-booking.md)
   + [Drive GenAI-powered conversations](/help/dynamic-chat/gen-ai-features.md)
