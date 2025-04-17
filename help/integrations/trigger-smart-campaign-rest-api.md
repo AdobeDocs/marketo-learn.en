@@ -48,13 +48,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+If you're using a token to dynamically inject an image URL (e.g., `{{my.WebinarImage}}`), you must wrap the token in an HTML image tag:
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->If you're using a token to dynamically inject an image URL (e.g., `{{my.WebinarImage}}`), you must wrap the token in an HTML image tag:
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >Marketo Enagage **will not** render the image unless the token is placed inside a valid image tag.
 
