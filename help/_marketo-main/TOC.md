@@ -117,6 +117,7 @@ auto-video-transcripts: true
 + Integrations {#integrations}
   + [Marketo with Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
   + [API Help - How to set the Access token in a variable](/help/integrations/api-set-access-token-variable.md)
+  + [How to trigger a Smart Campaign in Marketo Engage using the REST API and tokens](/help/integrations/trigger-smart-campaign-rest-api.md)
 + Managing Duplicates {#manage-duplicates}
   + [Introduction to Managing Duplicates](/help/managing-duplicates/introduction-managing-duplicates.md)
   + [Understand why duplicates occur](/help/managing-duplicates/why-duplicates-occur.md)
