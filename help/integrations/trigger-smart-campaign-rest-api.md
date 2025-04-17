@@ -4,6 +4,7 @@ description: Learn how to trigger a Smart Campaign in Marketo Engage using the R
 feature: REST API
 role: Admin, Developer
 level: Experienced
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
 ---
 # How to trigger a Smart Campaign in Marketo Engage using the REST API and tokens
 
