@@ -26,7 +26,7 @@ auto-video-transcripts: true
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
   + [Understand program membership](/help/programs/understanding-program-membership.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
-  + [Intro to Channels, Tags, and Period Costs](/help/campaigns/channels-tags-period-costs.md)
+  + [Intro to Channels, Tags, and Period Costs](/help/programs/channels-tags-period-costs.md)
   + [Event programs](/help/programs/event-programs.md)
   + Default programs {#default-programs}
     + [Create and measure a default program](/help/programs/create-and-measure-default-programs.md)
