@@ -11,10 +11,12 @@ auto-video-transcripts: true
 + Fundamentals {#fundamentals}
   + [Goals and strategy](/help/fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](/help/fundamentals/organizational-structure-learn.md)
-  + [Migrating to Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
   + [Content marketing](/help/fundamentals/content-marketing-learn.md)
   + [Buyer personas](/help/fundamentals/buyer-personas-learn.md)
+  + [Smart Lists](/help/fundamentals/smart-lists.md)
+  + [Static Lists](/help/fundamentals/static-lists.md)
   + [Programs and campaigns](/help/fundamentals/programs-and-campaigns.md)
+  + [Migrating to Adobe Identity Management](/help/fundamentals/migrating-to-adobe-identity-management.md)
   + [Best practices to organize a new instance](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Personalize with tokens](/help/personalization/personalize-with-tokens.md)
@@ -22,7 +24,9 @@ auto-video-transcripts: true
   + [Audit an inherited instance - Tutorial](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + Programs and campaigns {#programs-and-campaigns}
   + [Understand programs and campaigns](/help/programs/understanding-programs-and-campaigns.md)
+  + [Understand program membership](/help/programs/understanding-program-membership.md)
   + [Smart Campaigns 101](/help/campaigns/smart-campaigns-101.md)
+  + [Intro to Channels, Tags, and Period Costs](/help/campaigns/channels-tags-period-costs.md)
   + [Event programs](/help/programs/event-programs.md)
   + Default programs {#default-programs}
     + [Create and measure a default program](/help/programs/create-and-measure-default-programs.md)
@@ -89,8 +93,9 @@ auto-video-transcripts: true
   + [Accessing your Sales Insight Actions instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
   + [Configure sales activity logging to [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + Lead and data management {#lead-and-data-management}
-  + [Lead / person scoring](/help/lead-and-data-management/lead-scoring-learn.md)
-  + [Lead / person scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
+  + [Understanding scoring](/help/lead-and-data-management/understanding-scoring.md)
+  + [Lead/person scoring](/help/lead-and-data-management/lead-scoring-learn.md)
+  + [Lead/person scoring walk-through](/help/lead-and-data-management/lead-scoring-watch.md)
   + [Subscription center](/help/lead-and-data-management/subscription-center-learn.md)
   + [Subscription center walk-through](/help/lead-and-data-management/subscription-center-watch.md)
   + [CRM sync](/help/lead-and-data-management/crm-sync-learn.md)
