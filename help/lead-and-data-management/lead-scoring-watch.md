@@ -1,7 +1,6 @@
 ---
-title: How to build a  lead / person  scoring program
-description: Watch how to build a  lead / person  scoring operational program, use tokens in the campaign, and import pre-built campaigns.
-feature: Person Scoring
+title: How to build a  lead/person  scoring program
+description: Watch how to build a lead/person scoring operational program, use tokens in the campaign, and import pre-built campaigns.
 role: User
 level: Beginner
 jira: KT-10741
