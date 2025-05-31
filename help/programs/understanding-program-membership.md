@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 215
 last-substantial-update: 2025-05-30
 jira: KT-18219
+exl-id: 904e0d1f-35b3-4c40-a523-08eef087af66
 ---
-
 # Understanding Program Membership
 
 Learn more about people and their relationship to a specific program.
