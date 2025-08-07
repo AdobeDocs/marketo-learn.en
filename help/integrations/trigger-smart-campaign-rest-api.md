@@ -69,9 +69,9 @@ To pass values dynamically via API, the tokens must already exist in Marketo Eng
 
 2. Drag in a **Text token** from the right-side panel for each dynamic value.
 
-  * `{{my.WebinarTitle}}` - Text token
-  * `{{my.JoinLink}}` - Text token
-  * `{{my.WebinarImage}}` - Text token (this will be used as the `src` in an `<img>` tag)
+* `{{my.WebinarTitle}}` - Text token
+* `{{my.JoinLink}}` - Text token
+* `{{my.WebinarImage}}` - Text token (this will be used as the `src` in an `<img>` tag)
 
 ![My Tokens tab in campaign](assets/trigger-smart-campaign-rest-api-3.png)
 
