@@ -1,7 +1,7 @@
 ---
 title: Tokens Overview
 description: Tokens are variables that pull in personalized data for use in Smart Campaign flow steps, emails, Landing Pages, and more.
-topic: Tokens
+feature: Tokens
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video

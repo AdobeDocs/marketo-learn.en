@@ -1,7 +1,7 @@
 ---
 title: Create an Email Program
 description: Learn how to use an Email Program to quickly and easily send an email to multiple recipients and track its results.
-topic: Email Programs
+feature: Email Programs
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video

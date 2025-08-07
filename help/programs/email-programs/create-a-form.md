@@ -1,7 +1,7 @@
 ---
 title: Create a Form in an Email Program
 description: Learn how to create and use forms to capture lead/person data.
-topic: Email Programs
+feature: Email Programs
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video

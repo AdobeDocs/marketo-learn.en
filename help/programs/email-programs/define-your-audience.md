@@ -1,7 +1,7 @@
 ---
 title: Define Your Audience
 description: Learn how to define your desired audience when using an Email Program.
-topic: Email Programs
+feature: Email Programs
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video

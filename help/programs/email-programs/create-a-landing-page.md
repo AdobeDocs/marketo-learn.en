@@ -1,7 +1,7 @@
 ---
 title: Create a Landing Page in an Email Program
 description: Learn how create, customize, and approve a Landing Page in your Email Program.
-topic: Landing Pages
+feature: Landing Pages
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video

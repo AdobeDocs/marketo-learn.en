@@ -1,7 +1,7 @@
 ---
 title: Create an Email in an Email Program
 description: Learn how to create, personalize, and test an email in an Email Program.
-topic: Email Programs
+feature: Email Programs
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
