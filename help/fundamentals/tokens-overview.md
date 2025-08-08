@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 232
 last-substantial-update: 2025-08-07
 jira: KT-18698
+exl-id: 1f8f50ee-7fcb-433a-8474-e762bc8a4e8b
 ---
-
 # Tokens Overview
 
 Tokens are variables that pull in personalized data for use in Smart Campaign flow steps, emails, Landing Pages, and more.
