@@ -70,7 +70,6 @@ auto-video-transcripts: true
   + [Mobile marketing walk-through](/help/cross-channel-marketing/mobile-marketing-watch.md)
   + [SEO and PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
   + [SEO and PPC walk-through](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-  + [Social marketing](/help/cross-channel-marketing/social-marketing-learn.md)
   + [Web personalization](/help/cross-channel-marketing/web-personalization-learn.md)
   + [Web personalization walk-through](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
