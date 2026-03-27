@@ -2,12 +2,14 @@
 cloud: Experience Cloud
 solution: Marketo Engage
 product: marketo
+landing-page-name: marketo-engage
+landing-page-breadcrumb-title: Marketo Engage
 type: Tutorial
 doc-type: video
 feature-set: Marketo Engage
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
