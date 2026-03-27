@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: no
+index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
 ---
 # Develop an instance governance guide with documentation

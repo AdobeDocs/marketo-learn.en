@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-13875
 thumbnail: KT-13875.jpeg
-hide: no
+index: true
 exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
 ---
 # Log CRM Sync Errors for Easy Troubleshooting

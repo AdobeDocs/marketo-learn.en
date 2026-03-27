@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: no
+index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
 ---
 # Tips and Tricks for auditing an inherited Marketo Engage instance - Tutorial Overview
