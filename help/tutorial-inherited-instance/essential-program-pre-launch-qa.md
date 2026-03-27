@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-index: yes
+index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
 ---
 # Essential program pre-launch quality assurance process for success
