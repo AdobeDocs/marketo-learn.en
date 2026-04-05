@@ -14,5 +14,5 @@ Learn how to configure and log Sales Insight Actions activities to your [!DNL Sa
 
 ## Related videos
 
-* [Sales Insight Actions Overview](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Accessing Your [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Sales Insight Actions Overview](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Accessing Your [!DNL Sales Insight Actions] Instance](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
