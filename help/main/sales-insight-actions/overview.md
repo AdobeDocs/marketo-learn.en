@@ -22,16 +22,16 @@ Use [!UICONTROL Sales Insight Actions] to accelerate prospecting efforts with ma
 <table style="table-layout:fixed">
 <tr>
 <td>
-<a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><img alt="thumbnail image for Sales Insight Actions Overview" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/sales-insight-actions-overview.md"><strong>Sales Insight Actions Overview</strong></a></div>
+<a href="/help/main/sales-insight-actions/sales-insight-actions-overview.md"><img alt="thumbnail image for Sales Insight Actions Overview" src="assets/sales-insight-actions-feature-overview-videothumb.png" /></a>
+<div><a href="/help/main/sales-insight-actions/sales-insight-actions-overview.md"><strong>Sales Insight Actions Overview</strong></a></div>
 </td>
 <td>
-<a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="thumbnail image for Accessing Your Sales Insight Actions Instance" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accessing Your Sales Insight Actions Instance</strong></a></div>
+<a href="/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><img alt="thumbnail image for Accessing Your Sales Insight Actions Instance" src="assets/accessing-your-sales-insight-actions-instance-videothumb.png" /></a>
+<div><a href="/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md"><strong>Accessing Your Sales Insight Actions Instance</strong></a></div>
 </td>
 <td>
-<a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="thumbnail image for Configure Sales Activity Logging to [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
-<div><a href="/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Configure Sales Activity Logging to [!DNL Salesforce]</strong></a></div>
+<a href="/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><img alt="thumbnail image for Configure Sales Activity Logging to [!DNL Salesforce]" src="assets/configure-sales-activity-logging-to-salesforce-videothumb.png" /></a>
+<div><a href="/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md"><strong>Configure Sales Activity Logging to [!DNL Salesforce]</strong></a></div>
 </td>
 </tr>
 </table>

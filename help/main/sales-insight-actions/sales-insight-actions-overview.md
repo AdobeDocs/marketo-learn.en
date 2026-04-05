@@ -14,5 +14,5 @@ Accelerate prospecting efforts with marketing-powered intelligence and engagemen
 
 ## Related videos
 
-* [Configure Sales Activity Logging to [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [Accessing Your [!DNL Sales Insight Actions] Instance](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [Configure Sales Activity Logging to [!DNL Salesforce]](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Accessing Your [!DNL Sales Insight Actions] Instance](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

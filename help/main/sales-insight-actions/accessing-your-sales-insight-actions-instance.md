@@ -14,5 +14,5 @@ This video provides an overview of how to access your [!UICONTROL Sales Insight 
 
 ## Related videos
 
-* [Sales Insight Actions Overview](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [Configure Sales Activity Logging to [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [Sales Insight Actions Overview](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [Configure Sales Activity Logging to [!DNL Salesforce]](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}

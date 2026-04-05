@@ -10,4 +10,4 @@ feature: Programs, Smart Campaigns
 ---
 # Understanding programs and campaigns
 
-{{$include /help/_includes/incl-programs-and-campaigns.md}}
+{{$include /help/main/_includes/incl-programs-and-campaigns.md}}
