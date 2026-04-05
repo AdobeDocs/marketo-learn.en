@@ -7,7 +7,7 @@ auto-video-transcripts: true
 
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
-+ [[!DNL Marketo Engage] Tutorials](/help/main/_marketo-main/overview.md)
++ [[!DNL Marketo Engage] Tutorials](overview.md)
 + Fundamentals {#fundamentals}
   + [Goals and strategy](/help/main/fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](/help/main/fundamentals/organizational-structure-learn.md)
