@@ -10,4 +10,4 @@ feature: Programs, Smart Campaigns
 ---
 # Understanding Marketo programs and campaigns
 
-{{$include /help/main/_includes/incl-programs-and-campaigns.md}}
+{{$include /help/_includes/incl-programs-and-campaigns.md}}
