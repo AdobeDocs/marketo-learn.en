@@ -1,5 +1,5 @@
 ---
-title: Conditional Content - Short Form
+title: Conditional Content
 description: Learn how to dynamically control what content is seen by which audience.
 feature: Email Designer
 role: Admin, User
@@ -9,7 +9,7 @@ duration: 74
 last-substantial-update: 2026-04-07
 jira: KT-20510
 ---
-# Conditional Content - Short Form
+# Conditional Content
 
 Learn how to dynamically control what content is seen by which audience.
 
