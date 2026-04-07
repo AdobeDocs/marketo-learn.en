@@ -7,7 +7,7 @@ auto-video-transcripts: true
 
 # [!DNL Marketo Engage] tutorials {#tutorials}
 
-+ [[!DNL Marketo Engage] Tutorials](overview.md)
++ [[!DNL Marketo Engage] Tutorials](/help/main/overview.md)
 + Fundamentals {#fundamentals}
   + [Goals and strategy](/help/main/fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](/help/main/fundamentals/organizational-structure-learn.md)
@@ -68,8 +68,6 @@ auto-video-transcripts: true
   + [Forms walk-through](/help/main/email-marketing/forms-watch.md)
   + [Integrating mobile marketing](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
   + [Mobile marketing walk-through](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-  + [SEO and PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-  + [SEO and PPC walk-through](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
   + [Web personalization](/help/main/cross-channel-marketing/web-personalization-learn.md)
   + [Web personalization walk-through](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -146,3 +144,6 @@ auto-video-transcripts: true
   + [Automate duplicate management part 2](/help/main/managing-duplicates/automate-integration-part-2.md)
   + [Simplify duplicate management](/help/main/managing-duplicates/simplify-acs.md)
   + [Choose the best strategy for managing duplicates](/help/main/managing-duplicates/duplicate-strategy.md)
++ Shorts {#shorts}
+    + [AI Assistant for Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
+  

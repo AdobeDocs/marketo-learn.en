@@ -17,7 +17,7 @@ exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
 
 If you inherit a live Marketo Engage instance that has been managed by multiple people, you may find yourself making mental notes of everything that seems out of place. It is important to organize the cleanup and optimization work by categorizing the tasks and then prioritizing those tasks that go a long way.
 
-This 'Inherited Instance Audit Tips and Tricks' tutorial, sourced from Adobe Marketo Champions, provides step-by-step guidance for new admins. The tutorial accompanies downloadable [audit checklists](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) and templates to help you jump-start an inherited instance right away. Follow along with the tutorials and get inspired by learning from peers! 
+This 'Inherited Instance Audit Tips and Tricks' tutorial, sourced from Adobe Marketo Champions, provides step-by-step guidance for new admins. The tutorial accompanies downloadable [audit checklists](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) and templates to help you jump-start an inherited instance right away. Follow along with the tutorials and get inspired by learning from peers!
 
 ## Topics and what you will learn
 
