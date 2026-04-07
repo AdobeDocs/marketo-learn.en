@@ -9,7 +9,6 @@ duration: 75
 last-substantial-update: 2026-04-07
 jira: KT-20784
 ---
-
 # AI Assistant for Email Designer
 
 Use AI Assistant in the Marketo Engage Email Designer to help you create contemporary, performant, and intuitive emails.
