@@ -145,5 +145,6 @@ auto-video-transcripts: true
   + [Simplify duplicate management](/help/main/managing-duplicates/simplify-acs.md)
   + [Choose the best strategy for managing duplicates](/help/main/managing-duplicates/duplicate-strategy.md)
 + Shorts {#shorts}
-    + [AI Assistant for Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
+    + [AI Assistant for email designer](/help/main/shorts/ai-assistant-email-designer.md)
+    + [Conditional content](/help/main/shorts/conditional-content.md)
   
