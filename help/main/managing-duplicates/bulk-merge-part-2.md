@@ -7,7 +7,6 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10
 jira: KT-16744
-hidefromtoc: true
 exl-id: 7ddfcf32-38ed-450b-8810-3fe57296193c
 ---
 # Bulk merging duplicates in Marketo Engage - Part 2 - Data cleanup in Excel

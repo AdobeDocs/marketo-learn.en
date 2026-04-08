@@ -4,7 +4,6 @@ description: Following [!DNL Marketo's] suggested best practices for organizing 
 role: User
 level: Beginner
 jira: KT-10736
-hidefromtoc: yes
 hide: yes
 thumbnail: 345420.jpeg
 exl-id: c128913a-a4f7-4f45-ab62-3ced27f068d5

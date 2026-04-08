@@ -7,7 +7,6 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10
 jira: KT-16743
-hidefromtoc: true
 exl-id: ea8dc6bc-bf8a-4857-abb3-1152f7ef934e
 ---
 # Bulk merging duplicates in Marketo Engage - Part 1 - Exporting to Excel
