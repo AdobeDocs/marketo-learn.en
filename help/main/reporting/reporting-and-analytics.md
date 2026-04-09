@@ -10,7 +10,6 @@ thumbnail: 3419295.jpeg
 exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
 hide: yes
-hidefromtoc: yes
 ---
 # Reporting and analytics
 
