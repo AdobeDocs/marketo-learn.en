@@ -19,7 +19,6 @@ auto-video-transcripts: true
   + [Tokens overview](/help/main/fundamentals/tokens-overview.md)
   + [Personalize with tokens](/help/main/personalization/personalize-with-tokens.md)
   + [Programs and campaigns](/help/main/fundamentals/programs-and-campaigns.md)
-  + [Migrating to Adobe Identity Management](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
   + [Best practices to organize a new instance](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
   + [Best practices for creating foundational programs](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
   + [Implement a new instance - Tutorial](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
