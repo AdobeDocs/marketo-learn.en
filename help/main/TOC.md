@@ -146,4 +146,5 @@ auto-video-transcripts: true
 + Shorts {#shorts}
     + [AI Assistant for email designer](/help/main/shorts/ai-assistant-email-designer.md)
     + [Conditional content](/help/main/shorts/conditional-content.md)
+    + [Template import](/help/main/shorts/template-import.md)
   
