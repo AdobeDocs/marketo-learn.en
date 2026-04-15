@@ -25,7 +25,7 @@ _Learn how to import your existing email templates from the classic editor into 
 * [AI Assistant for Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
 _Use AI Assistant in the Marketo Engage Email Designer to help you create contemporary, performant, and intuitive emails._
 
-* [Conditional content](/help/main/shorts/conditional-content)
+* [Conditional content](/help/main/shorts/conditional-content.md)
 _Learn how to dynamically control what content is seen by which audience._
 
 ## Most popular videos {#most-popular-videos}
