@@ -19,14 +19,14 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 
 ## What's new {#whats-new}
 
-* [AI Assistant for Email Designer](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* [Template import](/help/main/shorts/template-import.md)
+_Learn how to import your existing email templates from the classic editor into the Email Designer, preserving your designs and accelerating template creation.._
+
+* [AI Assistant for Email Designer](/help/main/shorts/ai-assistant-email-designer.md)
 _Use AI Assistant in the Marketo Engage Email Designer to help you create contemporary, performant, and intuitive emails._
 
-* [Conditional content](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [Conditional content](/help/main/shorts/conditional-content)
 _Learn how to dynamically control what content is seen by which audience._
-
-* [Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
-_Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat._
 
 ## Most popular videos {#most-popular-videos}
 
