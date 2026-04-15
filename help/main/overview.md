@@ -19,14 +19,14 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 
 ## What's new {#whats-new}
 
+* [AI Assistant for Email Designer](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+_Use AI Assistant in the Marketo Engage Email Designer to help you create contemporary, performant, and intuitive emails._
+
+* [Conditional content](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+_Learn how to dynamically control what content is seen by which audience._
+
 * [Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
 _Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat._
-
-* [Interactive Webinars Overview](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-_Learn all about Interactive Webinars, the built-in webinar platform inside Marketo Engage._
-
-* [Migrating to Adobe Identity Management](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-_Learn to navigate the Adobe Identity Management migration so you can start managing Adobe Marketo Engage along with other Adobe accounts and products for your users in a central location._
 
 ## Most popular videos {#most-popular-videos}
 
