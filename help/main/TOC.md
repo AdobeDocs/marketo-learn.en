@@ -9,6 +9,7 @@ auto-video-transcripts: true
 
 + [[!DNL Marketo Engage] Tutorials](/help/main/overview.md)
 + Fundamentals {#fundamentals}
+  + [Marketo Engage on Adobe Experience Cloud](/help/main/fundamentals/marketo-engage-aec.md)
   + [Goals and strategy](/help/main/fundamentals/goals-and-strategy-learn.md)
   + [Organizational structure](/help/main/fundamentals/organizational-structure-learn.md)
   + [Content marketing](/help/main/fundamentals/content-marketing-learn.md)
