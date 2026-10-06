@@ -46,6 +46,7 @@ auto-video-transcripts: true
     + [Engagement map nested campaigns](/help/main/engagement-maps/engagement-map-nested-campaign.md)
     + [Engagement map error detection and resolution](/help/main/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + Email marketing {#email-marketing}
+  + [Email Designer Overview](/help/main/email-marketing/email-designer-overview.md)
   + [Scheduled email](/help/main/email-marketing/scheduled-email-learn.md)
   + [Scheduled email walk-through](/help/main/email-marketing/scheduled-email-watch.md)
   + [Personalized newsletter](/help/main/email-marketing/personalized-newsletter-learn.md)
