@@ -19,14 +19,14 @@ Browse our tutorial library and get the most out of [!DNL Marketo Engage]. These
 
 ## What's new {#whats-new}
 
+* [Email Designer Overview](/help/main/email-marketing/email-designer-overview.md)
+_Learn about the many features available in the Marketo Engage Email Designer._
+
 * [Marketo Engage on Adobe Experience Cloud](/help/main/fundamentals/marketo-engage-aec.md) 
 _Learn how to access Marketo Engage from Adobe Experience Cloud and take a quick tour of the interface._
 
 * [Template import](/help/main/shorts/template-import.md)
 _Learn how to import your existing email templates from the classic editor into the Email Designer, preserving your designs and accelerating template creation.._
-
-* [Conditional content](/help/main/shorts/conditional-content.md)
-_Learn how to dynamically control what content is seen by which audience._
 
 ## Most popular videos {#most-popular-videos}
 
