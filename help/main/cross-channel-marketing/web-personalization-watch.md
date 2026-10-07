@@ -7,6 +7,18 @@ jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
 feature: Web Personalization
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # How to engage visitors with web personalization
 

@@ -4,13 +4,25 @@ description: Learn about the key reports within Marketo Engage and how to pull t
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-06
+last-substantial-update: 2023-09-06T00:00:00.000Z
 jira: KT-13261
 thumbnail: 3420138.jpeg
 hide: false
 hidefromtoc: false
 exl-id: c2973736-d4dc-492f-8815-9bc93dc5a870
 feature: Reporting
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Key Reports within Marketo Engage
 

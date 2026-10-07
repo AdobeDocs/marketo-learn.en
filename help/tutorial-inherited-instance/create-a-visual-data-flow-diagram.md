@@ -10,7 +10,7 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -25,6 +25,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance

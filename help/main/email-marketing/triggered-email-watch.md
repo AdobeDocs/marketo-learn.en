@@ -7,6 +7,18 @@ jira: KT-10763
 thumbnail: 345480.jpeg
 exl-id: 0fc3cc78-080c-4d55-a2e5-d07b8fa8305b
 feature: Smart Campaigns
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Create triggered email campaigns
 

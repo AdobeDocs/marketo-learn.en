@@ -7,6 +7,18 @@ jira: KT-10767
 thumbnail: 345484.jpeg
 exl-id: 06d37d77-4785-474d-b750-0aa1d82e1cd5
 feature: A/B Testing
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Create an A/B test
 

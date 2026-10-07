@@ -4,11 +4,23 @@ description: Learn how to organize your navigation tree in Marketing Activities 
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-11
+last-substantial-update: 2023-07-11T00:00:00.000Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
 exl-id: baded0c2-3bb0-4361-a7f3-a99a65784829
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Best practices to organize a new [!DNL Marketo Engage] instance
 
