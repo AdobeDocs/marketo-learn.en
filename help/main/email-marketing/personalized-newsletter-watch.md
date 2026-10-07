@@ -1,5 +1,5 @@
 ---
-title: Create a personalized newsletter 
+title: Create a personalized newsletter
 description: Learn how to create a personalized newsletter email program in Marketo.
 role: User
 level: Beginner
@@ -7,6 +7,21 @@ jira: KT-10752
 thumbnail: 345470.jpeg
 exl-id: 7cd6e9a4-49cf-44f8-9909-bf9bbedfdbeb
 feature: Email Programs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # How to create a personalized newsletter 
 

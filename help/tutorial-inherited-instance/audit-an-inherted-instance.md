@@ -11,7 +11,7 @@ jira: KT-13762
 thumbnail: 3422473.jpeg
 index: true
 exl-id: 55ce292c-a711-4584-aa21-f57a624d7594
-TQID: https://experienceleague.adobe.com/Ew-r8j5sr6qhw-NsrXJSVB1EgYL4CJzSubi9Rm9wxQs
+TQID: 'https://experienceleague.adobe.com/Ew-r8j5sr6qhw-NsrXJSVB1EgYL4CJzSubi9Rm9wxQs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -36,11 +36,13 @@ feature_v2:
     internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
+  - id: ced46716-1611-5972-ad23-93d0944e2543
+    internal-label: Marketing
 subfeature_v2:
   - id: cfb57412-021b-4a60-afde-b402d442e24f
     internal-label: Marketing activities
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-    internal-label: Smart Lists
+    internal-label: Smart lists
   - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
     internal-label: Global Assets
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9

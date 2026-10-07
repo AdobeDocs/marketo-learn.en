@@ -4,11 +4,23 @@ description: Understand the four program types, how to import programs,  lead / 
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-11
+last-substantial-update: 2023-07-11T00:00:00.000Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Best practices for creating foundational programs
 

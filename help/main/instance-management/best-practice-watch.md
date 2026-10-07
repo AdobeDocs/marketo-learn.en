@@ -7,6 +7,15 @@ jira: KT-10737
 hide: true
 thumbnail: 345421.jpeg
 exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # How to use [!DNL Marketo] instance and program best practices
 

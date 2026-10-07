@@ -7,6 +7,18 @@ jira: KT-10766
 thumbnail: 345483.jpeg
 exl-id: 94527801-50cc-4eb0-b75e-7db6911c38aa
 feature: A/B Testing
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Learn about using A/B testing to improve email performance
 
